@@ -1,0 +1,1001 @@
+user_id,gender,dob,age,country,region,device_type,platform_name,title_id,watch_duration_min,completed,subscription_start,subscription_end,plan_name,monthly_cost_usd,currency,payment_mode,auto_renew,resolution,device_limit,simultaneous_streams,ads_included
+U1001,Other,24-02-1974,51,Austria,New Mexico,TV,"Hotstar,Prime",,63,1,06-08-2024,06-08-2025,Standard,16.11,USD,UPI,TRUE,4K,2,2,TRUE
+U1002,Female,20-12-1981,43,Slovakia (Slovak Republic),Hawaii,Mobile,"Hotstar,Netflix,Prime",,23,1,28-06-2025,28-06-2026,Standard,8.51,USD,UPI,TRUE,SD,1,1,TRUE
+U1003,Male,14-07-1975,50,Netherlands Antilles,Idaho,Laptop,Netflix,,74,1,26-10-2024,26-10-2025,Standard,9.81,INR,Wallet,TRUE,4K,3,3,FALSE
+U1004,Male,08-09-1992,32,Timor-Leste,Maryland,Mobile,"Hotstar,Netflix",,64,0,19-01-2025,19-01-2026,Premium,16.94,USD,Wallet,TRUE,HD,4,4,FALSE
+U1005,Female,03-12-1983,41,South Georgia and the South Sandwich Islands,Oklahoma,Mobile,"Hotstar,Netflix,Prime",,107,0,21-10-2023,20-10-2024,Premium,16.41,INR,Wallet,FALSE,HD,4,3,TRUE
+U1006,Other,21-06-1993,32,Iceland,Tennessee,Laptop,Netflix,,103,1,16-05-2024,16-05-2025,Basic,11.24,USD,Card,FALSE,HD,2,2,TRUE
+U1007,Male,29-12-2001,23,Rwanda,Indiana,TV,Prime,,116,0,03-04-2025,03-04-2026,Standard,19.85,USD,Wallet,FALSE,HD,3,3,TRUE
+U1008,Male,09-08-1970,54,Yemen,New Hampshire,TV,"Hotstar,Netflix,Prime",,24,0,30-11-2023,29-11-2024,Standard,12.13,USD,Wallet,TRUE,SD,2,1,FALSE
+U1009,Female,17-02-1988,37,French Southern Territories,Colorado,Laptop,"Hotstar,Netflix,Prime",,47,0,03-09-2024,03-09-2025,Basic,18.47,INR,Wallet,FALSE,HD,3,2,TRUE
+U1010,Female,28-11-1991,33,Dominican Republic,West Virginia,Mobile,"Hotstar,Netflix,Prime",,72,1,29-09-2023,28-09-2024,Basic,9.03,INR,Card,TRUE,HD,1,1,FALSE
+U1011,Female,07-02-1996,29,Heard Island and McDonald Islands,Missouri,Mobile,"Hotstar,Netflix,Prime",,54,1,17-07-2024,17-07-2025,Basic,11.09,INR,UPI,TRUE,HD,3,1,FALSE
+U1012,Other,17-04-1995,30,Tokelau,South Carolina,Mobile,Prime,,20,1,12-05-2024,12-05-2025,Premium,9.3,INR,UPI,FALSE,SD,3,2,TRUE
+U1013,Male,17-07-1988,36,New Caledonia,Kentucky,Mobile,"Hotstar,Netflix,Prime",,91,0,05-11-2023,04-11-2024,Premium,16.05,USD,Card,FALSE,4K,3,3,FALSE
+U1014,Other,20-10-1972,52,Comoros,Florida,TV,"Hotstar,Netflix",,18,0,04-04-2025,04-04-2026,Standard,11.58,USD,UPI,FALSE,4K,2,1,TRUE
+U1015,Male,05-02-1986,39,Tokelau,Louisiana,TV,"Hotstar,Netflix",,98,0,07-10-2023,06-10-2024,Standard,12.34,INR,Card,TRUE,4K,1,1,TRUE
+U1016,Male,23-07-1985,39,Mayotte,Hawaii,Laptop,"Netflix,Prime",,70,0,21-06-2024,21-06-2025,Standard,7.24,INR,UPI,TRUE,4K,3,2,TRUE
+U1017,Other,08-07-1999,26,Somalia,California,Laptop,Hotstar,,14,0,07-08-2024,07-08-2025,Standard,19.62,USD,Wallet,TRUE,HD,2,2,FALSE
+U1018,Other,06-05-1975,50,Sri Lanka,Michigan,Mobile,"Hotstar,Netflix,Prime",,58,1,18-01-2025,18-01-2026,Standard,5.03,USD,Wallet,TRUE,SD,4,3,FALSE
+U1019,Male,22-01-1983,42,Grenada,Wisconsin,Laptop,"Hotstar,Netflix,Prime",,68,0,12-11-2024,12-11-2025,Basic,14.57,INR,Wallet,FALSE,SD,1,1,FALSE
+U1020,Other,21-11-1983,41,Isle of Man,Georgia,TV,Netflix,,120,1,27-04-2025,27-04-2026,Premium,6.76,USD,Card,TRUE,SD,3,2,TRUE
+U1021,Male,28-07-1990,34,Gibraltar,Indiana,Mobile,Prime,,97,0,29-03-2025,29-03-2026,Basic,19.3,USD,Card,TRUE,4K,4,4,TRUE
+U1022,Male,14-09-1979,45,Russian Federation,Florida,Mobile,"Hotstar,Prime",,80,0,31-03-2024,31-03-2025,Standard,6.64,USD,Card,FALSE,4K,4,1,FALSE
+U1023,Female,16-04-1978,47,Greenland,Maine,TV,"Netflix,Prime",,94,0,12-10-2024,12-10-2025,Standard,10.96,USD,Wallet,TRUE,4K,2,1,FALSE
+U1024,Female,01-05-2005,20,Uruguay,Virginia,TV,"Hotstar,Netflix,Prime",,120,1,15-04-2024,15-04-2025,Standard,8.76,INR,Card,TRUE,HD,2,1,FALSE
+U1025,Male,26-12-2002,22,Central African Republic,Virginia,Laptop,Netflix,,29,0,09-01-2024,08-01-2025,Basic,9.95,USD,Card,FALSE,SD,3,2,FALSE
+U1026,Female,13-10-1997,27,Vanuatu,Idaho,TV,"Hotstar,Prime",,94,1,30-12-2023,29-12-2024,Premium,9.21,USD,Card,TRUE,HD,2,2,FALSE
+U1027,Female,04-01-2002,23,Heard Island and McDonald Islands,Oklahoma,Mobile,Prime,,51,1,22-02-2025,22-02-2026,Basic,18.74,USD,UPI,FALSE,4K,4,2,TRUE
+U1028,Other,22-07-2005,19,Angola,North Carolina,Laptop,"Hotstar,Netflix,Prime",,23,0,15-03-2025,15-03-2026,Premium,17.97,INR,UPI,FALSE,4K,3,2,FALSE
+U1029,Female,29-05-1968,57,El Salvador,Alabama,Laptop,"Hotstar,Netflix,Prime",,32,0,24-09-2024,24-09-2025,Basic,5.1,USD,UPI,FALSE,4K,2,2,TRUE
+U1030,Female,09-07-1977,48,Israel,Ohio,Mobile,"Hotstar,Prime",,30,0,16-03-2025,16-03-2026,Standard,8.7,USD,Wallet,TRUE,4K,2,2,FALSE
+U1031,Female,20-05-1992,33,Rwanda,Mississippi,TV,Prime,,18,0,09-06-2025,09-06-2026,Basic,11.28,USD,Card,TRUE,4K,4,3,TRUE
+U1032,Other,15-10-1993,31,Northern Mariana Islands,Florida,TV,"Netflix,Prime",,19,0,28-01-2025,28-01-2026,Premium,11.44,USD,Card,FALSE,HD,2,1,FALSE
+U1033,Female,06-12-1969,55,Togo,Wisconsin,Laptop,"Hotstar,Netflix,Prime",,54,1,03-03-2024,03-03-2025,Premium,16.95,INR,UPI,TRUE,4K,2,1,TRUE
+U1034,Other,02-07-1997,28,Chad,Arizona,Laptop,Netflix,,79,0,28-11-2024,28-11-2025,Basic,19.86,USD,Wallet,TRUE,4K,1,1,FALSE
+U1035,Other,09-09-1988,36,Dominica,North Carolina,TV,"Hotstar,Prime",,113,0,16-10-2024,16-10-2025,Premium,7.57,USD,UPI,FALSE,SD,3,3,TRUE
+U1036,Male,05-09-1985,39,Pakistan,Minnesota,Mobile,Hotstar,,53,0,07-06-2024,07-06-2025,Basic,7.1,USD,Wallet,TRUE,4K,2,2,FALSE
+U1037,Male,21-02-1999,26,Kyrgyz Republic,Pennsylvania,TV,"Hotstar,Netflix,Prime",,59,1,08-09-2023,07-09-2024,Premium,12.64,USD,Wallet,FALSE,HD,3,2,FALSE
+U1038,Female,23-07-1976,48,Heard Island and McDonald Islands,Utah,Laptop,Netflix,,48,1,29-11-2023,28-11-2024,Standard,14.14,USD,Card,TRUE,4K,4,3,FALSE
+U1039,Other,03-10-1992,32,Belize,Alabama,TV,Hotstar,,47,0,10-10-2023,09-10-2024,Standard,11.71,USD,UPI,TRUE,4K,3,2,FALSE
+U1040,Female,23-08-1980,44,Trinidad and Tobago,Michigan,TV,"Hotstar,Netflix,Prime",,9,0,24-01-2025,24-01-2026,Premium,19.15,USD,Wallet,FALSE,HD,4,2,TRUE
+U1041,Other,20-04-1994,31,Eritrea,Oregon,Laptop,"Hotstar,Netflix",,76,0,29-08-2023,28-08-2024,Basic,9.09,INR,Wallet,FALSE,HD,2,2,FALSE
+U1042,Female,15-09-1965,59,Rwanda,Maryland,Laptop,"Netflix,Prime",,51,0,27-11-2023,26-11-2024,Premium,6.98,INR,UPI,FALSE,4K,3,3,TRUE
+U1043,Other,26-07-1984,40,Tajikistan,Indiana,Mobile,"Hotstar,Netflix,Prime",,83,0,04-11-2023,03-11-2024,Basic,14.9,USD,Wallet,FALSE,4K,3,2,FALSE
+U1044,Female,14-01-1998,27,Palau,Connecticut,Laptop,"Hotstar,Netflix",,107,1,10-04-2024,10-04-2025,Standard,12.89,USD,Wallet,TRUE,4K,2,2,TRUE
+U1045,Male,14-01-1993,32,Tajikistan,Rhode Island,TV,"Hotstar,Netflix,Prime",,57,0,03-02-2025,03-02-2026,Basic,12.61,USD,Card,FALSE,SD,4,4,FALSE
+U1046,Female,20-09-1966,58,Congo,Rhode Island,TV,"Hotstar,Prime",,117,1,18-06-2025,18-06-2026,Premium,15.16,USD,Card,TRUE,4K,1,1,TRUE
+U1047,Other,06-10-2004,20,Peru,Rhode Island,TV,Hotstar,,58,1,23-07-2023,22-07-2024,Basic,16.24,INR,UPI,TRUE,HD,2,2,FALSE
+U1048,Female,22-08-1970,54,Antarctica (the territory South of 60 deg S),North Dakota,Mobile,"Hotstar,Prime",,52,0,07-05-2025,07-05-2026,Standard,9.57,INR,UPI,TRUE,SD,1,1,FALSE
+U1049,Male,09-12-1968,56,Cook Islands,Tennessee,TV,"Hotstar,Netflix,Prime",,72,1,12-12-2024,12-12-2025,Standard,15.55,INR,Card,FALSE,SD,3,3,TRUE
+U1050,Other,02-06-1988,37,Lebanon,Iowa,Mobile,"Hotstar,Prime",,78,1,30-06-2024,30-06-2025,Premium,5.35,USD,Card,FALSE,HD,1,1,TRUE
+U1051,Other,15-02-1967,58,Cape Verde,Kansas,Mobile,Hotstar,,119,0,14-08-2024,14-08-2025,Basic,17.29,INR,Card,TRUE,HD,1,1,TRUE
+U1052,Other,28-12-1979,45,Ghana,Vermont,Mobile,"Hotstar,Prime",,31,1,24-07-2024,24-07-2025,Standard,18.08,INR,Card,FALSE,4K,1,1,FALSE
+U1053,Male,16-06-1983,42,Maldives,Mississippi,Laptop,"Hotstar,Netflix,Prime",,112,1,09-09-2023,08-09-2024,Standard,13.95,USD,Wallet,FALSE,SD,2,1,TRUE
+U1054,Male,20-07-1997,27,Slovakia (Slovak Republic),Louisiana,Mobile,"Hotstar,Netflix,Prime",,108,1,25-10-2024,25-10-2025,Basic,17.25,INR,UPI,FALSE,4K,4,1,TRUE
+U1055,Female,08-03-2004,21,Japan,Kansas,Mobile,Hotstar,,55,1,28-09-2023,27-09-2024,Premium,12.23,INR,Wallet,TRUE,SD,4,4,TRUE
+U1056,Female,04-02-1978,47,Ecuador,Illinois,TV,"Hotstar,Prime",,45,0,16-01-2025,16-01-2026,Premium,9.79,INR,UPI,FALSE,4K,4,3,FALSE
+U1057,Male,22-04-1976,49,Kenya,North Dakota,TV,"Hotstar,Netflix,Prime",,11,1,09-02-2025,09-02-2026,Standard,6.08,INR,UPI,TRUE,HD,1,1,FALSE
+U1058,Male,16-06-1992,33,Georgia,Florida,TV,"Netflix,Prime",,98,0,15-08-2024,15-08-2025,Standard,10.5,USD,Card,TRUE,4K,2,1,FALSE
+U1059,Female,17-04-1987,38,Congo,Mississippi,Laptop,"Netflix,Prime",,22,0,11-03-2024,11-03-2025,Standard,16.09,USD,Wallet,FALSE,HD,4,3,FALSE
+U1060,Other,17-05-1991,34,New Zealand,Rhode Island,Mobile,Hotstar,,79,1,07-01-2024,06-01-2025,Standard,19.58,USD,Wallet,FALSE,HD,1,1,TRUE
+U1061,Female,20-08-2006,18,Canada,New Hampshire,Mobile,"Hotstar,Netflix,Prime",,14,1,06-05-2024,06-05-2025,Basic,15.7,USD,Card,FALSE,4K,2,1,TRUE
+U1062,Female,19-09-1972,52,Equatorial Guinea,Michigan,Mobile,"Hotstar,Netflix,Prime",,107,1,02-03-2025,02-03-2026,Standard,12.93,INR,Card,FALSE,HD,3,3,TRUE
+U1063,Male,26-05-1982,43,Korea,Tennessee,TV,"Hotstar,Netflix,Prime",,37,1,06-04-2024,06-04-2025,Basic,5.46,INR,Card,FALSE,SD,4,2,TRUE
+U1064,Other,24-10-1971,53,Antarctica (the territory South of 60 deg S),Hawaii,Mobile,"Hotstar,Netflix",,71,0,25-06-2025,25-06-2026,Premium,15.38,USD,Wallet,TRUE,SD,3,1,FALSE
+U1065,Other,07-12-1975,49,Palau,Idaho,Mobile,"Netflix,Prime",,26,0,05-08-2023,04-08-2024,Basic,11.6,USD,Card,FALSE,SD,1,1,TRUE
+U1066,Male,24-12-1977,47,Burkina Faso,Oklahoma,Mobile,"Netflix,Prime",,87,0,26-11-2023,25-11-2024,Standard,17.05,USD,UPI,FALSE,HD,4,3,FALSE
+U1067,Other,18-10-1973,51,Uzbekistan,Virginia,Laptop,"Hotstar,Prime",,88,1,29-07-2023,28-07-2024,Basic,16.74,USD,UPI,TRUE,HD,3,3,FALSE
+U1068,Female,28-10-1975,49,Gibraltar,West Virginia,Laptop,Prime,,71,1,15-09-2024,15-09-2025,Premium,14.03,USD,UPI,TRUE,HD,3,2,FALSE
+U1069,Male,11-11-1971,53,Albania,Louisiana,Laptop,"Hotstar,Prime",,81,1,12-09-2023,11-09-2024,Basic,5.03,INR,Wallet,FALSE,SD,2,1,FALSE
+U1070,Female,04-07-2007,18,Georgia,South Dakota,Mobile,"Hotstar,Netflix,Prime",,63,0,24-06-2025,24-06-2026,Basic,12.4,INR,UPI,FALSE,4K,4,2,TRUE
+U1071,Other,10-10-1998,26,Djibouti,Virginia,TV,Prime,,46,0,15-12-2024,15-12-2025,Standard,6.23,INR,Card,FALSE,SD,2,1,TRUE
+U1072,Male,05-09-1978,46,Antarctica (the territory South of 60 deg S),Hawaii,Laptop,"Hotstar,Netflix,Prime",,36,0,14-07-2024,14-07-2025,Standard,9.27,USD,UPI,TRUE,SD,2,2,TRUE
+U1073,Other,27-02-1970,55,Tanzania,New York,Laptop,"Hotstar,Prime",,108,1,08-09-2023,07-09-2024,Standard,5.44,INR,Card,TRUE,HD,3,1,TRUE
+U1074,Female,11-01-1982,43,British Indian Ocean Territory (Chagos Archipelago),South Carolina,Laptop,Hotstar,,13,1,17-09-2024,17-09-2025,Standard,18.17,INR,Wallet,TRUE,HD,3,2,FALSE
+U1075,Other,20-01-1982,43,Liechtenstein,Vermont,Laptop,"Hotstar,Netflix,Prime",,27,1,22-07-2023,21-07-2024,Basic,5.3,INR,UPI,TRUE,HD,1,1,TRUE
+U1076,Male,16-04-1987,38,Timor-Leste,New Mexico,Laptop,"Hotstar,Netflix",,53,0,23-09-2024,23-09-2025,Premium,8,INR,UPI,TRUE,4K,3,2,TRUE
+U1077,Female,13-04-1974,51,Lesotho,Alabama,Laptop,Hotstar,,61,0,26-11-2023,25-11-2024,Standard,11.13,INR,UPI,TRUE,SD,2,2,FALSE
+U1078,Female,16-02-1994,31,Liberia,New Hampshire,TV,Prime,,91,0,27-09-2024,27-09-2025,Premium,18.25,USD,Card,FALSE,HD,4,2,FALSE
+U1079,Female,25-09-1992,32,Luxembourg,Vermont,TV,"Hotstar,Prime",,69,0,24-08-2024,24-08-2025,Basic,5.9,INR,UPI,FALSE,4K,3,3,TRUE
+U1080,Other,13-01-1990,35,Bahamas,Indiana,Mobile,"Hotstar,Netflix,Prime",,92,0,05-09-2023,04-09-2024,Standard,17.12,USD,Wallet,TRUE,HD,2,1,TRUE
+U1081,Female,08-09-1984,40,Antigua and Barbuda,Montana,TV,"Hotstar,Netflix",,22,1,19-09-2023,18-09-2024,Premium,10.81,USD,Wallet,TRUE,4K,4,3,FALSE
+U1082,Other,31-03-1995,30,Eritrea,Idaho,Mobile,"Hotstar,Netflix,Prime",,6,1,17-07-2023,16-07-2024,Premium,17.88,USD,UPI,FALSE,4K,4,4,FALSE
+U1083,Other,21-04-2006,19,Bangladesh,Texas,Laptop,"Hotstar,Prime",,67,1,15-10-2023,14-10-2024,Standard,9.17,USD,Wallet,FALSE,4K,1,1,FALSE
+U1084,Male,23-01-1994,31,Macedonia,Alaska,Laptop,Prime,,35,0,29-06-2025,29-06-2026,Basic,5.26,USD,UPI,FALSE,HD,2,1,TRUE
+U1085,Female,06-12-2001,23,Mali,Rhode Island,Laptop,"Hotstar,Netflix,Prime",,14,1,03-12-2023,02-12-2024,Standard,15.51,USD,UPI,FALSE,SD,4,2,TRUE
+U1086,Male,07-01-1967,58,Pitcairn Islands,Mississippi,Mobile,"Hotstar,Netflix",,39,0,29-03-2024,29-03-2025,Premium,15.7,INR,Wallet,TRUE,HD,3,1,FALSE
+U1087,Male,04-12-1993,31,Holy See (Vatican City State),Colorado,TV,Netflix,,43,1,04-09-2024,04-09-2025,Basic,18.94,INR,UPI,TRUE,SD,4,1,TRUE
+U1088,Male,06-01-1970,55,Vietnam,New Hampshire,TV,"Netflix,Prime",,120,1,27-10-2024,27-10-2025,Standard,17.05,INR,UPI,FALSE,HD,3,2,FALSE
+U1089,Other,17-03-2007,18,Tonga,Missouri,Mobile,"Hotstar,Netflix,Prime",,96,1,07-12-2024,07-12-2025,Standard,10.22,USD,Card,FALSE,4K,2,2,FALSE
+U1090,Male,02-03-1995,30,Luxembourg,Tennessee,TV,"Netflix,Prime",,41,0,07-05-2025,07-05-2026,Basic,13.92,USD,UPI,TRUE,HD,2,1,FALSE
+U1091,Male,24-06-2003,22,Cook Islands,Utah,Laptop,Hotstar,,46,0,05-08-2024,05-08-2025,Premium,14.46,INR,Wallet,FALSE,SD,4,1,TRUE
+U1092,Other,12-04-1994,31,Venezuela,Arizona,Laptop,"Hotstar,Netflix,Prime",,74,1,10-01-2025,10-01-2026,Standard,9.77,INR,Wallet,TRUE,4K,4,2,FALSE
+U1093,Other,25-06-1972,53,Zimbabwe,Rhode Island,Mobile,"Hotstar,Netflix,Prime",,99,1,02-11-2023,01-11-2024,Basic,10.83,USD,Card,FALSE,HD,3,2,FALSE
+U1094,Other,11-12-1981,43,Honduras,Vermont,Laptop,Hotstar,,23,0,21-08-2023,20-08-2024,Standard,9.63,USD,Wallet,TRUE,4K,1,1,FALSE
+U1095,Female,08-01-1970,55,Jamaica,Wyoming,Mobile,Prime,,112,1,09-05-2024,09-05-2025,Standard,9.95,USD,UPI,TRUE,SD,1,1,TRUE
+U1096,Male,11-12-1965,59,Bermuda,Colorado,Laptop,"Hotstar,Netflix,Prime",,106,1,03-06-2024,03-06-2025,Premium,15.65,INR,Wallet,FALSE,4K,1,1,FALSE
+U1097,Other,06-07-1991,34,Spain,Illinois,TV,"Hotstar,Netflix,Prime",,61,0,02-04-2025,02-04-2026,Premium,19.51,USD,Card,TRUE,HD,1,1,TRUE
+U1098,Other,04-10-1966,58,Reunion,Connecticut,TV,Prime,,48,0,26-04-2024,26-04-2025,Premium,5.83,INR,UPI,TRUE,SD,1,1,FALSE
+U1099,Other,27-01-1995,30,Saint Pierre and Miquelon,Virginia,Mobile,"Hotstar,Netflix,Prime",,55,1,14-02-2025,14-02-2026,Basic,5.77,INR,UPI,TRUE,SD,1,1,TRUE
+U1100,Other,18-10-1992,32,Thailand,Alabama,Mobile,"Hotstar,Prime",,13,1,01-11-2023,31-10-2024,Basic,12.25,INR,UPI,FALSE,SD,2,2,FALSE
+U1101,Male,29-04-1998,27,Papua New Guinea,Kansas,TV,"Hotstar,Netflix",,117,0,19-02-2025,19-02-2026,Basic,8.77,USD,UPI,TRUE,SD,4,4,TRUE
+U1102,Female,25-08-1990,34,Nauru,Hawaii,Laptop,"Netflix,Prime",,93,0,17-08-2024,17-08-2025,Premium,11.66,USD,UPI,TRUE,SD,1,1,FALSE
+U1103,Male,01-08-1964,60,Poland,Arkansas,Mobile,Hotstar,,72,1,21-04-2025,21-04-2026,Basic,10.03,INR,Card,FALSE,HD,2,1,TRUE
+U1104,Male,14-04-2005,20,Taiwan,Rhode Island,TV,"Hotstar,Netflix",,49,1,08-08-2023,07-08-2024,Basic,9.99,INR,UPI,TRUE,HD,1,1,FALSE
+U1105,Other,26-10-1978,46,Guam,Alabama,TV,"Hotstar,Netflix,Prime",,106,1,21-10-2023,20-10-2024,Basic,15.61,USD,Wallet,FALSE,4K,2,2,FALSE
+U1106,Other,16-01-2001,24,Gibraltar,Alaska,Mobile,Hotstar,,108,1,13-07-2024,13-07-2025,Basic,11.01,USD,Card,FALSE,HD,3,1,FALSE
+U1107,Other,17-04-1995,30,French Southern Territories,Connecticut,Mobile,Prime,,30,0,08-04-2024,08-04-2025,Premium,15.48,INR,Card,FALSE,HD,1,1,FALSE
+U1108,Other,03-04-1995,30,Tunisia,Kansas,Laptop,Hotstar,,10,1,06-06-2025,06-06-2026,Standard,15.61,USD,Wallet,FALSE,4K,2,2,TRUE
+U1109,Female,03-11-1989,35,New Zealand,Illinois,TV,Prime,,44,1,06-01-2025,06-01-2026,Standard,15.22,USD,UPI,TRUE,SD,3,2,FALSE
+U1110,Male,19-02-1980,45,Sri Lanka,Alaska,Laptop,"Hotstar,Netflix,Prime",,92,1,12-02-2025,12-02-2026,Premium,13.34,USD,Wallet,FALSE,SD,2,1,FALSE
+U1111,Female,28-01-1979,46,Wallis and Futuna,Hawaii,TV,"Hotstar,Prime",,92,1,21-04-2024,21-04-2025,Standard,10.34,USD,Card,FALSE,SD,4,1,FALSE
+U1112,Female,20-01-1990,35,Uzbekistan,Connecticut,Mobile,"Hotstar,Netflix",,34,1,22-06-2024,22-06-2025,Standard,19.99,USD,UPI,FALSE,SD,4,3,FALSE
+U1113,Female,10-12-1977,47,Bhutan,Washington,TV,"Hotstar,Prime",,85,0,11-07-2023,10-07-2024,Basic,6.74,INR,Wallet,TRUE,HD,4,2,TRUE
+U1114,Other,08-08-1964,60,Myanmar,Ohio,Mobile,Netflix,,37,1,02-08-2023,01-08-2024,Premium,19.81,INR,UPI,TRUE,HD,2,1,TRUE
+U1115,Female,29-05-1985,40,New Caledonia,Wisconsin,Mobile,"Hotstar,Prime",,41,1,07-05-2025,07-05-2026,Basic,15.3,USD,Wallet,TRUE,4K,4,4,FALSE
+U1116,Other,17-07-1978,47,Cuba,Oregon,TV,"Hotstar,Netflix,Prime",,78,0,20-01-2024,19-01-2025,Basic,13.42,USD,UPI,FALSE,SD,1,1,TRUE
+U1117,Male,26-07-2002,22,Uganda,Idaho,Mobile,"Hotstar,Netflix,Prime",,103,0,12-07-2023,11-07-2024,Basic,5.45,USD,Wallet,TRUE,4K,4,4,TRUE
+U1118,Female,17-10-1999,25,San Marino,Nevada,Mobile,"Hotstar,Netflix,Prime",,21,1,04-08-2023,03-08-2024,Premium,12.79,INR,Wallet,TRUE,4K,1,1,FALSE
+U1119,Female,14-06-1970,55,Estonia,New York,Mobile,"Hotstar,Netflix",,13,0,04-11-2023,03-11-2024,Premium,7.08,USD,Wallet,FALSE,SD,1,1,TRUE
+U1120,Male,28-06-1975,50,Isle of Man,Washington,Mobile,"Hotstar,Netflix",,92,1,14-11-2024,14-11-2025,Premium,18.11,INR,Card,FALSE,SD,3,3,FALSE
+U1121,Other,04-11-1990,34,Central African Republic,Florida,Mobile,Netflix,,43,1,18-06-2024,18-06-2025,Premium,16.39,INR,Wallet,TRUE,SD,4,2,FALSE
+U1122,Other,01-08-1975,49,Suriname,Connecticut,Mobile,"Hotstar,Prime",,53,1,01-09-2024,01-09-2025,Standard,9.85,USD,UPI,FALSE,SD,3,1,TRUE
+U1123,Male,05-03-1974,51,Sweden,Illinois,TV,"Hotstar,Prime",,26,1,20-02-2025,20-02-2026,Basic,13.97,USD,Wallet,FALSE,HD,3,2,FALSE
+U1124,Male,14-04-1988,37,Indonesia,Vermont,TV,Hotstar,,6,1,29-02-2024,28-02-2025,Standard,17.33,USD,Wallet,FALSE,HD,4,1,TRUE
+U1125,Other,17-10-1981,43,Turkmenistan,Florida,TV,Hotstar,,45,1,15-08-2023,14-08-2024,Basic,10.41,INR,UPI,FALSE,SD,1,1,TRUE
+U1126,Other,19-05-1987,38,Ecuador,Oklahoma,Mobile,Hotstar,,72,1,19-04-2024,19-04-2025,Basic,19.56,INR,UPI,TRUE,4K,2,2,FALSE
+U1127,Male,26-11-1981,43,Mongolia,New Mexico,Laptop,"Hotstar,Netflix,Prime",,94,0,02-05-2024,02-05-2025,Basic,10.73,USD,Card,TRUE,SD,3,3,TRUE
+U1128,Male,12-05-2004,21,French Guiana,Utah,Mobile,"Hotstar,Netflix,Prime",,56,1,11-04-2025,11-04-2026,Basic,19.25,INR,UPI,FALSE,4K,1,1,FALSE
+U1129,Female,19-05-1988,37,Kazakhstan,Tennessee,Mobile,Hotstar,,80,0,20-05-2024,20-05-2025,Standard,16.21,USD,UPI,TRUE,HD,1,1,FALSE
+U1130,Other,16-06-1972,53,New Zealand,Indiana,Mobile,"Hotstar,Netflix,Prime",,88,1,12-03-2024,12-03-2025,Basic,16.94,USD,UPI,FALSE,SD,3,1,FALSE
+U1131,Other,18-06-1994,31,Macao,Oregon,Laptop,"Hotstar,Netflix,Prime",,84,0,02-04-2025,02-04-2026,Premium,13.68,INR,Card,FALSE,SD,3,3,TRUE
+U1132,Other,08-02-1983,42,India,New Hampshire,Laptop,"Netflix,Prime",,83,0,10-01-2024,09-01-2025,Standard,11.68,INR,Card,TRUE,4K,3,2,TRUE
+U1133,Other,02-03-1997,28,United States of America,Pennsylvania,Mobile,"Hotstar,Netflix,Prime",,6,0,28-10-2024,28-10-2025,Basic,7.96,INR,Wallet,TRUE,4K,4,3,FALSE
+U1134,Male,27-06-2001,24,Ukraine,North Carolina,Laptop,"Hotstar,Netflix,Prime",,92,1,09-11-2024,09-11-2025,Premium,14.62,INR,Wallet,TRUE,HD,1,1,FALSE
+U1135,Male,01-11-1971,53,Barbados,Maryland,Mobile,"Netflix,Prime",,18,1,16-03-2024,16-03-2025,Standard,18.27,USD,UPI,TRUE,4K,3,3,FALSE
+U1136,Female,20-06-1991,34,Czech Republic,Kansas,Laptop,Hotstar,,52,1,25-02-2024,24-02-2025,Basic,12.94,USD,Wallet,FALSE,4K,3,3,TRUE
+U1137,Female,03-05-2001,24,Macao,Ohio,Mobile,Prime,,22,1,16-04-2024,16-04-2025,Premium,6.69,USD,UPI,TRUE,HD,3,1,FALSE
+U1138,Female,07-12-1990,34,Kyrgyz Republic,Hawaii,TV,"Hotstar,Prime",,28,0,01-05-2025,01-05-2026,Standard,18.91,INR,Card,FALSE,HD,4,3,FALSE
+U1139,Other,05-12-1986,38,Turks and Caicos Islands,Nevada,Mobile,"Hotstar,Netflix,Prime",,57,1,21-07-2024,21-07-2025,Standard,11.63,INR,Card,FALSE,SD,2,2,FALSE
+U1140,Other,10-07-1978,47,Faroe Islands,Vermont,Laptop,"Hotstar,Netflix,Prime",,12,1,13-12-2024,13-12-2025,Premium,11.87,INR,Card,FALSE,HD,1,1,TRUE
+U1141,Male,13-02-1990,35,Belize,Arkansas,TV,"Hotstar,Netflix",,109,0,03-02-2025,03-02-2026,Basic,9.74,INR,UPI,TRUE,HD,3,3,FALSE
+U1142,Male,15-11-1964,60,Vietnam,Louisiana,TV,Netflix,,118,1,24-01-2024,23-01-2025,Premium,12.69,INR,Wallet,TRUE,4K,4,4,FALSE
+U1143,Female,13-07-1980,45,Greece,West Virginia,Mobile,Netflix,,87,1,24-01-2025,24-01-2026,Premium,10.85,USD,UPI,FALSE,SD,1,1,TRUE
+U1144,Male,24-11-2004,20,Tuvalu,California,Laptop,Prime,,80,1,30-04-2024,30-04-2025,Premium,14.31,INR,UPI,FALSE,HD,2,2,TRUE
+U1145,Female,22-06-2004,21,Oman,Mississippi,Mobile,"Netflix,Prime",,112,0,30-05-2025,30-05-2026,Basic,13.49,USD,UPI,TRUE,SD,4,1,FALSE
+U1146,Other,16-02-1976,49,Andorra,Rhode Island,TV,"Hotstar,Netflix,Prime",,81,1,08-02-2024,07-02-2025,Basic,8.51,INR,Card,FALSE,4K,2,1,TRUE
+U1147,Male,13-04-1997,28,Japan,Vermont,Laptop,Hotstar,,21,0,09-11-2024,09-11-2025,Premium,15,USD,UPI,TRUE,HD,3,1,FALSE
+U1148,Female,06-11-1980,44,Nepal,Iowa,Mobile,Prime,,105,1,07-06-2024,07-06-2025,Basic,17.52,USD,Wallet,TRUE,SD,4,1,FALSE
+U1149,Male,04-08-1979,45,Rwanda,Georgia,Laptop,"Netflix,Prime",,76,1,26-10-2023,25-10-2024,Premium,5.58,INR,UPI,TRUE,4K,2,2,FALSE
+U1150,Other,16-03-1988,37,United States Virgin Islands,Arizona,Mobile,"Netflix,Prime",,69,0,09-02-2025,09-02-2026,Standard,10.61,INR,Card,FALSE,HD,1,1,TRUE
+U1151,Male,04-12-1994,30,Micronesia,Rhode Island,Mobile,"Hotstar,Netflix",,66,0,22-03-2024,22-03-2025,Premium,10.32,INR,Card,FALSE,HD,3,1,FALSE
+U1152,Male,31-05-1971,54,Puerto Rico,Maryland,Mobile,"Hotstar,Prime",,101,1,05-10-2024,05-10-2025,Basic,10.11,USD,Wallet,FALSE,SD,4,1,TRUE
+U1153,Other,21-01-1966,59,Mali,Arizona,Laptop,Hotstar,,90,1,18-12-2023,17-12-2024,Premium,10.54,USD,UPI,TRUE,4K,4,4,TRUE
+U1154,Female,13-01-1988,37,Honduras,Hawaii,Laptop,"Hotstar,Netflix,Prime",,100,0,10-05-2024,10-05-2025,Basic,5.16,USD,Wallet,FALSE,SD,3,1,TRUE
+U1155,Other,27-12-2003,21,Congo,Nevada,TV,Netflix,,67,1,16-11-2023,15-11-2024,Basic,14.99,USD,UPI,FALSE,SD,1,1,FALSE
+U1156,Male,27-12-1988,36,Jamaica,Indiana,Mobile,"Netflix,Prime",,115,1,10-07-2023,09-07-2024,Premium,12.19,USD,Wallet,FALSE,SD,2,2,FALSE
+U1157,Male,05-06-1976,49,Montenegro,New York,Laptop,"Hotstar,Netflix",,61,0,30-03-2025,30-03-2026,Premium,8.85,INR,Wallet,FALSE,4K,4,1,TRUE
+U1158,Male,12-10-1973,51,France,South Carolina,Laptop,Prime,,65,1,25-07-2023,24-07-2024,Premium,18.1,USD,Wallet,FALSE,4K,4,2,TRUE
+U1159,Male,24-05-1969,56,Micronesia,Oregon,TV,Netflix,,88,1,08-09-2024,08-09-2025,Standard,5.49,INR,Card,FALSE,4K,3,1,FALSE
+U1160,Male,12-03-1968,57,Uzbekistan,Kansas,TV,"Hotstar,Netflix,Prime",,50,0,06-02-2024,05-02-2025,Standard,12.33,INR,Wallet,TRUE,SD,1,1,TRUE
+U1161,Other,21-10-2006,18,Burkina Faso,Maryland,Mobile,"Netflix,Prime",,110,1,01-04-2024,01-04-2025,Standard,9.85,INR,Wallet,FALSE,4K,2,2,TRUE
+U1162,Male,20-12-2005,19,Saint Martin,South Dakota,Mobile,"Hotstar,Prime",,16,1,17-05-2024,17-05-2025,Basic,15.71,INR,Wallet,TRUE,4K,3,2,FALSE
+U1163,Female,28-06-1995,30,Ghana,South Dakota,Laptop,"Hotstar,Netflix,Prime",,18,0,14-08-2023,13-08-2024,Basic,11.24,USD,Wallet,TRUE,4K,1,1,FALSE
+U1164,Other,21-11-1993,31,Netherlands,Ohio,TV,"Hotstar,Netflix,Prime",,49,0,03-05-2024,03-05-2025,Basic,12.04,INR,UPI,FALSE,HD,3,2,FALSE
+U1165,Female,10-06-2005,20,Saint Lucia,Rhode Island,Laptop,"Hotstar,Prime",,16,1,25-12-2024,25-12-2025,Standard,16.69,INR,Card,TRUE,4K,2,1,FALSE
+U1166,Female,19-10-1997,27,Bahamas,Oregon,Mobile,Hotstar,,83,1,15-10-2024,15-10-2025,Premium,11.96,INR,Card,TRUE,SD,2,1,FALSE
+U1167,Female,29-10-1985,39,Belgium,Texas,TV,Prime,,26,1,01-06-2025,01-06-2026,Standard,7.46,INR,Wallet,FALSE,SD,2,2,FALSE
+U1168,Female,25-09-1965,59,Liechtenstein,Minnesota,Laptop,Prime,,8,1,26-02-2025,26-02-2026,Basic,13.54,USD,Wallet,TRUE,HD,2,2,TRUE
+U1169,Other,25-08-1997,27,Haiti,Delaware,Mobile,"Hotstar,Netflix",,83,0,15-08-2024,15-08-2025,Premium,17.85,INR,Card,FALSE,4K,4,1,FALSE
+U1170,Male,27-01-1986,39,Romania,Maryland,Mobile,Hotstar,,75,0,18-11-2023,17-11-2024,Premium,14.04,USD,UPI,FALSE,4K,1,1,TRUE
+U1171,Other,08-08-1991,33,Trinidad and Tobago,Hawaii,Mobile,"Hotstar,Netflix",,108,1,19-08-2023,18-08-2024,Basic,12.73,USD,Card,FALSE,HD,1,1,TRUE
+U1172,Male,14-07-1998,26,Saudi Arabia,Utah,TV,"Netflix,Prime",,83,1,07-02-2025,07-02-2026,Premium,19.83,USD,UPI,TRUE,HD,3,3,TRUE
+U1173,Female,25-01-1996,29,Puerto Rico,Missouri,TV,Netflix,,64,1,07-12-2024,07-12-2025,Standard,18.28,INR,Card,FALSE,SD,4,4,TRUE
+U1174,Other,02-06-1995,30,Hungary,West Virginia,Laptop,"Hotstar,Netflix,Prime",,106,1,27-04-2025,27-04-2026,Basic,6.89,USD,UPI,FALSE,SD,4,4,FALSE
+U1175,Other,10-05-1971,54,Palestinian Territory,Alaska,Laptop,Netflix,,57,0,05-07-2024,05-07-2025,Basic,8.29,USD,Card,TRUE,4K,1,1,TRUE
+U1176,Other,03-02-1972,53,Martinique,North Dakota,Laptop,"Hotstar,Prime",,59,1,31-05-2024,31-05-2025,Basic,14.44,INR,Card,TRUE,4K,3,1,FALSE
+U1177,Other,19-07-1986,38,Japan,Utah,Laptop,Prime,,102,0,02-06-2025,02-06-2026,Premium,5.85,USD,Card,FALSE,SD,3,1,TRUE
+U1178,Female,02-11-1972,52,Chad,West Virginia,TV,"Hotstar,Netflix,Prime",,21,0,22-08-2023,21-08-2024,Standard,13.88,USD,Wallet,FALSE,4K,3,1,FALSE
+U1179,Female,04-08-1997,27,Myanmar,Florida,Mobile,"Hotstar,Netflix,Prime",,80,1,30-12-2023,29-12-2024,Standard,9.8,USD,Card,TRUE,SD,2,1,TRUE
+U1180,Female,09-02-2006,19,South Georgia and the South Sandwich Islands,Hawaii,Laptop,"Hotstar,Netflix",,88,0,13-01-2024,12-01-2025,Basic,15.43,USD,Wallet,FALSE,SD,1,1,FALSE
+U1181,Female,30-10-1994,30,Spain,Massachusetts,Mobile,Hotstar,,87,0,16-09-2023,15-09-2024,Standard,15.91,INR,Wallet,FALSE,HD,4,3,TRUE
+U1182,Other,28-09-1967,57,Turkmenistan,Nebraska,TV,"Hotstar,Prime",,17,1,17-02-2025,17-02-2026,Standard,8.15,USD,UPI,FALSE,4K,4,3,FALSE
+U1183,Male,18-06-1972,53,Brunei Darussalam,Utah,Laptop,Hotstar,,33,1,08-10-2023,07-10-2024,Standard,11.23,USD,Card,FALSE,4K,2,1,TRUE
+U1184,Female,13-09-1974,50,Martinique,Indiana,Laptop,Prime,,8,0,13-06-2025,13-06-2026,Premium,7.27,INR,Wallet,TRUE,4K,2,1,FALSE
+U1185,Female,29-05-1999,26,Anguilla,Alabama,Mobile,"Hotstar,Netflix,Prime",,49,0,29-07-2024,29-07-2025,Basic,10.53,USD,Wallet,FALSE,HD,1,1,FALSE
+U1186,Other,29-07-1977,47,Libyan Arab Jamahiriya,Florida,TV,"Netflix,Prime",,20,1,02-08-2024,02-08-2025,Premium,16.4,INR,Card,TRUE,4K,4,3,TRUE
+U1187,Other,17-07-1980,45,Jersey,North Carolina,Laptop,Hotstar,,25,0,11-05-2025,11-05-2026,Standard,12.57,USD,Card,TRUE,HD,1,1,TRUE
+U1188,Female,25-11-1970,54,Jersey,South Dakota,Mobile,Prime,,87,1,11-06-2025,11-06-2026,Premium,6.32,INR,UPI,FALSE,HD,3,1,TRUE
+U1189,Female,01-05-2005,20,Austria,New Jersey,Mobile,"Hotstar,Netflix,Prime",,67,1,12-05-2025,12-05-2026,Standard,18.55,USD,Card,FALSE,4K,2,1,TRUE
+U1190,Other,22-03-1976,49,South Georgia and the South Sandwich Islands,Kentucky,Mobile,"Hotstar,Netflix",,5,1,28-11-2023,27-11-2024,Basic,19.82,INR,UPI,FALSE,SD,3,2,FALSE
+U1191,Other,05-10-1972,52,Bolivia,Georgia,Laptop,Netflix,,72,0,16-12-2023,15-12-2024,Standard,5.08,USD,UPI,FALSE,SD,1,1,FALSE
+U1192,Other,26-03-1999,26,Jamaica,Delaware,Mobile,Prime,,65,0,17-09-2024,17-09-2025,Premium,13.67,INR,Wallet,FALSE,HD,2,1,FALSE
+U1193,Other,15-08-1972,52,Hungary,Tennessee,Laptop,Hotstar,,20,0,02-05-2025,02-05-2026,Basic,17.86,USD,UPI,FALSE,HD,1,1,FALSE
+U1194,Male,12-12-2004,20,United States Minor Outlying Islands,Nevada,TV,"Hotstar,Netflix,Prime",,39,1,11-11-2023,10-11-2024,Standard,16.42,INR,UPI,FALSE,SD,3,2,TRUE
+U1195,Other,27-09-1993,31,China,Florida,TV,Hotstar,,73,1,26-11-2024,26-11-2025,Basic,16.96,USD,UPI,FALSE,HD,3,1,FALSE
+U1196,Female,05-11-2005,19,Panama,Idaho,TV,"Hotstar,Netflix,Prime",,82,1,28-02-2025,28-02-2026,Standard,14.76,INR,UPI,FALSE,4K,3,3,TRUE
+U1197,Other,21-02-1996,29,Canada,Washington,Mobile,"Netflix,Prime",,110,0,21-11-2024,21-11-2025,Premium,6.09,INR,Card,FALSE,SD,1,1,FALSE
+U1198,Female,10-02-1984,41,Bermuda,Arkansas,Mobile,Prime,,103,0,05-06-2024,05-06-2025,Premium,9.57,USD,Card,FALSE,4K,1,1,FALSE
+U1199,Other,27-07-1996,28,Nauru,Maryland,Mobile,Netflix,,26,1,10-06-2024,10-06-2025,Basic,15.73,USD,Card,FALSE,4K,1,1,TRUE
+U1200,Male,06-11-1995,29,Tuvalu,Oregon,Laptop,"Hotstar,Netflix,Prime",,48,0,09-11-2023,08-11-2024,Standard,6.96,USD,Card,TRUE,SD,1,1,FALSE
+U1201,Other,08-07-1995,30,Guadeloupe,Missouri,Laptop,Netflix,,113,0,14-08-2024,14-08-2025,Standard,11.32,INR,Card,FALSE,4K,2,2,TRUE
+U1202,Other,04-08-1988,36,Russian Federation,Massachusetts,TV,Hotstar,,116,0,31-01-2025,31-01-2026,Basic,12.62,USD,Card,TRUE,SD,3,3,TRUE
+U1203,Female,27-11-1991,33,Singapore,Wyoming,Mobile,"Hotstar,Netflix",,115,0,26-08-2024,26-08-2025,Standard,15.7,USD,Card,FALSE,HD,2,2,TRUE
+U1204,Female,09-11-1990,34,Tonga,Montana,Laptop,"Hotstar,Netflix,Prime",,50,0,17-08-2023,16-08-2024,Premium,15.77,INR,Card,TRUE,SD,4,3,FALSE
+U1205,Other,25-05-1993,32,Portugal,Oklahoma,TV,Netflix,,40,0,09-10-2023,08-10-2024,Standard,7.06,USD,UPI,FALSE,SD,4,4,FALSE
+U1206,Female,08-02-2006,19,Kyrgyz Republic,Alabama,TV,"Hotstar,Netflix",,66,0,20-12-2023,19-12-2024,Premium,6.83,USD,Card,TRUE,HD,4,4,TRUE
+U1207,Male,21-10-1969,55,Belarus,Ohio,TV,"Hotstar,Prime",,42,1,24-05-2024,24-05-2025,Standard,8.32,USD,Wallet,TRUE,4K,1,1,TRUE
+U1208,Female,13-09-2003,21,Guadeloupe,Ohio,Laptop,"Hotstar,Netflix,Prime",,78,0,22-03-2024,22-03-2025,Standard,18.2,INR,Wallet,FALSE,HD,3,1,TRUE
+U1209,Other,02-10-1964,60,United Kingdom,Minnesota,Mobile,"Netflix,Prime",,5,0,05-04-2025,05-04-2026,Basic,7.97,INR,Wallet,FALSE,HD,4,2,FALSE
+U1210,Female,09-02-1965,60,Bouvet Island (Bouvetoya),Washington,TV,"Hotstar,Netflix,Prime",,109,0,08-04-2024,08-04-2025,Premium,9.4,USD,Card,TRUE,4K,1,1,FALSE
+U1211,Female,12-09-1967,57,Mexico,Minnesota,Laptop,"Hotstar,Netflix,Prime",,99,0,21-07-2023,20-07-2024,Basic,12.25,INR,UPI,FALSE,4K,2,1,FALSE
+U1212,Female,05-10-1990,34,Ethiopia,West Virginia,Laptop,"Hotstar,Netflix,Prime",,33,1,25-08-2023,24-08-2024,Premium,18.59,INR,UPI,TRUE,SD,1,1,FALSE
+U1213,Male,20-02-1981,44,Saudi Arabia,Pennsylvania,Mobile,"Hotstar,Prime",,120,1,21-06-2024,21-06-2025,Premium,11.93,INR,UPI,FALSE,SD,3,1,FALSE
+U1214,Other,02-10-1966,58,Botswana,Minnesota,Mobile,"Netflix,Prime",,15,1,11-02-2025,11-02-2026,Standard,10.07,USD,UPI,TRUE,4K,1,1,TRUE
+U1215,Other,17-09-1980,44,Argentina,Kansas,Mobile,"Hotstar,Netflix,Prime",,78,1,27-01-2025,27-01-2026,Basic,10.65,USD,UPI,FALSE,SD,4,2,TRUE
+U1216,Male,07-08-1972,52,Antarctica (the territory South of 60 deg S),Pennsylvania,Mobile,"Hotstar,Netflix",,68,1,02-09-2024,02-09-2025,Premium,11.02,INR,UPI,TRUE,4K,2,2,TRUE
+U1217,Other,17-02-1991,34,Bermuda,Louisiana,TV,"Hotstar,Netflix",,113,0,08-11-2023,07-11-2024,Standard,16.37,INR,Wallet,FALSE,SD,2,2,FALSE
+U1218,Male,07-10-1995,29,Palau,Maine,Mobile,Netflix,,73,0,24-11-2024,24-11-2025,Standard,6.16,INR,Wallet,FALSE,4K,2,2,TRUE
+U1219,Female,19-05-1972,53,Cambodia,California,Mobile,"Hotstar,Netflix,Prime",,84,1,23-08-2023,22-08-2024,Basic,14.05,USD,UPI,TRUE,SD,2,2,TRUE
+U1220,Other,13-06-1993,32,Croatia,Oregon,TV,"Hotstar,Netflix,Prime",,31,1,15-10-2023,14-10-2024,Premium,5.73,INR,Card,TRUE,HD,3,1,FALSE
+U1221,Female,31-10-1995,29,British Indian Ocean Territory (Chagos Archipelago),Oregon,Mobile,"Hotstar,Prime",,29,1,13-01-2024,12-01-2025,Basic,17.45,INR,UPI,FALSE,4K,4,3,TRUE
+U1222,Other,17-05-1988,37,Malta,Connecticut,TV,"Hotstar,Prime",,42,0,27-02-2025,27-02-2026,Basic,9.1,INR,Card,TRUE,SD,2,1,TRUE
+U1223,Male,30-07-1966,58,Eritrea,Oklahoma,Mobile,"Netflix,Prime",,36,0,02-01-2024,01-01-2025,Basic,11.16,INR,UPI,TRUE,HD,4,1,TRUE
+U1224,Other,10-02-1968,57,Sao Tome and Principe,Colorado,TV,"Netflix,Prime",,17,0,12-10-2024,12-10-2025,Premium,9.25,USD,Card,TRUE,HD,3,3,FALSE
+U1225,Male,02-10-1983,41,Cuba,Louisiana,Laptop,Netflix,,17,1,24-03-2025,24-03-2026,Basic,17.72,USD,Card,FALSE,HD,3,1,TRUE
+U1226,Male,01-11-1981,43,Zimbabwe,Rhode Island,Mobile,"Hotstar,Prime",,63,0,13-04-2025,13-04-2026,Standard,18.36,INR,Wallet,FALSE,HD,1,1,TRUE
+U1227,Other,13-08-2000,24,Niger,Iowa,Mobile,"Hotstar,Netflix,Prime",,40,0,05-09-2024,05-09-2025,Standard,11.93,INR,Card,TRUE,HD,2,2,FALSE
+U1228,Male,07-07-1993,32,Saint Kitts and Nevis,Wisconsin,Laptop,Hotstar,,44,0,07-01-2025,07-01-2026,Basic,15.03,USD,Card,TRUE,SD,4,2,FALSE
+U1229,Female,16-07-1986,39,Romania,Tennessee,Laptop,"Netflix,Prime",,33,1,26-05-2025,26-05-2026,Standard,18.46,INR,Card,TRUE,SD,1,1,TRUE
+U1230,Female,07-11-1983,41,Myanmar,Nevada,TV,Netflix,,98,1,16-04-2025,16-04-2026,Standard,10.45,INR,Wallet,FALSE,4K,1,1,TRUE
+U1231,Other,24-06-1974,51,Gabon,Iowa,Laptop,Prime,,33,0,21-05-2024,21-05-2025,Standard,6.97,USD,Card,TRUE,HD,1,1,FALSE
+U1232,Other,04-08-1978,46,Lao People's Democratic Republic,Alabama,Mobile,Hotstar,,22,1,18-08-2024,18-08-2025,Standard,17.99,INR,Card,TRUE,HD,4,2,TRUE
+U1233,Female,01-03-1991,34,Nicaragua,Kentucky,Laptop,Hotstar,,61,0,20-04-2024,20-04-2025,Basic,10.26,INR,Wallet,FALSE,SD,1,1,TRUE
+U1234,Other,23-12-1966,58,Paraguay,Missouri,Laptop,"Hotstar,Netflix,Prime",,56,1,28-10-2024,28-10-2025,Premium,19.33,USD,UPI,FALSE,SD,3,3,TRUE
+U1235,Female,13-06-2007,18,Antigua and Barbuda,Arkansas,Mobile,Prime,,53,0,13-05-2025,13-05-2026,Premium,15.92,USD,Wallet,TRUE,4K,4,1,FALSE
+U1236,Female,16-06-1970,55,Algeria,Louisiana,Mobile,"Hotstar,Netflix,Prime",,11,1,02-09-2024,02-09-2025,Premium,6.1,INR,Wallet,TRUE,4K,1,1,FALSE
+U1237,Female,28-01-1973,52,Cayman Islands,North Dakota,Laptop,Hotstar,,27,0,28-08-2023,27-08-2024,Standard,9.08,USD,Wallet,TRUE,HD,4,2,TRUE
+U1238,Male,24-10-1968,56,Costa Rica,Pennsylvania,Mobile,"Hotstar,Netflix,Prime",,99,1,16-04-2024,16-04-2025,Premium,7.04,USD,Card,FALSE,SD,2,1,FALSE
+U1239,Female,17-12-1985,39,Angola,Idaho,TV,Netflix,,8,0,29-09-2024,29-09-2025,Standard,5.97,INR,Card,FALSE,SD,1,1,TRUE
+U1240,Male,27-10-1998,26,Belgium,Maryland,Mobile,Netflix,,24,0,11-06-2025,11-06-2026,Premium,18.04,INR,Wallet,TRUE,4K,1,1,TRUE
+U1241,Female,27-10-2004,20,Algeria,Arkansas,Laptop,Netflix,,39,1,23-07-2023,22-07-2024,Standard,8.16,INR,Wallet,FALSE,HD,3,1,FALSE
+U1242,Other,15-01-2001,24,Yemen,Kentucky,TV,Prime,,67,1,05-10-2023,04-10-2024,Basic,18.18,USD,Wallet,FALSE,HD,1,1,TRUE
+U1243,Female,09-12-2002,22,Jersey,Connecticut,TV,"Hotstar,Netflix,Prime",,54,0,22-05-2025,22-05-2026,Basic,18.62,INR,Card,FALSE,SD,4,3,TRUE
+U1244,Other,21-06-1969,56,El Salvador,Tennessee,TV,Hotstar,,102,1,26-09-2024,26-09-2025,Premium,12.76,USD,UPI,TRUE,SD,4,3,TRUE
+U1245,Female,28-09-2006,18,Iraq,New Mexico,TV,"Hotstar,Netflix",,95,1,23-05-2024,23-05-2025,Basic,7,INR,UPI,TRUE,4K,4,1,FALSE
+U1246,Other,03-07-1990,35,Belize,Florida,TV,"Hotstar,Netflix,Prime",,19,0,15-10-2024,15-10-2025,Premium,16.5,USD,Card,FALSE,SD,2,2,FALSE
+U1247,Male,08-07-2002,23,Uganda,Rhode Island,Laptop,Hotstar,,74,0,06-05-2024,06-05-2025,Standard,19.19,USD,UPI,TRUE,HD,3,2,FALSE
+U1248,Female,01-10-1988,36,Benin,South Dakota,TV,"Hotstar,Netflix,Prime",,37,1,19-10-2024,19-10-2025,Standard,13.99,INR,Card,TRUE,HD,4,3,FALSE
+U1249,Other,28-06-1982,43,Luxembourg,Minnesota,Mobile,Prime,,118,1,23-12-2024,23-12-2025,Basic,10.43,USD,UPI,FALSE,SD,2,1,TRUE
+U1250,Female,25-02-1965,60,Burkina Faso,Minnesota,Laptop,"Hotstar,Netflix,Prime",,91,1,07-07-2023,06-07-2024,Premium,11.3,USD,UPI,TRUE,4K,2,2,FALSE
+U1251,Male,21-05-1977,48,Nicaragua,Colorado,Mobile,"Hotstar,Netflix,Prime",,115,0,11-09-2023,10-09-2024,Standard,17.31,USD,UPI,FALSE,HD,1,1,TRUE
+U1252,Other,28-01-1988,37,Mozambique,Michigan,Mobile,Netflix,,92,0,05-10-2023,04-10-2024,Basic,10.04,INR,UPI,FALSE,4K,4,3,TRUE
+U1253,Female,02-02-1980,45,Guam,Delaware,TV,"Hotstar,Netflix,Prime",,46,0,20-09-2024,20-09-2025,Standard,5.69,USD,Card,TRUE,4K,4,4,TRUE
+U1254,Female,13-02-1998,27,Chile,New Mexico,TV,"Hotstar,Netflix",,120,0,09-06-2025,09-06-2026,Basic,7.58,INR,UPI,TRUE,4K,1,1,TRUE
+U1255,Male,10-03-1975,50,Monaco,Vermont,Mobile,"Hotstar,Netflix,Prime",,108,0,09-05-2025,09-05-2026,Premium,11.88,USD,Wallet,FALSE,4K,4,1,FALSE
+U1256,Male,02-03-1983,42,Turkey,Wyoming,Mobile,"Hotstar,Netflix,Prime",,114,1,10-08-2023,09-08-2024,Premium,5.46,USD,Wallet,FALSE,4K,3,3,FALSE
+U1257,Female,30-05-2004,21,American Samoa,Maine,TV,Netflix,,68,0,09-02-2024,08-02-2025,Premium,6.83,USD,Wallet,TRUE,HD,3,2,TRUE
+U1258,Male,25-07-1966,58,French Southern Territories,Alabama,Laptop,Hotstar,,85,0,10-02-2024,09-02-2025,Premium,15.62,USD,Card,FALSE,4K,1,1,FALSE
+U1259,Other,16-04-1984,41,New Caledonia,Arkansas,Mobile,"Netflix,Prime",,21,1,26-12-2023,25-12-2024,Standard,6.91,INR,UPI,TRUE,SD,3,2,TRUE
+U1260,Other,13-06-1997,28,Lesotho,Kentucky,TV,"Hotstar,Netflix,Prime",,33,0,20-08-2023,19-08-2024,Basic,19.07,USD,Wallet,FALSE,SD,3,1,TRUE
+U1261,Other,16-02-1972,53,Congo,Michigan,Mobile,Hotstar,,68,0,02-11-2024,02-11-2025,Basic,16.22,INR,Wallet,FALSE,4K,4,2,FALSE
+U1262,Other,14-12-1976,48,Sri Lanka,Maryland,Laptop,"Hotstar,Netflix,Prime",,92,0,19-03-2025,19-03-2026,Standard,5.21,INR,UPI,TRUE,HD,4,4,FALSE
+U1263,Female,24-10-1971,53,Martinique,Ohio,Laptop,"Hotstar,Netflix,Prime",,97,1,01-11-2024,01-11-2025,Premium,10.29,INR,Card,TRUE,SD,3,3,FALSE
+U1264,Female,15-05-1995,30,South Africa,West Virginia,Mobile,"Hotstar,Netflix",,72,1,27-07-2023,26-07-2024,Basic,12.61,USD,Card,TRUE,SD,1,1,TRUE
+U1265,Male,01-01-1975,50,Rwanda,Missouri,TV,Prime,,101,0,10-01-2025,10-01-2026,Basic,10.9,USD,UPI,TRUE,SD,3,3,FALSE
+U1266,Female,02-08-1979,45,Mayotte,Maine,TV,"Netflix,Prime",,20,1,16-07-2023,15-07-2024,Basic,17.98,USD,Wallet,FALSE,HD,3,2,TRUE
+U1267,Male,08-11-1997,27,Australia,South Carolina,Laptop,Prime,,60,0,21-11-2023,20-11-2024,Basic,16.5,USD,Wallet,FALSE,4K,4,1,TRUE
+U1268,Other,10-10-2002,22,Cuba,Kentucky,Mobile,"Hotstar,Netflix,Prime",,115,1,14-03-2024,14-03-2025,Premium,11.79,INR,UPI,FALSE,HD,2,2,TRUE
+U1269,Female,09-12-1993,31,Argentina,Nevada,Laptop,Netflix,,60,0,29-03-2025,29-03-2026,Standard,14.49,INR,Card,FALSE,SD,2,1,FALSE
+U1270,Other,09-01-1985,40,Argentina,Maryland,Mobile,"Hotstar,Netflix,Prime",,77,0,21-04-2025,21-04-2026,Premium,15.42,INR,Wallet,TRUE,SD,4,3,FALSE
+U1271,Male,24-12-1999,25,Jordan,California,Mobile,"Hotstar,Netflix,Prime",,7,1,04-05-2024,04-05-2025,Basic,10.09,INR,UPI,FALSE,HD,3,2,FALSE
+U1272,Male,02-09-1999,25,Uzbekistan,Massachusetts,TV,"Hotstar,Netflix,Prime",,107,1,14-10-2023,13-10-2024,Standard,9.64,INR,Wallet,FALSE,4K,3,1,FALSE
+U1273,Other,20-08-1980,44,France,Massachusetts,TV,Hotstar,,111,0,09-06-2025,09-06-2026,Basic,10.34,USD,UPI,FALSE,HD,2,1,TRUE
+U1274,Male,10-06-2000,25,Congo,Rhode Island,Mobile,"Netflix,Prime",,27,0,13-04-2025,13-04-2026,Standard,5.06,INR,Wallet,TRUE,SD,1,1,FALSE
+U1275,Other,22-09-1967,57,Trinidad and Tobago,New Hampshire,TV,"Hotstar,Prime",,28,0,04-05-2025,04-05-2026,Basic,19.78,USD,UPI,TRUE,SD,1,1,TRUE
+U1276,Other,28-07-1970,54,Ethiopia,Wisconsin,Mobile,"Hotstar,Netflix",,97,1,01-03-2025,01-03-2026,Premium,16.27,INR,Card,FALSE,4K,3,2,FALSE
+U1277,Female,22-02-1988,37,Tunisia,New York,Mobile,Prime,,112,0,16-04-2025,16-04-2026,Premium,14.52,INR,UPI,TRUE,SD,2,2,FALSE
+U1278,Female,25-05-1984,41,Gambia,Massachusetts,TV,"Hotstar,Netflix,Prime",,118,0,10-08-2023,09-08-2024,Basic,11.08,USD,UPI,TRUE,SD,4,1,FALSE
+U1279,Other,18-05-1993,32,Fiji,California,Mobile,Hotstar,,75,0,02-02-2024,01-02-2025,Basic,15.32,INR,UPI,FALSE,HD,2,2,FALSE
+U1280,Female,18-09-1979,45,Kazakhstan,Nevada,Mobile,"Hotstar,Netflix,Prime",,110,0,30-06-2024,30-06-2025,Basic,8.27,USD,Wallet,TRUE,HD,1,1,FALSE
+U1281,Other,06-06-1989,36,Kiribati,Wyoming,TV,Netflix,,57,1,05-05-2024,05-05-2025,Standard,13.6,INR,Card,TRUE,SD,4,2,TRUE
+U1282,Male,16-08-1970,54,Iraq,Minnesota,Laptop,"Hotstar,Netflix",,61,1,26-10-2024,26-10-2025,Basic,11.59,USD,Wallet,FALSE,4K,4,1,TRUE
+U1283,Other,15-06-1987,38,Slovakia (Slovak Republic),Idaho,Mobile,"Hotstar,Netflix,Prime",,108,0,11-12-2024,11-12-2025,Standard,10.4,USD,Card,TRUE,SD,4,1,FALSE
+U1284,Other,25-03-1976,49,Bangladesh,Colorado,Mobile,Hotstar,,12,1,05-12-2023,04-12-2024,Basic,11.34,INR,Card,TRUE,4K,4,2,FALSE
+U1285,Male,27-02-1975,50,Italy,Pennsylvania,Laptop,"Hotstar,Netflix,Prime",,22,1,02-07-2025,02-07-2026,Premium,13.52,INR,Card,FALSE,HD,2,2,FALSE
+U1286,Female,01-06-1998,27,Poland,Illinois,Laptop,Netflix,,13,1,13-07-2024,13-07-2025,Standard,15.27,INR,Wallet,FALSE,HD,3,1,TRUE
+U1287,Male,10-11-1999,25,French Southern Territories,Virginia,TV,"Hotstar,Prime",,92,1,06-06-2025,06-06-2026,Basic,5.43,INR,Wallet,FALSE,SD,2,2,TRUE
+U1288,Other,27-05-1985,40,Haiti,Vermont,Mobile,"Hotstar,Netflix,Prime",,116,0,08-08-2023,07-08-2024,Standard,13.11,INR,Card,TRUE,HD,2,1,TRUE
+U1289,Female,15-01-1984,41,Indonesia,Mississippi,Mobile,"Hotstar,Prime",,50,1,19-12-2024,19-12-2025,Premium,8.09,INR,Wallet,FALSE,HD,2,1,TRUE
+U1290,Other,06-12-1975,49,Mongolia,Kentucky,Mobile,"Netflix,Prime",,64,1,17-08-2024,17-08-2025,Basic,14.34,USD,Wallet,FALSE,HD,1,1,TRUE
+U1291,Male,05-04-1995,30,Philippines,Wyoming,Mobile,"Hotstar,Netflix,Prime",,63,1,19-05-2025,19-05-2026,Standard,14.8,USD,Card,FALSE,SD,3,1,TRUE
+U1292,Male,23-10-1976,48,France,Arizona,Laptop,"Hotstar,Netflix,Prime",,101,1,26-06-2025,26-06-2026,Standard,15.9,INR,Wallet,TRUE,SD,2,2,TRUE
+U1293,Other,13-07-2004,20,Turks and Caicos Islands,Kentucky,Mobile,"Hotstar,Prime",,57,0,01-01-2025,01-01-2026,Standard,9.46,INR,UPI,FALSE,4K,3,3,FALSE
+U1294,Female,23-01-2004,21,Palestinian Territory,Alabama,TV,Netflix,,37,0,19-02-2024,18-02-2025,Standard,19.76,USD,Wallet,TRUE,4K,4,1,FALSE
+U1295,Other,13-01-2002,23,Italy,Montana,Laptop,"Hotstar,Netflix,Prime",,32,0,24-10-2024,24-10-2025,Basic,7.23,INR,Card,TRUE,4K,4,4,TRUE
+U1296,Female,10-08-1967,57,Jordan,New York,TV,"Hotstar,Netflix,Prime",,54,0,04-11-2024,04-11-2025,Standard,15.03,INR,Card,FALSE,SD,4,2,TRUE
+U1297,Female,06-04-1989,36,Guernsey,North Carolina,TV,"Hotstar,Netflix",,30,1,11-05-2025,11-05-2026,Premium,18.55,INR,UPI,TRUE,SD,4,2,FALSE
+U1298,Male,04-06-1978,47,Wallis and Futuna,Wyoming,Laptop,Netflix,,29,1,18-05-2024,18-05-2025,Standard,12.43,USD,Wallet,TRUE,SD,3,1,TRUE
+U1299,Other,12-05-1977,48,Cambodia,Massachusetts,TV,Hotstar,,61,1,05-04-2024,05-04-2025,Premium,8.85,INR,Wallet,TRUE,SD,3,3,FALSE
+U1300,Other,30-03-1988,37,Serbia,Mississippi,TV,"Hotstar,Netflix,Prime",,89,0,04-07-2024,04-07-2025,Premium,16.18,INR,UPI,FALSE,SD,1,1,TRUE
+U1301,Male,04-02-2005,20,Togo,New Mexico,Laptop,Netflix,,71,1,02-01-2025,02-01-2026,Standard,6.55,USD,Card,FALSE,4K,2,2,TRUE
+U1302,Female,11-12-1965,59,Bolivia,Wyoming,Laptop,Prime,,14,1,25-07-2024,25-07-2025,Basic,11.41,INR,Card,TRUE,HD,3,3,TRUE
+U1303,Male,22-09-1977,47,South Georgia and the South Sandwich Islands,New Jersey,Mobile,Netflix,,58,0,15-10-2023,14-10-2024,Standard,16.49,INR,Card,TRUE,SD,4,3,TRUE
+U1304,Other,11-11-1979,45,Turks and Caicos Islands,Pennsylvania,Mobile,"Hotstar,Netflix,Prime",,60,1,17-04-2025,17-04-2026,Premium,19.39,USD,UPI,TRUE,HD,2,1,FALSE
+U1305,Other,15-11-1985,39,Luxembourg,Kentucky,TV,"Netflix,Prime",,66,0,14-05-2025,14-05-2026,Standard,8.11,USD,Wallet,TRUE,HD,3,1,FALSE
+U1306,Female,05-11-1981,43,French Polynesia,Wisconsin,Laptop,"Netflix,Prime",,11,0,24-09-2023,23-09-2024,Premium,13.65,INR,UPI,FALSE,4K,2,2,FALSE
+U1307,Female,25-09-1987,37,Palau,Pennsylvania,TV,Hotstar,,8,0,13-02-2024,12-02-2025,Basic,8.81,USD,Wallet,TRUE,HD,3,2,TRUE
+U1308,Other,12-03-1990,35,Dominica,Maine,TV,"Hotstar,Netflix,Prime",,88,1,15-03-2025,15-03-2026,Standard,14.54,INR,Card,FALSE,4K,3,1,TRUE
+U1309,Female,31-01-2007,18,Equatorial Guinea,Mississippi,Mobile,"Hotstar,Netflix,Prime",,5,0,09-08-2023,08-08-2024,Standard,19.58,USD,UPI,FALSE,HD,2,1,FALSE
+U1310,Other,13-08-1979,45,Portugal,Virginia,Mobile,"Netflix,Prime",,120,1,18-02-2024,17-02-2025,Premium,16.07,USD,UPI,TRUE,SD,4,3,TRUE
+U1311,Other,27-07-1973,51,Ethiopia,Ohio,TV,Hotstar,,85,0,04-05-2024,04-05-2025,Premium,8.7,USD,Card,FALSE,4K,1,1,FALSE
+U1312,Female,22-07-1985,39,United Arab Emirates,South Carolina,TV,"Hotstar,Prime",,104,0,14-12-2023,13-12-2024,Premium,5.26,INR,Card,TRUE,SD,4,4,TRUE
+U1313,Female,16-10-1974,50,Singapore,Mississippi,Laptop,"Hotstar,Netflix",,46,0,22-06-2025,22-06-2026,Basic,16.58,INR,Wallet,TRUE,4K,4,3,TRUE
+U1314,Other,21-09-1995,29,Antigua and Barbuda,Texas,Laptop,"Hotstar,Netflix,Prime",,89,1,04-02-2025,04-02-2026,Standard,12.69,INR,UPI,FALSE,HD,4,3,TRUE
+U1315,Other,14-08-1996,28,Brunei Darussalam,Texas,Laptop,"Netflix,Prime",,119,1,21-09-2024,21-09-2025,Basic,14.8,INR,Card,TRUE,HD,4,2,FALSE
+U1316,Female,23-10-1969,55,Sudan,Massachusetts,Laptop,"Hotstar,Prime",,52,0,26-04-2025,26-04-2026,Standard,14.29,USD,Wallet,FALSE,SD,2,1,FALSE
+U1317,Other,13-03-1972,53,Kyrgyz Republic,South Carolina,Laptop,"Hotstar,Prime",,23,1,27-10-2023,26-10-2024,Standard,9.57,USD,Card,TRUE,4K,3,3,TRUE
+U1318,Male,22-04-1993,32,Anguilla,Colorado,TV,"Hotstar,Prime",,32,0,28-04-2025,28-04-2026,Basic,10.56,INR,UPI,TRUE,SD,1,1,FALSE
+U1319,Other,28-06-1982,43,Australia,South Carolina,Laptop,"Hotstar,Netflix,Prime",,79,0,30-01-2025,30-01-2026,Basic,16.52,INR,UPI,FALSE,SD,3,3,TRUE
+U1320,Female,20-09-1995,29,Bosnia and Herzegovina,Georgia,Mobile,"Hotstar,Netflix,Prime",,34,1,20-05-2024,20-05-2025,Premium,14.05,INR,Wallet,FALSE,SD,1,1,TRUE
+U1321,Female,04-02-2006,19,Spain,Iowa,Laptop,"Hotstar,Netflix,Prime",,44,1,30-11-2024,30-11-2025,Standard,9.57,INR,Card,TRUE,HD,3,3,FALSE
+U1322,Female,19-08-1965,59,Seychelles,Illinois,Mobile,"Hotstar,Netflix,Prime",,65,0,03-02-2025,03-02-2026,Premium,15.3,INR,UPI,TRUE,HD,4,1,TRUE
+U1323,Other,09-01-1997,28,Saint Kitts and Nevis,Massachusetts,Mobile,"Hotstar,Netflix,Prime",,27,0,11-06-2025,11-06-2026,Standard,5.25,USD,Card,FALSE,SD,2,1,TRUE
+U1324,Female,18-01-1987,38,South Georgia and the South Sandwich Islands,California,TV,"Hotstar,Netflix",,101,0,10-03-2024,10-03-2025,Standard,11.43,INR,Wallet,TRUE,HD,1,1,TRUE
+U1325,Other,13-12-2005,19,Mauritius,Louisiana,Laptop,"Hotstar,Netflix,Prime",,21,0,27-06-2024,27-06-2025,Basic,12.24,INR,Card,FALSE,4K,3,2,TRUE
+U1326,Other,07-01-1985,40,Estonia,New Mexico,TV,"Netflix,Prime",,47,1,27-11-2024,27-11-2025,Basic,15.79,INR,Card,FALSE,SD,2,1,FALSE
+U1327,Male,03-08-1992,32,Barbados,Kentucky,Laptop,Netflix,,11,1,12-02-2024,11-02-2025,Premium,10.07,USD,Wallet,FALSE,4K,3,3,FALSE
+U1328,Other,28-07-1981,43,Haiti,Oklahoma,Mobile,"Hotstar,Netflix,Prime",,97,0,16-07-2023,15-07-2024,Premium,9.86,USD,UPI,TRUE,SD,1,1,TRUE
+U1329,Male,22-06-1989,36,Cuba,Arizona,Laptop,"Hotstar,Netflix,Prime",,44,1,28-04-2024,28-04-2025,Premium,6.89,INR,UPI,TRUE,4K,1,1,FALSE
+U1330,Female,04-05-1998,27,Andorra,Indiana,TV,"Hotstar,Prime",,55,0,02-04-2025,02-04-2026,Premium,18.69,USD,UPI,TRUE,HD,4,4,FALSE
+U1331,Male,06-04-1969,56,Congo,Massachusetts,Laptop,"Hotstar,Prime",,114,0,15-10-2023,14-10-2024,Premium,5.11,INR,UPI,FALSE,SD,4,2,TRUE
+U1332,Other,26-07-1998,26,Bosnia and Herzegovina,Alaska,TV,"Hotstar,Netflix",,72,0,16-09-2023,15-09-2024,Premium,17.65,INR,Wallet,FALSE,SD,1,1,FALSE
+U1333,Female,29-01-1994,31,Guinea,Colorado,Laptop,"Hotstar,Netflix,Prime",,20,0,25-12-2024,25-12-2025,Basic,15.49,USD,UPI,TRUE,HD,2,2,TRUE
+U1334,Other,08-03-1989,36,Faroe Islands,Kansas,Laptop,"Hotstar,Netflix",,81,0,08-12-2024,08-12-2025,Premium,18.9,INR,UPI,FALSE,HD,2,1,TRUE
+U1335,Male,11-07-1993,32,San Marino,Minnesota,Mobile,Hotstar,,32,0,28-01-2025,28-01-2026,Premium,5.68,USD,Card,TRUE,4K,1,1,FALSE
+U1336,Female,05-03-1999,26,French Polynesia,Mississippi,TV,"Hotstar,Netflix,Prime",,28,1,10-08-2024,10-08-2025,Premium,7.53,USD,UPI,TRUE,4K,2,2,TRUE
+U1337,Other,30-08-1988,36,Malawi,Alaska,Mobile,Netflix,,119,1,20-10-2023,19-10-2024,Standard,18.63,INR,Wallet,FALSE,SD,1,1,FALSE
+U1338,Female,22-02-2001,24,Mexico,Connecticut,TV,Prime,,55,1,23-09-2024,23-09-2025,Premium,6.23,USD,UPI,FALSE,SD,1,1,TRUE
+U1339,Other,07-06-1968,57,Cayman Islands,New York,Mobile,"Hotstar,Prime",,89,1,24-02-2024,23-02-2025,Premium,18.81,USD,Card,TRUE,4K,2,2,FALSE
+U1340,Male,15-06-1983,42,Madagascar,Maine,TV,"Hotstar,Netflix,Prime",,108,0,06-12-2024,06-12-2025,Premium,16,INR,Wallet,FALSE,SD,4,2,TRUE
+U1341,Male,07-03-1994,31,Togo,Alabama,TV,"Hotstar,Netflix,Prime",,115,0,26-04-2025,26-04-2026,Basic,8.71,USD,Card,FALSE,SD,1,1,FALSE
+U1342,Female,11-04-1985,40,Saint Pierre and Miquelon,Montana,TV,"Hotstar,Netflix,Prime",,98,0,11-10-2024,11-10-2025,Standard,16.02,USD,Card,TRUE,HD,2,1,TRUE
+U1343,Female,19-01-1979,46,Belize,Louisiana,Laptop,Netflix,,74,0,19-02-2024,18-02-2025,Premium,18.72,USD,Card,FALSE,HD,2,2,TRUE
+U1344,Male,30-06-2003,22,Denmark,Indiana,TV,"Hotstar,Netflix,Prime",,82,1,30-08-2023,29-08-2024,Basic,8.05,USD,UPI,FALSE,HD,4,3,TRUE
+U1345,Male,12-05-1965,60,Gabon,Kentucky,Laptop,Hotstar,,42,1,05-10-2023,04-10-2024,Premium,16.41,INR,UPI,TRUE,SD,3,1,FALSE
+U1346,Female,12-12-1966,58,Jordan,New Mexico,TV,Hotstar,,97,1,23-11-2023,22-11-2024,Premium,8.6,USD,UPI,FALSE,4K,1,1,TRUE
+U1347,Female,09-05-1985,40,Aruba,New York,Mobile,Prime,,5,1,11-11-2024,11-11-2025,Basic,12.82,USD,Card,TRUE,SD,4,4,FALSE
+U1348,Female,20-10-1990,34,Guadeloupe,South Dakota,TV,"Hotstar,Netflix",,10,0,01-06-2024,01-06-2025,Premium,16.16,INR,UPI,TRUE,4K,3,1,TRUE
+U1349,Other,18-04-1996,29,Mauritania,Nebraska,Laptop,"Hotstar,Prime",,106,1,12-05-2024,12-05-2025,Premium,8.01,USD,Card,TRUE,SD,3,2,TRUE
+U1350,Female,19-04-2001,24,Azerbaijan,Massachusetts,Laptop,Prime,,36,0,13-10-2023,12-10-2024,Standard,9.02,INR,Wallet,FALSE,SD,4,2,FALSE
+U1351,Male,04-12-1997,27,Northern Mariana Islands,Texas,Mobile,"Hotstar,Netflix",,47,0,14-11-2024,14-11-2025,Premium,6.93,USD,Card,TRUE,SD,4,2,FALSE
+U1352,Other,25-11-1998,26,Dominican Republic,Alabama,Mobile,"Hotstar,Netflix,Prime",,44,0,13-12-2024,13-12-2025,Premium,16.34,INR,Wallet,TRUE,4K,1,1,FALSE
+U1353,Other,24-08-1996,28,Gibraltar,New Hampshire,Laptop,"Hotstar,Netflix,Prime",,46,0,27-08-2023,26-08-2024,Basic,12.4,USD,Wallet,FALSE,4K,1,1,TRUE
+U1354,Female,01-04-1985,40,Honduras,Minnesota,Mobile,Netflix,,53,1,30-03-2024,30-03-2025,Standard,15.78,USD,Wallet,FALSE,4K,3,3,TRUE
+U1355,Female,17-12-1996,28,Rwanda,Mississippi,Laptop,"Hotstar,Netflix,Prime",,120,0,25-08-2024,25-08-2025,Premium,19.19,USD,Card,TRUE,4K,1,1,TRUE
+U1356,Male,24-05-1989,36,Nigeria,Missouri,Mobile,"Hotstar,Netflix,Prime",,72,1,06-06-2025,06-06-2026,Standard,13.59,INR,Card,TRUE,HD,2,1,TRUE
+U1357,Other,12-03-1966,59,South Africa,Michigan,Laptop,Prime,,34,0,18-11-2024,18-11-2025,Standard,17.45,USD,Wallet,FALSE,SD,2,2,TRUE
+U1358,Female,09-03-1986,39,Tonga,Georgia,Mobile,"Hotstar,Prime",,47,0,21-08-2023,20-08-2024,Standard,17.5,INR,UPI,TRUE,4K,3,1,FALSE
+U1359,Female,07-07-1997,28,Czech Republic,Minnesota,TV,"Hotstar,Netflix,Prime",,44,1,13-03-2025,13-03-2026,Standard,14.61,USD,UPI,FALSE,4K,1,1,FALSE
+U1360,Female,28-04-2001,24,Dominica,South Carolina,Mobile,"Hotstar,Prime",,10,0,09-02-2025,09-02-2026,Basic,5.36,USD,Wallet,FALSE,HD,4,1,FALSE
+U1361,Female,09-11-1975,49,Cape Verde,North Carolina,Mobile,"Hotstar,Prime",,88,0,25-10-2023,24-10-2024,Standard,8.26,INR,Card,FALSE,4K,2,2,TRUE
+U1362,Other,31-03-1990,35,Zambia,Minnesota,TV,"Hotstar,Netflix,Prime",,32,1,07-05-2025,07-05-2026,Standard,13.7,USD,UPI,TRUE,SD,3,3,TRUE
+U1363,Male,15-07-1982,43,Israel,Delaware,Mobile,"Hotstar,Netflix",,27,1,28-08-2024,28-08-2025,Premium,10.28,INR,UPI,TRUE,4K,3,3,TRUE
+U1364,Female,26-02-2000,25,Albania,Minnesota,Laptop,Prime,,31,1,05-01-2024,04-01-2025,Basic,15.19,INR,UPI,FALSE,4K,4,2,TRUE
+U1365,Male,07-07-1966,59,Svalbard & Jan Mayen Islands,New York,Laptop,"Hotstar,Prime",,34,0,30-05-2025,30-05-2026,Premium,7.57,INR,Card,FALSE,HD,4,3,FALSE
+U1366,Other,14-05-2002,23,Saint Vincent and the Grenadines,Wyoming,TV,"Hotstar,Netflix,Prime",,114,0,22-09-2024,22-09-2025,Standard,19.46,INR,Card,FALSE,HD,1,1,TRUE
+U1367,Male,04-04-1967,58,Jordan,North Dakota,TV,Hotstar,,111,1,22-01-2024,21-01-2025,Standard,16.55,USD,Card,TRUE,4K,1,1,TRUE
+U1368,Female,19-05-1995,30,Pakistan,North Dakota,TV,"Netflix,Prime",,68,1,17-11-2023,16-11-2024,Standard,19.61,USD,UPI,TRUE,SD,3,3,TRUE
+U1369,Female,12-11-1990,34,Ukraine,Virginia,Mobile,Hotstar,,36,1,23-10-2023,22-10-2024,Standard,10.91,INR,UPI,TRUE,4K,2,2,FALSE
+U1370,Male,06-05-1974,51,Philippines,Tennessee,Laptop,"Hotstar,Netflix,Prime",,9,1,19-03-2024,19-03-2025,Premium,15.21,USD,Wallet,FALSE,4K,3,2,FALSE
+U1371,Female,08-01-1971,54,Azerbaijan,Texas,TV,"Hotstar,Netflix",,107,1,27-11-2023,26-11-2024,Basic,11.52,USD,UPI,TRUE,SD,3,2,FALSE
+U1372,Female,12-11-1972,52,Guam,Kansas,Laptop,Netflix,,115,1,22-05-2024,22-05-2025,Standard,16.57,INR,UPI,TRUE,HD,4,1,FALSE
+U1373,Other,16-06-2006,19,French Guiana,California,Mobile,"Hotstar,Prime",,81,0,06-09-2023,05-09-2024,Standard,13.79,USD,Card,FALSE,4K,4,3,FALSE
+U1374,Male,15-09-1983,41,Morocco,Idaho,Laptop,"Netflix,Prime",,10,0,03-06-2025,03-06-2026,Basic,5.95,INR,Wallet,TRUE,HD,2,1,FALSE
+U1375,Male,22-04-1994,31,Yemen,Utah,Mobile,Hotstar,,41,1,19-11-2023,18-11-2024,Premium,12.86,USD,Wallet,TRUE,4K,1,1,FALSE
+U1376,Female,14-11-1995,29,Russian Federation,Maine,Laptop,Prime,,86,0,11-11-2023,10-11-2024,Premium,8.22,USD,Wallet,FALSE,HD,1,1,FALSE
+U1377,Other,28-04-1979,46,Jamaica,Louisiana,Mobile,"Hotstar,Netflix,Prime",,93,0,21-01-2025,21-01-2026,Basic,11.12,INR,Card,FALSE,HD,2,1,TRUE
+U1378,Male,20-09-2003,21,Lebanon,Alabama,TV,Prime,,98,0,22-09-2023,21-09-2024,Premium,16.89,INR,Wallet,TRUE,4K,3,2,TRUE
+U1379,Male,20-04-2001,24,United Arab Emirates,Idaho,Laptop,Prime,,6,0,01-10-2023,30-09-2024,Premium,16.62,INR,Wallet,TRUE,SD,4,4,TRUE
+U1380,Female,22-02-1969,56,American Samoa,Iowa,Laptop,"Hotstar,Netflix",,68,0,08-05-2025,08-05-2026,Standard,9.01,INR,UPI,FALSE,4K,2,2,FALSE
+U1381,Male,08-11-1972,52,Isle of Man,Maryland,TV,Prime,,110,1,16-03-2025,16-03-2026,Standard,15.18,USD,UPI,TRUE,SD,2,1,FALSE
+U1382,Other,26-09-1969,55,Somalia,Virginia,Laptop,"Netflix,Prime",,112,0,14-04-2024,14-04-2025,Basic,5.47,USD,UPI,TRUE,HD,3,1,TRUE
+U1383,Female,12-03-1993,32,Malawi,Alabama,TV,Hotstar,,73,0,30-06-2025,30-06-2026,Premium,12.44,USD,Card,FALSE,SD,3,2,TRUE
+U1384,Other,12-05-1994,31,Antarctica (the territory South of 60 deg S),Texas,TV,"Hotstar,Netflix",,76,0,18-10-2024,18-10-2025,Standard,12.86,USD,Wallet,FALSE,4K,2,1,TRUE
+U1385,Male,29-04-1985,40,Bulgaria,Michigan,TV,"Hotstar,Netflix,Prime",,102,1,30-11-2023,29-11-2024,Standard,7.8,USD,UPI,FALSE,SD,2,1,TRUE
+U1386,Other,06-12-2005,19,Martinique,South Dakota,Laptop,"Hotstar,Netflix",,57,1,05-01-2025,05-01-2026,Standard,12.63,USD,Wallet,TRUE,HD,4,2,FALSE
+U1387,Female,28-04-1978,47,Martinique,Florida,Laptop,"Hotstar,Netflix",,9,0,20-05-2024,20-05-2025,Standard,11.19,INR,Card,TRUE,HD,3,1,FALSE
+U1388,Female,10-02-2000,25,Switzerland,Hawaii,Laptop,"Netflix,Prime",,15,1,08-10-2023,07-10-2024,Premium,15.71,INR,UPI,TRUE,4K,3,1,FALSE
+U1389,Other,25-01-1968,57,Colombia,Wyoming,TV,Hotstar,,52,1,17-03-2025,17-03-2026,Premium,14.5,INR,UPI,TRUE,SD,4,2,FALSE
+U1390,Male,14-07-1964,61,Denmark,Nevada,Mobile,"Hotstar,Prime",,14,0,06-09-2024,06-09-2025,Basic,17.58,USD,UPI,TRUE,SD,1,1,FALSE
+U1391,Other,04-10-1997,27,Bouvet Island (Bouvetoya),Maryland,Mobile,"Hotstar,Netflix,Prime",,96,0,23-07-2023,22-07-2024,Standard,5.24,INR,Wallet,FALSE,HD,3,2,TRUE
+U1392,Female,07-07-1965,60,Kyrgyz Republic,Alabama,TV,Netflix,,47,0,29-04-2025,29-04-2026,Basic,18.59,INR,Wallet,TRUE,4K,2,2,TRUE
+U1393,Female,25-12-1977,47,Montserrat,Mississippi,Laptop,Prime,,53,0,29-08-2024,29-08-2025,Basic,11.27,INR,UPI,TRUE,HD,3,3,TRUE
+U1394,Other,23-04-1972,53,Kiribati,Alabama,Laptop,"Hotstar,Netflix",,55,0,11-01-2025,11-01-2026,Standard,6.56,USD,Wallet,TRUE,HD,1,1,FALSE
+U1395,Other,05-08-1991,33,Cyprus,South Dakota,Mobile,"Hotstar,Netflix,Prime",,61,0,24-08-2023,23-08-2024,Basic,16.4,INR,Card,TRUE,HD,1,1,FALSE
+U1396,Female,11-01-1971,54,El Salvador,Texas,Laptop,"Hotstar,Netflix",,83,0,09-09-2024,09-09-2025,Standard,10.06,INR,Card,FALSE,SD,3,3,FALSE
+U1397,Female,25-12-1993,31,Monaco,Nebraska,Laptop,"Hotstar,Netflix",,120,0,15-05-2025,15-05-2026,Premium,16.16,USD,Card,TRUE,4K,2,2,TRUE
+U1398,Female,29-10-1975,49,Sri Lanka,Connecticut,Laptop,"Hotstar,Prime",,51,0,03-06-2024,03-06-2025,Premium,5.17,INR,UPI,FALSE,SD,3,3,TRUE
+U1399,Female,13-09-1983,41,Bouvet Island (Bouvetoya),Florida,Laptop,"Hotstar,Netflix,Prime",,116,0,12-06-2024,12-06-2025,Basic,11.88,INR,UPI,TRUE,HD,2,2,FALSE
+U1400,Female,17-04-2000,25,Ecuador,Alabama,TV,"Hotstar,Netflix,Prime",,31,0,20-08-2024,20-08-2025,Basic,19.42,INR,Card,TRUE,HD,3,1,FALSE
+U1401,Other,11-02-1980,45,Israel,Rhode Island,Mobile,"Hotstar,Netflix,Prime",,9,1,25-12-2023,24-12-2024,Standard,14.81,USD,Card,TRUE,HD,2,1,FALSE
+U1402,Other,11-05-2006,19,Togo,Maine,Laptop,"Hotstar,Netflix",,43,1,01-09-2023,31-08-2024,Premium,9.93,USD,Card,TRUE,SD,1,1,TRUE
+U1403,Other,26-10-1981,43,Bolivia,Georgia,Laptop,"Netflix,Prime",,22,1,01-07-2024,01-07-2025,Standard,13.33,INR,UPI,FALSE,SD,2,1,FALSE
+U1404,Female,11-03-1997,28,Mexico,Hawaii,Mobile,"Hotstar,Netflix",,34,0,03-11-2023,02-11-2024,Premium,8.79,USD,UPI,FALSE,SD,2,1,TRUE
+U1405,Male,31-12-2000,24,Zimbabwe,Texas,Laptop,"Netflix,Prime",,36,1,27-01-2024,26-01-2025,Basic,5.36,INR,Wallet,FALSE,SD,2,1,TRUE
+U1406,Male,07-03-1983,42,Uruguay,South Dakota,TV,"Hotstar,Netflix,Prime",,58,0,03-06-2024,03-06-2025,Premium,9.08,INR,Card,TRUE,4K,1,1,FALSE
+U1407,Female,17-05-1996,29,Oman,Connecticut,Mobile,"Hotstar,Netflix,Prime",,70,1,10-01-2025,10-01-2026,Basic,10.46,USD,Wallet,FALSE,HD,4,1,TRUE
+U1408,Female,18-01-1968,57,Mongolia,Colorado,TV,Hotstar,,83,0,08-03-2025,08-03-2026,Basic,15.39,INR,UPI,FALSE,4K,3,2,FALSE
+U1409,Other,28-11-1976,48,Slovakia (Slovak Republic),New Hampshire,TV,"Hotstar,Netflix,Prime",,24,0,03-05-2024,03-05-2025,Standard,16.58,USD,Card,FALSE,HD,4,3,TRUE
+U1410,Male,09-10-1998,26,Latvia,Rhode Island,Laptop,"Hotstar,Netflix,Prime",,81,1,01-11-2023,31-10-2024,Standard,19.9,INR,Card,TRUE,SD,4,1,FALSE
+U1411,Other,07-11-2002,22,Russian Federation,Louisiana,Mobile,Prime,,96,1,23-01-2024,22-01-2025,Premium,10.77,INR,Wallet,TRUE,4K,3,1,FALSE
+U1412,Male,20-12-1975,49,Northern Mariana Islands,New Hampshire,Laptop,"Hotstar,Netflix,Prime",,90,1,01-05-2025,01-05-2026,Basic,18.68,INR,UPI,FALSE,HD,2,1,TRUE
+U1413,Female,19-01-2005,20,Uruguay,Michigan,Mobile,"Hotstar,Netflix,Prime",,34,1,27-08-2023,26-08-2024,Basic,19.14,INR,Wallet,FALSE,4K,2,2,TRUE
+U1414,Other,20-09-1973,51,El Salvador,Utah,Laptop,"Hotstar,Netflix",,75,1,22-08-2023,21-08-2024,Standard,11.51,INR,Card,FALSE,4K,4,4,FALSE
+U1415,Other,12-02-1990,35,Uzbekistan,North Carolina,Mobile,"Hotstar,Netflix",,103,1,29-06-2025,29-06-2026,Premium,8.95,INR,Card,TRUE,HD,3,2,TRUE
+U1416,Other,11-07-1978,47,Georgia,Massachusetts,Mobile,"Hotstar,Netflix,Prime",,31,1,29-10-2023,28-10-2024,Standard,10.36,USD,Wallet,FALSE,HD,2,2,TRUE
+U1417,Other,27-07-1974,50,Qatar,West Virginia,Mobile,"Netflix,Prime",,58,0,23-08-2023,22-08-2024,Basic,16.94,USD,Wallet,TRUE,SD,1,1,TRUE
+U1418,Female,17-04-2005,20,Norway,Oregon,TV,"Hotstar,Netflix,Prime",,30,1,22-12-2023,21-12-2024,Basic,6.33,INR,UPI,FALSE,HD,2,1,TRUE
+U1419,Other,01-02-1983,42,Japan,Wisconsin,Laptop,"Hotstar,Netflix",,12,0,23-09-2024,23-09-2025,Basic,9.43,USD,UPI,FALSE,HD,3,2,TRUE
+U1420,Female,03-03-1991,34,Finland,Maryland,TV,"Hotstar,Netflix,Prime",,14,0,21-04-2025,21-04-2026,Premium,16.09,INR,Wallet,FALSE,4K,4,3,FALSE
+U1421,Female,26-10-1993,31,Zambia,New Hampshire,Laptop,"Netflix,Prime",,89,0,20-07-2024,20-07-2025,Premium,18.9,USD,UPI,FALSE,HD,1,1,FALSE
+U1422,Other,08-06-1981,44,Denmark,New York,Mobile,"Hotstar,Netflix,Prime",,67,0,30-04-2025,30-04-2026,Standard,5.58,USD,Wallet,FALSE,SD,1,1,FALSE
+U1423,Other,03-12-1994,30,Nauru,South Dakota,Laptop,"Hotstar,Netflix",,118,0,02-06-2025,02-06-2026,Basic,6.15,USD,Wallet,FALSE,SD,1,1,TRUE
+U1424,Male,31-07-2004,20,Mauritania,Minnesota,TV,Prime,,28,0,12-09-2024,12-09-2025,Basic,11.75,INR,Card,TRUE,HD,1,1,FALSE
+U1425,Female,16-08-1971,53,Oman,Kansas,TV,Netflix,,111,1,02-05-2025,02-05-2026,Premium,19.63,USD,Wallet,TRUE,SD,2,1,TRUE
+U1426,Female,19-03-1993,32,Kazakhstan,Wyoming,TV,"Hotstar,Netflix,Prime",,106,0,03-04-2024,03-04-2025,Basic,15.75,USD,UPI,FALSE,SD,1,1,FALSE
+U1427,Female,18-03-1970,55,Kuwait,Alaska,Laptop,Hotstar,,60,1,04-01-2024,03-01-2025,Basic,10.86,USD,UPI,TRUE,4K,4,1,FALSE
+U1428,Male,30-06-1979,46,Chile,Idaho,TV,"Netflix,Prime",,48,1,08-05-2024,08-05-2025,Basic,13.89,USD,UPI,FALSE,4K,3,2,TRUE
+U1429,Male,23-04-2006,19,Russian Federation,Nevada,Laptop,"Hotstar,Prime",,94,1,08-05-2025,08-05-2026,Premium,7.99,USD,Wallet,FALSE,SD,2,1,FALSE
+U1430,Female,01-04-1973,52,Botswana,South Carolina,TV,Hotstar,,92,1,27-10-2023,26-10-2024,Premium,5.81,INR,Wallet,FALSE,4K,2,1,TRUE
+U1431,Male,08-10-1968,56,Cambodia,Nebraska,TV,Netflix,,54,1,12-08-2024,12-08-2025,Basic,13.02,USD,Wallet,TRUE,HD,3,3,TRUE
+U1432,Other,02-12-1980,44,Greenland,Oklahoma,Laptop,Hotstar,,117,0,02-10-2023,01-10-2024,Premium,9.35,USD,Wallet,FALSE,4K,4,4,TRUE
+U1433,Male,03-02-1993,32,Lebanon,Mississippi,Mobile,Prime,,19,1,28-12-2023,27-12-2024,Standard,10.33,USD,Wallet,FALSE,HD,2,1,FALSE
+U1434,Other,15-03-1984,41,Sierra Leone,South Dakota,Mobile,"Hotstar,Netflix,Prime",,71,0,07-04-2025,07-04-2026,Basic,6.85,USD,Wallet,TRUE,HD,2,2,TRUE
+U1435,Female,30-06-1998,27,Mozambique,Arkansas,TV,"Netflix,Prime",,38,0,06-06-2025,06-06-2026,Standard,17.51,USD,Card,FALSE,HD,2,2,FALSE
+U1436,Female,16-01-1968,57,Guernsey,Idaho,Laptop,"Netflix,Prime",,117,0,07-12-2023,06-12-2024,Standard,8.11,USD,Wallet,TRUE,HD,4,1,TRUE
+U1437,Male,26-06-1978,47,Brazil,Louisiana,Mobile,"Hotstar,Netflix,Prime",,44,1,15-04-2024,15-04-2025,Premium,9.81,INR,Card,TRUE,HD,1,1,FALSE
+U1438,Other,13-06-2007,18,Italy,Kentucky,Laptop,"Hotstar,Netflix,Prime",,89,1,06-06-2025,06-06-2026,Premium,12.36,USD,UPI,TRUE,SD,4,4,TRUE
+U1439,Male,18-12-1980,44,Kazakhstan,Minnesota,TV,"Hotstar,Prime",,74,1,07-06-2025,07-06-2026,Standard,6.22,USD,UPI,TRUE,HD,4,3,TRUE
+U1440,Male,16-07-1971,54,Netherlands Antilles,North Carolina,Laptop,"Hotstar,Prime",,85,0,08-10-2023,07-10-2024,Standard,15.39,USD,Card,TRUE,HD,4,1,FALSE
+U1441,Other,07-10-1972,52,Bhutan,Michigan,Laptop,Prime,,77,0,25-12-2024,25-12-2025,Premium,16.33,USD,Wallet,FALSE,4K,2,2,FALSE
+U1442,Female,05-01-1988,37,Cambodia,Louisiana,Mobile,"Hotstar,Prime",,26,1,23-11-2024,23-11-2025,Premium,19.06,INR,Wallet,TRUE,4K,1,1,FALSE
+U1443,Female,22-02-1967,58,Guam,Florida,TV,"Hotstar,Netflix",,99,0,03-01-2024,02-01-2025,Standard,16.05,INR,Wallet,FALSE,HD,3,3,FALSE
+U1444,Male,29-09-1995,29,Uganda,Nebraska,TV,Hotstar,,26,1,17-07-2024,17-07-2025,Standard,8.75,INR,Wallet,FALSE,HD,4,1,FALSE
+U1445,Male,01-09-1967,57,Belgium,Wisconsin,TV,"Hotstar,Netflix,Prime",,111,1,26-04-2024,26-04-2025,Standard,7.07,USD,Card,TRUE,4K,3,2,FALSE
+U1446,Male,20-03-1996,29,Zambia,Georgia,Laptop,"Netflix,Prime",,27,1,17-04-2025,17-04-2026,Basic,18.8,INR,Card,FALSE,HD,4,4,TRUE
+U1447,Other,22-07-1980,44,Iraq,Indiana,TV,"Hotstar,Netflix,Prime",,27,0,13-07-2023,12-07-2024,Premium,19.19,USD,UPI,FALSE,SD,1,1,FALSE
+U1448,Other,21-05-1980,45,Trinidad and Tobago,Kansas,Mobile,"Hotstar,Netflix",,14,1,02-06-2025,02-06-2026,Premium,8.33,USD,Wallet,TRUE,HD,1,1,FALSE
+U1449,Other,19-01-2007,18,Northern Mariana Islands,Vermont,TV,"Hotstar,Netflix,Prime",,52,0,09-05-2025,09-05-2026,Basic,15.75,USD,Card,FALSE,HD,1,1,FALSE
+U1450,Male,28-06-1974,51,Falkland Islands (Malvinas),Washington,Mobile,"Hotstar,Netflix,Prime",,100,0,27-03-2024,27-03-2025,Standard,7.51,INR,Card,FALSE,HD,3,3,TRUE
+U1451,Female,20-05-1994,31,Iran,Utah,Mobile,"Hotstar,Netflix",,84,1,07-10-2023,06-10-2024,Premium,15.48,INR,UPI,TRUE,HD,3,3,FALSE
+U1452,Female,04-04-1993,32,Western Sahara,Massachusetts,Laptop,"Netflix,Prime",,52,1,02-09-2024,02-09-2025,Basic,8.46,USD,UPI,FALSE,4K,4,4,TRUE
+U1453,Male,30-04-1989,36,Kyrgyz Republic,Tennessee,TV,"Hotstar,Prime",,57,0,30-03-2025,30-03-2026,Basic,15.2,USD,UPI,TRUE,SD,4,2,TRUE
+U1454,Other,23-10-1975,49,United States Virgin Islands,Montana,Mobile,Netflix,,42,0,28-11-2024,28-11-2025,Basic,11.59,INR,Wallet,TRUE,4K,4,3,TRUE
+U1455,Male,17-11-1973,51,Chile,Connecticut,Mobile,Hotstar,,14,1,08-04-2024,08-04-2025,Basic,13.8,INR,UPI,TRUE,SD,3,2,TRUE
+U1456,Male,24-11-1990,34,Greenland,Tennessee,Mobile,"Hotstar,Netflix,Prime",,55,1,21-12-2024,21-12-2025,Premium,13.13,INR,UPI,FALSE,4K,4,2,FALSE
+U1457,Female,28-10-1965,59,Mayotte,Washington,Mobile,"Hotstar,Netflix",,33,0,24-02-2024,23-02-2025,Basic,13.3,USD,Wallet,FALSE,SD,4,4,TRUE
+U1458,Male,09-09-1964,60,Ghana,West Virginia,Mobile,"Hotstar,Netflix,Prime",,119,1,27-08-2023,26-08-2024,Premium,5.67,INR,UPI,TRUE,4K,1,1,FALSE
+U1459,Male,25-05-1980,45,Czech Republic,Iowa,Mobile,"Hotstar,Netflix,Prime",,42,0,28-08-2024,28-08-2025,Basic,9.24,USD,UPI,TRUE,4K,3,3,TRUE
+U1460,Male,26-01-1995,30,Western Sahara,Pennsylvania,TV,"Hotstar,Netflix",,94,1,14-12-2024,14-12-2025,Standard,15.64,USD,Wallet,TRUE,SD,2,1,TRUE
+U1461,Other,08-09-1982,42,Reunion,Pennsylvania,Mobile,"Hotstar,Netflix,Prime",,70,1,20-10-2023,19-10-2024,Premium,9.79,USD,Card,FALSE,4K,2,2,FALSE
+U1462,Male,16-07-1972,53,Gibraltar,Mississippi,TV,"Hotstar,Netflix,Prime",,14,0,09-03-2025,09-03-2026,Premium,13.87,INR,Card,TRUE,4K,4,2,FALSE
+U1463,Female,06-06-2007,18,Tuvalu,Kansas,Laptop,"Hotstar,Netflix,Prime",,10,1,10-03-2025,10-03-2026,Standard,9.88,INR,Card,FALSE,SD,3,2,TRUE
+U1464,Male,07-06-1982,43,Northern Mariana Islands,North Carolina,Mobile,"Hotstar,Prime",,115,1,06-11-2024,06-11-2025,Standard,18.64,USD,Wallet,FALSE,SD,2,1,TRUE
+U1465,Male,09-08-1990,34,Reunion,Wyoming,Mobile,"Hotstar,Netflix",,13,0,23-10-2023,22-10-2024,Premium,9.19,USD,UPI,TRUE,HD,4,4,FALSE
+U1466,Female,22-02-1966,59,Brunei Darussalam,Delaware,Mobile,"Hotstar,Netflix,Prime",,62,1,27-01-2025,27-01-2026,Basic,7.5,INR,Wallet,FALSE,4K,1,1,FALSE
+U1467,Female,31-05-1983,42,Ukraine,Illinois,TV,Prime,,92,0,31-01-2025,31-01-2026,Basic,6.35,USD,Card,FALSE,4K,4,3,TRUE
+U1468,Female,16-07-2006,18,Gibraltar,Arizona,TV,"Hotstar,Netflix",,109,0,06-08-2024,06-08-2025,Basic,19.21,USD,UPI,FALSE,SD,4,3,FALSE
+U1469,Male,24-10-1973,51,Russian Federation,Texas,TV,Netflix,,115,1,23-10-2024,23-10-2025,Standard,9.29,USD,Card,FALSE,HD,1,1,TRUE
+U1470,Other,17-10-1979,45,United States Virgin Islands,Mississippi,Mobile,"Hotstar,Netflix",,29,0,06-05-2024,06-05-2025,Premium,17.78,INR,Card,TRUE,SD,2,2,FALSE
+U1471,Female,31-01-2007,18,Mauritania,Hawaii,TV,"Hotstar,Netflix,Prime",,88,1,17-08-2024,17-08-2025,Premium,17.82,USD,UPI,TRUE,HD,1,1,TRUE
+U1472,Female,09-09-1998,26,Tuvalu,Florida,Mobile,Prime,,15,1,30-04-2025,30-04-2026,Basic,5.73,INR,UPI,TRUE,SD,4,3,FALSE
+U1473,Female,25-01-2003,22,Belize,Montana,TV,Netflix,,15,1,27-02-2025,27-02-2026,Standard,14.48,INR,Wallet,FALSE,4K,1,1,TRUE
+U1474,Other,07-11-1994,30,Tuvalu,South Carolina,TV,"Hotstar,Netflix,Prime",,29,0,07-04-2024,07-04-2025,Standard,11.75,USD,Wallet,TRUE,4K,3,2,FALSE
+U1475,Male,26-06-1999,26,Denmark,Nebraska,Mobile,"Hotstar,Netflix,Prime",,96,1,22-07-2023,21-07-2024,Basic,18.63,USD,UPI,TRUE,4K,2,2,FALSE
+U1476,Male,19-01-1972,53,Marshall Islands,Alabama,Laptop,"Netflix,Prime",,69,0,21-12-2023,20-12-2024,Premium,6.33,USD,UPI,FALSE,4K,4,4,TRUE
+U1477,Male,28-12-1991,33,Thailand,Kansas,Mobile,"Hotstar,Netflix,Prime",,79,1,25-01-2024,24-01-2025,Standard,15.9,USD,Card,FALSE,SD,4,4,TRUE
+U1478,Other,29-03-1995,30,Tonga,West Virginia,TV,"Hotstar,Netflix,Prime",,47,0,08-05-2025,08-05-2026,Standard,5.38,USD,UPI,FALSE,HD,1,1,TRUE
+U1479,Other,01-05-1979,46,Saint Kitts and Nevis,California,Laptop,"Hotstar,Netflix,Prime",,87,1,18-08-2023,17-08-2024,Basic,18.21,USD,Card,TRUE,SD,3,3,TRUE
+U1480,Female,24-11-1991,33,New Caledonia,Illinois,Laptop,"Hotstar,Netflix,Prime",,47,1,14-09-2023,13-09-2024,Premium,16.75,INR,Wallet,FALSE,HD,2,1,FALSE
+U1481,Other,20-01-1981,44,Guinea-Bissau,Nevada,TV,Netflix,,100,0,30-06-2024,30-06-2025,Premium,5.65,USD,UPI,FALSE,SD,4,2,FALSE
+U1482,Female,20-01-1989,36,Cape Verde,New Hampshire,Laptop,"Hotstar,Netflix,Prime",,39,0,03-02-2025,03-02-2026,Standard,14.47,INR,UPI,FALSE,SD,3,2,TRUE
+U1483,Male,04-11-1985,39,Haiti,Colorado,TV,"Netflix,Prime",,65,1,17-02-2024,16-02-2025,Basic,8.82,INR,Wallet,TRUE,4K,3,2,TRUE
+U1484,Female,08-12-1969,55,Ghana,Virginia,Laptop,"Hotstar,Netflix,Prime",,40,0,08-02-2025,08-02-2026,Premium,16.96,INR,Card,FALSE,HD,3,2,TRUE
+U1485,Male,26-07-1964,60,Dominica,Idaho,TV,"Hotstar,Netflix,Prime",,74,0,15-08-2024,15-08-2025,Basic,12.93,INR,UPI,FALSE,HD,1,1,TRUE
+U1486,Female,05-09-1982,42,San Marino,Kentucky,Laptop,Hotstar,,46,0,19-02-2025,19-02-2026,Standard,11.16,INR,Wallet,TRUE,HD,1,1,TRUE
+U1487,Male,24-08-1989,35,Montserrat,West Virginia,TV,Netflix,,106,0,05-11-2024,05-11-2025,Premium,19.05,USD,Card,FALSE,4K,2,1,FALSE
+U1488,Male,06-05-1969,56,Canada,Wyoming,Mobile,Prime,,8,1,13-10-2023,12-10-2024,Premium,19.56,USD,Card,FALSE,4K,2,1,TRUE
+U1489,Female,18-03-1988,37,Gambia,Montana,Mobile,"Netflix,Prime",,22,1,28-09-2023,27-09-2024,Basic,18.93,USD,Wallet,TRUE,SD,4,1,TRUE
+U1490,Male,30-05-2003,22,Austria,California,TV,"Hotstar,Netflix,Prime",,41,1,22-11-2024,22-11-2025,Basic,5.56,USD,UPI,FALSE,HD,1,1,TRUE
+U1491,Male,10-03-1993,32,Equatorial Guinea,Kentucky,Mobile,"Netflix,Prime",,54,1,18-04-2025,18-04-2026,Basic,5.43,INR,Wallet,FALSE,4K,2,2,FALSE
+U1492,Female,22-08-2005,19,Syrian Arab Republic,Iowa,TV,Netflix,,23,1,28-08-2024,28-08-2025,Premium,8.35,USD,Card,TRUE,SD,4,3,FALSE
+U1493,Female,16-02-1977,48,Lebanon,West Virginia,TV,"Hotstar,Netflix,Prime",,77,1,06-05-2025,06-05-2026,Standard,15.19,USD,Card,TRUE,SD,1,1,FALSE
+U1494,Female,23-11-1976,48,Sierra Leone,Wyoming,Mobile,"Hotstar,Netflix,Prime",,18,0,28-01-2025,28-01-2026,Standard,7.46,INR,UPI,FALSE,4K,2,2,FALSE
+U1495,Female,04-11-1994,30,Tuvalu,Pennsylvania,Laptop,"Hotstar,Netflix,Prime",,57,1,30-01-2025,30-01-2026,Premium,15.57,USD,Card,FALSE,4K,2,2,FALSE
+U1496,Female,22-11-1984,40,Luxembourg,Washington,Laptop,"Hotstar,Netflix,Prime",,54,1,25-06-2025,25-06-2026,Premium,10.21,INR,UPI,TRUE,SD,1,1,FALSE
+U1497,Male,11-09-1991,33,Kyrgyz Republic,New Jersey,Laptop,"Hotstar,Prime",,88,1,26-10-2023,25-10-2024,Premium,14.23,INR,Card,FALSE,4K,2,1,FALSE
+U1498,Female,01-10-1964,60,British Virgin Islands,Virginia,TV,Hotstar,,75,0,19-06-2024,19-06-2025,Premium,15.14,INR,Card,FALSE,SD,4,3,FALSE
+U1499,Other,11-04-1980,45,French Guiana,Pennsylvania,TV,Prime,,96,0,01-11-2024,01-11-2025,Basic,19.83,INR,Wallet,FALSE,HD,1,1,FALSE
+U1500,Female,22-07-2006,18,Solomon Islands,Missouri,Laptop,Prime,,5,0,08-09-2024,08-09-2025,Premium,13.99,INR,Wallet,FALSE,HD,3,3,FALSE
+U1501,Female,23-09-1965,59,Micronesia,Washington,TV,"Hotstar,Netflix,Prime",,119,0,06-12-2024,06-12-2025,Premium,18.99,USD,Wallet,FALSE,SD,2,1,TRUE
+U1502,Other,24-07-1980,44,Eritrea,Iowa,TV,"Hotstar,Prime",,27,1,30-03-2025,30-03-2026,Premium,9.53,INR,Card,FALSE,4K,1,1,FALSE
+U1503,Female,08-03-1975,50,Azerbaijan,Virginia,Laptop,"Netflix,Prime",,116,1,22-05-2025,22-05-2026,Standard,6.34,USD,Card,FALSE,4K,3,3,FALSE
+U1504,Female,10-10-1983,41,Vietnam,Texas,TV,Hotstar,,94,0,09-05-2025,09-05-2026,Premium,11.55,INR,Wallet,FALSE,SD,3,3,TRUE
+U1505,Other,18-11-1977,47,Svalbard & Jan Mayen Islands,Montana,Mobile,"Hotstar,Netflix,Prime",,16,1,29-03-2025,29-03-2026,Basic,5.37,INR,Wallet,FALSE,4K,3,1,TRUE
+U1506,Female,14-02-1998,27,French Guiana,North Carolina,Laptop,"Hotstar,Prime",,31,0,10-08-2024,10-08-2025,Premium,13.4,USD,UPI,FALSE,HD,4,2,TRUE
+U1507,Female,21-03-2002,23,Botswana,New Hampshire,TV,"Hotstar,Prime",,64,1,05-07-2024,05-07-2025,Standard,17.16,INR,Wallet,TRUE,4K,4,1,FALSE
+U1508,Female,29-04-1972,53,Lithuania,Virginia,TV,"Netflix,Prime",,75,1,08-07-2023,07-07-2024,Standard,14.02,USD,Wallet,FALSE,HD,2,2,TRUE
+U1509,Female,03-03-1966,59,Egypt,Utah,Mobile,Netflix,,40,1,10-06-2024,10-06-2025,Standard,12.05,USD,Wallet,FALSE,4K,2,2,TRUE
+U1510,Other,31-07-1979,45,Bolivia,Colorado,Laptop,"Hotstar,Netflix,Prime",,62,1,11-10-2023,10-10-2024,Basic,18.9,USD,Card,TRUE,4K,1,1,FALSE
+U1511,Other,10-11-1964,60,Iran,Arkansas,Mobile,"Netflix,Prime",,86,1,01-06-2025,01-06-2026,Premium,11.47,USD,Card,TRUE,SD,3,3,TRUE
+U1512,Other,24-06-1985,40,Benin,Louisiana,Mobile,"Hotstar,Netflix,Prime",,50,0,24-01-2024,23-01-2025,Standard,9.57,INR,Wallet,FALSE,SD,2,1,TRUE
+U1513,Female,25-01-1987,38,Armenia,Oklahoma,Mobile,"Hotstar,Netflix,Prime",,107,1,28-06-2024,28-06-2025,Standard,19.64,USD,Card,TRUE,4K,2,2,FALSE
+U1514,Other,03-08-1983,41,French Southern Territories,Arkansas,TV,Netflix,,118,1,21-06-2025,21-06-2026,Basic,10.22,INR,Card,FALSE,4K,4,2,TRUE
+U1515,Male,20-08-1979,45,Benin,Pennsylvania,Laptop,"Hotstar,Netflix,Prime",,33,0,22-05-2024,22-05-2025,Standard,14.4,INR,UPI,FALSE,SD,4,2,TRUE
+U1516,Male,17-03-1973,52,Burundi,Michigan,Mobile,"Hotstar,Netflix,Prime",,64,1,28-11-2023,27-11-2024,Premium,14.77,USD,UPI,TRUE,4K,3,1,FALSE
+U1517,Male,30-10-1992,32,Western Sahara,Pennsylvania,TV,Netflix,,110,1,16-10-2023,15-10-2024,Premium,13.14,INR,Card,TRUE,SD,4,2,TRUE
+U1518,Female,21-07-1979,45,Estonia,Pennsylvania,Mobile,"Hotstar,Netflix,Prime",,44,0,06-04-2024,06-04-2025,Standard,17.95,USD,UPI,TRUE,4K,4,2,FALSE
+U1519,Other,31-07-1995,29,Saint Barthelemy,Ohio,TV,Netflix,,79,1,03-07-2024,03-07-2025,Standard,10.46,INR,Card,FALSE,SD,2,2,TRUE
+U1520,Female,13-06-2005,20,Bhutan,West Virginia,Mobile,"Hotstar,Netflix,Prime",,43,0,17-10-2023,16-10-2024,Premium,9.47,INR,Wallet,FALSE,4K,4,3,TRUE
+U1521,Male,10-08-2006,18,Guam,New Jersey,Mobile,"Hotstar,Netflix,Prime",,100,0,29-10-2023,28-10-2024,Premium,13.68,USD,Wallet,FALSE,4K,2,1,TRUE
+U1522,Male,16-01-2000,25,Falkland Islands (Malvinas),New Mexico,Laptop,"Hotstar,Prime",,114,0,26-07-2024,26-07-2025,Standard,6.19,USD,UPI,TRUE,SD,2,2,FALSE
+U1523,Male,29-12-1988,36,Sudan,California,Laptop,"Hotstar,Netflix",,73,1,02-07-2025,02-07-2026,Standard,15.17,USD,UPI,FALSE,HD,4,3,FALSE
+U1524,Female,17-06-1990,35,Andorra,Vermont,Laptop,Prime,,107,0,30-09-2024,30-09-2025,Premium,17.77,INR,Card,FALSE,SD,4,2,FALSE
+U1525,Female,22-02-1985,40,Somalia,Missouri,TV,"Hotstar,Netflix",,24,0,07-05-2024,07-05-2025,Standard,19.11,INR,Wallet,TRUE,SD,3,2,TRUE
+U1526,Other,01-08-1999,25,Macedonia,South Carolina,TV,"Hotstar,Netflix",,99,0,24-02-2024,23-02-2025,Basic,9.73,INR,Wallet,FALSE,HD,2,1,TRUE
+U1527,Female,30-09-1968,56,Belize,Virginia,Laptop,"Hotstar,Netflix,Prime",,59,1,18-10-2024,18-10-2025,Premium,7.94,INR,Card,TRUE,4K,1,1,FALSE
+U1528,Male,15-09-1990,34,Australia,Mississippi,Laptop,Netflix,,21,1,04-03-2025,04-03-2026,Standard,12.33,INR,UPI,FALSE,SD,2,2,FALSE
+U1529,Other,28-01-1995,30,Equatorial Guinea,Massachusetts,Mobile,"Netflix,Prime",,74,0,20-10-2023,19-10-2024,Basic,10.66,USD,Wallet,TRUE,4K,3,3,TRUE
+U1530,Female,27-09-1980,44,Cook Islands,New Jersey,Laptop,"Netflix,Prime",,77,1,28-10-2024,28-10-2025,Premium,19.14,INR,Card,TRUE,SD,4,3,FALSE
+U1531,Female,08-01-1986,39,Isle of Man,Washington,Mobile,Hotstar,,42,1,20-06-2025,20-06-2026,Premium,17.51,INR,Card,FALSE,4K,2,1,FALSE
+U1532,Other,16-05-1966,59,Antigua and Barbuda,Pennsylvania,Mobile,Hotstar,,95,0,04-10-2023,03-10-2024,Standard,8.55,INR,UPI,TRUE,SD,1,1,FALSE
+U1533,Other,27-10-1992,32,Kenya,Florida,Mobile,"Hotstar,Netflix",,30,0,16-01-2024,15-01-2025,Standard,9.62,USD,Card,FALSE,HD,4,2,FALSE
+U1534,Other,08-06-1995,30,Korea,Florida,Laptop,"Hotstar,Netflix,Prime",,17,0,22-06-2024,22-06-2025,Basic,15.32,USD,UPI,TRUE,SD,3,2,TRUE
+U1535,Female,11-01-2002,23,Guinea,Montana,TV,"Hotstar,Netflix",,30,0,07-10-2023,06-10-2024,Premium,11.64,INR,Wallet,TRUE,4K,2,2,TRUE
+U1536,Female,09-08-1978,46,Uganda,Utah,Mobile,Hotstar,,64,0,15-02-2025,15-02-2026,Basic,16.67,USD,Card,TRUE,HD,4,3,TRUE
+U1537,Female,27-08-1965,59,Indonesia,Colorado,TV,"Hotstar,Prime",,106,0,01-08-2024,01-08-2025,Standard,13.78,USD,UPI,FALSE,HD,2,2,TRUE
+U1538,Other,20-09-1967,57,Egypt,Alabama,Laptop,"Hotstar,Netflix,Prime",,46,1,12-11-2024,12-11-2025,Standard,19.62,USD,Wallet,TRUE,HD,2,2,FALSE
+U1539,Other,11-03-1978,47,Japan,Alabama,TV,"Hotstar,Netflix,Prime",,30,0,01-12-2024,01-12-2025,Standard,12.89,USD,UPI,FALSE,HD,4,3,TRUE
+U1540,Male,12-03-1974,51,Ukraine,Maine,Mobile,"Hotstar,Netflix,Prime",,118,1,21-11-2024,21-11-2025,Standard,16.69,USD,Card,TRUE,4K,4,2,FALSE
+U1541,Female,20-01-2000,25,Turkmenistan,Michigan,Mobile,"Hotstar,Prime",,91,0,15-03-2025,15-03-2026,Standard,14.53,USD,Card,TRUE,4K,4,1,FALSE
+U1542,Other,21-01-1978,47,Sierra Leone,Virginia,Laptop,"Hotstar,Netflix",,69,1,29-09-2024,29-09-2025,Basic,17.98,INR,Card,FALSE,4K,1,1,FALSE
+U1543,Other,07-06-1996,29,Bolivia,Kansas,TV,"Hotstar,Netflix",,79,0,14-11-2023,13-11-2024,Basic,17.96,INR,Card,FALSE,4K,3,3,TRUE
+U1544,Other,24-07-1977,47,Malawi,Pennsylvania,TV,Prime,,64,1,16-05-2024,16-05-2025,Premium,11.85,USD,Wallet,FALSE,4K,4,4,FALSE
+U1545,Male,02-11-1995,29,Reunion,Kentucky,TV,"Hotstar,Prime",,70,1,29-11-2024,29-11-2025,Standard,10.65,USD,UPI,FALSE,SD,2,2,TRUE
+U1546,Female,07-08-1966,58,Zimbabwe,New Hampshire,Laptop,"Hotstar,Netflix",,85,1,01-06-2024,01-06-2025,Standard,17.51,INR,Card,TRUE,SD,2,1,TRUE
+U1547,Other,28-06-1991,34,Iceland,Rhode Island,TV,Hotstar,,110,1,21-07-2023,20-07-2024,Basic,19.15,INR,Wallet,TRUE,HD,4,4,TRUE
+U1548,Other,08-05-1970,55,South Africa,Massachusetts,Mobile,"Hotstar,Netflix",,84,0,10-11-2023,09-11-2024,Premium,7.89,USD,Card,FALSE,HD,2,1,TRUE
+U1549,Male,11-07-1971,54,Turks and Caicos Islands,Tennessee,Mobile,"Netflix,Prime",,75,1,28-04-2025,28-04-2026,Standard,19.14,INR,Wallet,FALSE,HD,2,2,FALSE
+U1550,Male,25-07-2001,23,Anguilla,Florida,Mobile,"Hotstar,Netflix",,74,1,16-07-2023,15-07-2024,Basic,11.69,INR,Card,TRUE,HD,3,2,FALSE
+U1551,Female,18-12-1993,31,Gambia,Colorado,Laptop,Prime,,26,0,14-01-2024,13-01-2025,Premium,17.29,INR,Wallet,FALSE,SD,1,1,TRUE
+U1552,Other,05-09-2004,20,Niue,Kentucky,TV,"Netflix,Prime",,26,0,24-07-2024,24-07-2025,Premium,8.21,USD,UPI,FALSE,SD,1,1,FALSE
+U1553,Female,25-10-1976,48,Micronesia,Minnesota,Laptop,"Hotstar,Netflix,Prime",,40,1,26-10-2023,25-10-2024,Basic,7.98,INR,UPI,TRUE,4K,3,2,FALSE
+U1554,Female,02-11-1973,51,French Southern Territories,Kentucky,TV,"Hotstar,Prime",,70,0,18-02-2025,18-02-2026,Premium,11.13,INR,UPI,FALSE,SD,3,2,FALSE
+U1555,Male,17-09-2005,19,Marshall Islands,North Dakota,Laptop,Prime,,59,1,27-10-2024,27-10-2025,Standard,14.8,USD,Wallet,TRUE,SD,3,1,FALSE
+U1556,Male,23-01-1970,55,Senegal,West Virginia,Laptop,Netflix,,58,1,23-04-2024,23-04-2025,Premium,18.03,USD,Wallet,TRUE,4K,1,1,FALSE
+U1557,Male,29-11-1991,33,Liberia,Wisconsin,Laptop,"Hotstar,Netflix",,92,0,02-07-2024,02-07-2025,Basic,15.89,INR,UPI,TRUE,HD,3,1,TRUE
+U1558,Other,01-08-1978,46,Niue,New Hampshire,Laptop,"Hotstar,Netflix",,87,1,29-07-2023,28-07-2024,Standard,8.33,USD,UPI,FALSE,HD,3,3,FALSE
+U1559,Female,21-07-1998,26,Sri Lanka,Kansas,TV,Netflix,,86,0,15-10-2023,14-10-2024,Basic,13.68,USD,Card,TRUE,4K,1,1,FALSE
+U1560,Male,03-10-1983,41,Liechtenstein,Virginia,Mobile,"Hotstar,Netflix,Prime",,109,0,12-04-2024,12-04-2025,Premium,15.1,INR,UPI,TRUE,4K,1,1,FALSE
+U1561,Male,22-08-1982,42,Sudan,California,Laptop,"Hotstar,Netflix,Prime",,90,1,08-01-2024,07-01-2025,Basic,15.16,INR,Wallet,FALSE,HD,4,4,FALSE
+U1562,Female,28-12-1984,40,Nepal,Kansas,Laptop,Hotstar,,100,0,14-05-2025,14-05-2026,Premium,19.77,USD,UPI,TRUE,HD,3,2,TRUE
+U1563,Female,23-04-1990,35,Qatar,Louisiana,TV,"Hotstar,Netflix",,76,0,15-11-2024,15-11-2025,Basic,10.51,INR,Wallet,FALSE,HD,1,1,FALSE
+U1564,Male,18-09-1999,25,Equatorial Guinea,Alaska,Mobile,"Hotstar,Netflix,Prime",,9,1,12-03-2024,12-03-2025,Basic,6.13,INR,Wallet,FALSE,HD,3,2,TRUE
+U1565,Female,11-11-1990,34,Bermuda,Minnesota,Laptop,Prime,,76,1,29-12-2023,28-12-2024,Premium,18.11,USD,Wallet,TRUE,4K,2,1,FALSE
+U1566,Other,29-05-1984,41,El Salvador,Pennsylvania,Mobile,Hotstar,,63,1,30-05-2025,30-05-2026,Standard,19.11,INR,UPI,FALSE,SD,3,3,FALSE
+U1567,Female,29-12-1970,54,Solomon Islands,Massachusetts,TV,"Hotstar,Netflix",,90,0,04-01-2025,04-01-2026,Premium,9.72,INR,UPI,FALSE,SD,1,1,TRUE
+U1568,Other,26-10-1976,48,Equatorial Guinea,Mississippi,Laptop,Hotstar,,32,1,21-04-2025,21-04-2026,Standard,9.78,USD,Card,FALSE,HD,3,2,FALSE
+U1569,Other,13-05-1997,28,Marshall Islands,Michigan,Laptop,Netflix,,88,0,27-11-2023,26-11-2024,Standard,17.47,INR,Wallet,FALSE,HD,1,1,TRUE
+U1570,Male,25-02-2004,21,Solomon Islands,Nevada,Mobile,Netflix,,41,0,23-08-2023,22-08-2024,Basic,8.05,USD,Wallet,FALSE,4K,3,2,FALSE
+U1571,Female,06-12-1996,28,Cameroon,Connecticut,TV,"Hotstar,Netflix",,8,0,13-04-2024,13-04-2025,Premium,19.73,USD,Wallet,FALSE,SD,1,1,FALSE
+U1572,Male,17-09-1988,36,Samoa,Colorado,Mobile,"Hotstar,Netflix",,48,1,27-03-2025,27-03-2026,Standard,6.21,INR,UPI,FALSE,4K,1,1,TRUE
+U1573,Other,24-12-1991,33,Czech Republic,Tennessee,Laptop,"Hotstar,Netflix,Prime",,51,1,09-07-2023,08-07-2024,Basic,11.04,USD,Wallet,TRUE,4K,4,4,FALSE
+U1574,Other,10-10-1967,57,Cayman Islands,Vermont,TV,"Hotstar,Netflix",,12,0,30-06-2025,30-06-2026,Premium,12.26,INR,UPI,FALSE,4K,1,1,FALSE
+U1575,Other,20-11-1969,55,Papua New Guinea,North Dakota,Mobile,Hotstar,,42,0,08-09-2023,07-09-2024,Premium,7.39,INR,Wallet,TRUE,SD,2,2,TRUE
+U1576,Male,02-02-1994,31,Australia,Nevada,Laptop,Hotstar,,71,0,02-07-2025,02-07-2026,Basic,12.82,USD,Card,FALSE,HD,3,2,FALSE
+U1577,Other,23-01-2002,23,Dominica,Tennessee,Laptop,Netflix,,75,1,20-10-2023,19-10-2024,Basic,6.24,USD,UPI,FALSE,SD,4,4,TRUE
+U1578,Male,22-02-1982,43,Haiti,Washington,TV,"Hotstar,Netflix,Prime",,108,1,20-10-2023,19-10-2024,Basic,18.29,USD,UPI,FALSE,SD,4,3,FALSE
+U1579,Female,12-07-1974,51,Russian Federation,West Virginia,TV,"Hotstar,Netflix,Prime",,118,0,23-02-2025,23-02-2026,Standard,6.36,INR,Card,TRUE,HD,3,1,FALSE
+U1580,Female,14-02-1989,36,Armenia,Iowa,Mobile,Netflix,,113,1,16-09-2024,16-09-2025,Basic,10.11,USD,Wallet,FALSE,HD,2,2,TRUE
+U1581,Other,16-02-2007,18,Croatia,Michigan,TV,"Hotstar,Prime",,5,1,20-04-2025,20-04-2026,Standard,8.93,USD,Wallet,FALSE,SD,3,1,TRUE
+U1582,Female,31-03-2004,21,Armenia,Kentucky,Laptop,"Hotstar,Netflix,Prime",,32,1,16-10-2024,16-10-2025,Basic,5.51,INR,Card,TRUE,4K,4,3,TRUE
+U1583,Male,06-11-2003,21,Fiji,Delaware,Laptop,Netflix,,88,0,11-08-2023,10-08-2024,Standard,19.86,INR,UPI,FALSE,HD,1,1,TRUE
+U1584,Other,12-10-1973,51,Brazil,Wyoming,TV,Prime,,102,1,19-05-2025,19-05-2026,Basic,10.9,USD,Wallet,FALSE,HD,2,2,TRUE
+U1585,Female,03-04-1991,34,Guam,South Carolina,TV,"Hotstar,Netflix,Prime",,69,1,24-04-2024,24-04-2025,Premium,12.05,INR,UPI,TRUE,HD,4,3,FALSE
+U1586,Male,23-06-2002,23,Lao People's Democratic Republic,Iowa,Laptop,Netflix,,75,0,09-06-2024,09-06-2025,Premium,13.01,USD,Wallet,TRUE,4K,3,1,FALSE
+U1587,Female,15-08-1995,29,Swaziland,Pennsylvania,Mobile,"Hotstar,Netflix,Prime",,61,0,14-09-2023,13-09-2024,Basic,12.98,USD,Card,FALSE,HD,4,2,FALSE
+U1588,Other,28-06-1983,42,French Polynesia,Indiana,Mobile,"Hotstar,Netflix,Prime",,20,1,14-05-2025,14-05-2026,Premium,14.25,USD,Wallet,TRUE,SD,4,4,FALSE
+U1589,Other,31-05-1995,30,Nepal,Texas,Laptop,"Hotstar,Netflix,Prime",,14,0,02-01-2025,02-01-2026,Basic,6.12,USD,Card,TRUE,4K,2,2,FALSE
+U1590,Female,26-01-1995,30,Dominican Republic,Washington,Laptop,Netflix,,51,1,03-03-2024,03-03-2025,Premium,9.97,USD,Wallet,TRUE,4K,3,2,TRUE
+U1591,Female,07-09-1976,48,Guadeloupe,Idaho,TV,"Hotstar,Netflix,Prime",,13,0,16-11-2024,16-11-2025,Basic,19.09,INR,Card,FALSE,HD,2,1,TRUE
+U1592,Other,13-02-1979,46,Myanmar,Kansas,Laptop,"Hotstar,Netflix,Prime",,72,0,19-12-2023,18-12-2024,Premium,19.14,USD,Wallet,FALSE,4K,1,1,FALSE
+U1593,Male,22-08-1984,40,Ethiopia,New Jersey,Laptop,"Hotstar,Netflix,Prime",,114,1,09-09-2023,08-09-2024,Standard,6.6,USD,Card,FALSE,SD,2,1,TRUE
+U1594,Other,05-06-1965,60,Chile,Arkansas,Mobile,"Hotstar,Netflix,Prime",,46,0,07-03-2024,07-03-2025,Basic,11.45,INR,Wallet,FALSE,HD,1,1,TRUE
+U1595,Male,25-10-1986,38,Iceland,Arkansas,TV,Prime,,6,1,04-03-2025,04-03-2026,Premium,15.49,USD,Wallet,FALSE,SD,3,1,TRUE
+U1596,Male,10-08-1971,53,Algeria,West Virginia,Mobile,"Hotstar,Netflix,Prime",,38,0,10-05-2025,10-05-2026,Standard,11.29,USD,Card,FALSE,SD,4,1,TRUE
+U1597,Other,03-10-1990,34,Guyana,Texas,TV,"Hotstar,Netflix,Prime",,113,1,23-07-2023,22-07-2024,Basic,17.53,USD,Card,TRUE,HD,3,3,FALSE
+U1598,Other,22-05-1968,57,Andorra,Illinois,TV,"Hotstar,Prime",,107,1,01-01-2024,31-12-2024,Standard,8.19,USD,Wallet,TRUE,HD,2,2,FALSE
+U1599,Male,18-07-1987,37,Uruguay,Nebraska,TV,Hotstar,,18,0,08-11-2023,07-11-2024,Basic,14.61,USD,Wallet,TRUE,4K,4,2,FALSE
+U1600,Male,17-11-1991,33,Eritrea,Washington,Mobile,"Netflix,Prime",,87,1,18-01-2025,18-01-2026,Basic,16.95,USD,UPI,TRUE,HD,1,1,TRUE
+U1601,Male,14-09-1981,43,Guatemala,Kansas,TV,"Hotstar,Netflix",,17,0,07-06-2024,07-06-2025,Standard,12.78,USD,Wallet,TRUE,4K,3,1,FALSE
+U1602,Male,12-07-1989,36,Ireland,West Virginia,Laptop,Netflix,,10,1,15-07-2023,14-07-2024,Premium,10.99,USD,UPI,FALSE,SD,2,2,TRUE
+U1603,Other,22-12-1988,36,Jordan,West Virginia,Laptop,"Hotstar,Netflix,Prime",,91,1,25-07-2023,24-07-2024,Standard,18.05,INR,UPI,TRUE,HD,2,2,TRUE
+U1604,Male,20-03-1994,31,Northern Mariana Islands,New Mexico,Mobile,Prime,,61,1,26-07-2023,25-07-2024,Premium,14.2,INR,Wallet,FALSE,4K,4,1,TRUE
+U1605,Other,30-10-1982,42,Bahrain,Kentucky,TV,"Hotstar,Prime",,19,0,03-12-2023,02-12-2024,Premium,14.02,INR,UPI,TRUE,HD,1,1,FALSE
+U1606,Other,02-10-1970,54,Austria,Texas,TV,Prime,,119,1,10-07-2023,09-07-2024,Basic,11.14,INR,UPI,FALSE,HD,3,2,TRUE
+U1607,Other,19-12-1998,26,Italy,Kansas,Laptop,Prime,,15,0,19-10-2024,19-10-2025,Premium,13.37,INR,UPI,TRUE,4K,2,1,TRUE
+U1608,Other,26-08-1978,46,Korea,Florida,TV,"Hotstar,Prime",,28,1,03-10-2023,02-10-2024,Standard,16.32,USD,UPI,FALSE,4K,3,1,FALSE
+U1609,Other,15-07-1977,48,Burkina Faso,Hawaii,TV,Prime,,36,0,18-06-2025,18-06-2026,Premium,12.41,INR,UPI,TRUE,HD,3,1,FALSE
+U1610,Female,29-01-1981,44,Hungary,Nevada,TV,"Hotstar,Netflix,Prime",,37,0,03-08-2023,02-08-2024,Standard,5.22,INR,UPI,FALSE,HD,3,3,TRUE
+U1611,Female,18-12-1967,57,United States of America,New Mexico,Laptop,Hotstar,,8,1,04-10-2024,04-10-2025,Standard,7.33,INR,Card,FALSE,SD,3,2,TRUE
+U1612,Other,14-03-1986,39,Eritrea,New York,TV,"Hotstar,Netflix,Prime",,113,1,25-07-2024,25-07-2025,Basic,14.62,INR,UPI,FALSE,HD,4,1,FALSE
+U1613,Female,07-01-1974,51,Belarus,Oklahoma,Laptop,"Hotstar,Netflix,Prime",,86,1,04-01-2024,03-01-2025,Standard,5.04,USD,UPI,FALSE,4K,4,1,FALSE
+U1614,Other,08-09-1981,43,Korea,Missouri,TV,"Hotstar,Netflix,Prime",,88,0,27-04-2025,27-04-2026,Premium,6.86,INR,Wallet,FALSE,SD,1,1,FALSE
+U1615,Male,04-01-1968,57,Saint Kitts and Nevis,Vermont,TV,Netflix,,96,0,02-11-2024,02-11-2025,Basic,16.9,INR,UPI,TRUE,4K,4,4,TRUE
+U1616,Male,07-09-1976,48,South Georgia and the South Sandwich Islands,Kansas,TV,"Hotstar,Prime",,99,1,03-07-2025,03-07-2026,Standard,15.17,INR,Card,FALSE,HD,1,1,TRUE
+U1617,Female,02-05-1971,54,Niue,Idaho,Laptop,Netflix,,104,0,19-05-2024,19-05-2025,Standard,7.11,USD,UPI,FALSE,SD,2,2,TRUE
+U1618,Male,13-07-1967,58,Faroe Islands,Maryland,Mobile,Hotstar,,83,0,07-01-2024,06-01-2025,Standard,10.87,USD,UPI,TRUE,HD,1,1,TRUE
+U1619,Male,21-06-1966,59,Cyprus,Washington,Laptop,"Hotstar,Netflix",,88,0,08-05-2024,08-05-2025,Standard,18.32,INR,Card,FALSE,HD,3,2,TRUE
+U1620,Other,27-10-1995,29,Mauritania,Alabama,TV,"Hotstar,Netflix",,88,0,07-12-2024,07-12-2025,Basic,13.54,USD,UPI,FALSE,HD,2,1,TRUE
+U1621,Other,13-07-1973,52,Sierra Leone,Louisiana,Mobile,Hotstar,,49,1,17-03-2024,17-03-2025,Premium,12.02,USD,Wallet,TRUE,4K,4,1,FALSE
+U1622,Male,09-07-1969,56,Moldova,Oklahoma,Laptop,"Netflix,Prime",,41,0,26-09-2023,25-09-2024,Standard,19.09,INR,Card,TRUE,HD,3,2,TRUE
+U1623,Female,06-08-1977,47,Solomon Islands,New Hampshire,Mobile,Netflix,,55,0,12-01-2025,12-01-2026,Standard,18.71,USD,Wallet,FALSE,4K,3,2,TRUE
+U1624,Male,16-09-1979,45,Mexico,Washington,Mobile,Prime,,116,1,07-01-2025,07-01-2026,Standard,8.75,USD,UPI,TRUE,4K,3,1,TRUE
+U1625,Other,11-02-1976,49,Guadeloupe,West Virginia,Mobile,Hotstar,,26,1,28-05-2025,28-05-2026,Premium,13.27,INR,Wallet,FALSE,4K,2,2,TRUE
+U1626,Female,09-01-1989,36,Saint Lucia,Pennsylvania,Mobile,"Netflix,Prime",,42,1,24-01-2024,23-01-2025,Basic,9.15,INR,Wallet,TRUE,HD,4,2,TRUE
+U1627,Female,17-10-1990,34,Bhutan,New York,TV,Prime,,5,0,22-12-2024,22-12-2025,Basic,19.03,USD,Wallet,FALSE,SD,3,1,TRUE
+U1628,Male,04-04-1975,50,Haiti,South Carolina,TV,"Netflix,Prime",,58,1,23-02-2025,23-02-2026,Premium,8.85,INR,UPI,TRUE,SD,3,2,TRUE
+U1629,Other,03-08-1991,33,Sierra Leone,Georgia,TV,Hotstar,,90,0,23-10-2024,23-10-2025,Premium,17.76,USD,Card,FALSE,HD,1,1,TRUE
+U1630,Female,18-01-1978,47,Isle of Man,Nevada,TV,Hotstar,,19,0,22-06-2024,22-06-2025,Standard,11.39,USD,Wallet,TRUE,HD,2,1,TRUE
+U1631,Female,06-06-1976,49,Christmas Island,Rhode Island,Laptop,"Hotstar,Netflix,Prime",,71,0,24-03-2024,24-03-2025,Standard,10.53,USD,Card,FALSE,SD,3,2,FALSE
+U1632,Female,20-10-1964,60,Tanzania,Wisconsin,TV,"Hotstar,Netflix,Prime",,117,1,08-11-2023,07-11-2024,Premium,14.73,INR,Card,TRUE,4K,4,4,FALSE
+U1633,Male,13-11-1998,26,Ethiopia,Arkansas,Laptop,Netflix,,38,1,23-10-2023,22-10-2024,Basic,19.93,USD,Card,TRUE,HD,4,2,TRUE
+U1634,Female,13-11-1972,52,Myanmar,Pennsylvania,Mobile,"Hotstar,Netflix,Prime",,119,1,21-03-2024,21-03-2025,Standard,13.18,INR,Card,TRUE,SD,3,1,TRUE
+U1635,Female,30-01-1981,44,Paraguay,New Hampshire,Mobile,"Hotstar,Prime",,95,1,08-01-2024,07-01-2025,Premium,14.65,USD,Card,FALSE,HD,1,1,TRUE
+U1636,Other,09-06-1985,40,Saint Lucia,Kansas,TV,"Netflix,Prime",,98,0,28-12-2023,27-12-2024,Standard,8.85,USD,UPI,TRUE,HD,2,1,FALSE
+U1637,Other,31-08-1981,43,Burundi,Michigan,TV,Prime,,17,1,28-03-2024,28-03-2025,Standard,18.94,USD,Card,FALSE,4K,1,1,TRUE
+U1638,Male,11-07-1981,44,Madagascar,Louisiana,Laptop,"Hotstar,Netflix",,92,0,14-03-2025,14-03-2026,Basic,15.64,INR,UPI,FALSE,HD,3,1,TRUE
+U1639,Male,17-09-1994,30,Myanmar,New Hampshire,Mobile,"Hotstar,Netflix",,64,0,23-06-2024,23-06-2025,Standard,12.4,USD,UPI,TRUE,HD,4,1,FALSE
+U1640,Female,31-08-1978,46,Botswana,Connecticut,Laptop,"Hotstar,Netflix",,51,1,03-08-2023,02-08-2024,Standard,12.83,INR,Wallet,FALSE,4K,3,2,TRUE
+U1641,Female,01-07-1973,52,Sierra Leone,Oregon,Laptop,"Hotstar,Netflix,Prime",,45,0,18-02-2024,17-02-2025,Basic,16.43,USD,Card,TRUE,SD,1,1,FALSE
+U1642,Female,09-04-2007,18,Bouvet Island (Bouvetoya),Vermont,TV,Netflix,,27,1,27-06-2025,27-06-2026,Basic,10.7,INR,UPI,TRUE,SD,3,1,TRUE
+U1643,Other,03-08-1985,39,Armenia,Massachusetts,Mobile,"Hotstar,Prime",,29,0,04-07-2025,04-07-2026,Standard,17.77,USD,UPI,FALSE,4K,3,2,FALSE
+U1644,Female,16-03-2002,23,Pakistan,Hawaii,TV,"Hotstar,Netflix",,98,1,07-06-2024,07-06-2025,Basic,15.67,USD,Card,TRUE,HD,4,4,TRUE
+U1645,Male,04-12-1997,27,Liechtenstein,Ohio,Laptop,Netflix,,78,0,22-03-2025,22-03-2026,Basic,19.75,INR,UPI,TRUE,4K,4,2,FALSE
+U1646,Other,11-07-2003,22,Tunisia,California,Mobile,"Hotstar,Netflix,Prime",,52,0,14-04-2025,14-04-2026,Premium,6.36,INR,Wallet,TRUE,HD,3,2,TRUE
+U1647,Other,27-01-1999,26,Madagascar,Maryland,Laptop,"Hotstar,Prime",,12,1,11-11-2023,10-11-2024,Standard,16.72,USD,Wallet,FALSE,4K,4,4,FALSE
+U1648,Other,18-03-1971,54,Finland,New Mexico,TV,Hotstar,,105,1,12-04-2024,12-04-2025,Premium,16,USD,UPI,FALSE,SD,2,2,FALSE
+U1649,Other,16-12-1968,56,Norfolk Island,Maine,TV,Prime,,60,1,05-05-2024,05-05-2025,Basic,13.06,INR,Card,TRUE,4K,2,1,TRUE
+U1650,Other,08-08-1984,40,Cook Islands,Idaho,Laptop,"Hotstar,Netflix",,58,0,21-04-2025,21-04-2026,Standard,6.94,USD,UPI,FALSE,HD,2,1,FALSE
+U1651,Other,23-01-1980,45,Guernsey,Georgia,Mobile,"Hotstar,Netflix,Prime",,87,1,26-01-2025,26-01-2026,Premium,5.38,INR,UPI,FALSE,SD,4,4,FALSE
+U1652,Male,31-05-1996,29,Kiribati,Missouri,TV,"Netflix,Prime",,105,1,17-08-2023,16-08-2024,Standard,18.84,INR,Card,TRUE,SD,1,1,FALSE
+U1653,Female,17-05-1982,43,Lebanon,Virginia,Laptop,"Hotstar,Netflix,Prime",,42,1,05-04-2025,05-04-2026,Premium,7.39,USD,UPI,TRUE,4K,3,3,FALSE
+U1654,Male,04-01-1991,34,Colombia,Wyoming,TV,Hotstar,,33,1,13-04-2024,13-04-2025,Standard,16.03,INR,Card,FALSE,HD,4,3,FALSE
+U1655,Male,07-02-1994,31,Trinidad and Tobago,California,Laptop,Hotstar,,76,1,12-08-2023,11-08-2024,Premium,9.08,INR,Wallet,FALSE,HD,2,2,FALSE
+U1656,Female,04-05-1972,53,Reunion,Nevada,Mobile,Netflix,,40,1,12-06-2025,12-06-2026,Basic,10.37,USD,Card,FALSE,HD,3,2,TRUE
+U1657,Male,06-07-1991,34,Egypt,Wyoming,Mobile,"Hotstar,Netflix,Prime",,37,1,19-12-2024,19-12-2025,Standard,6.97,USD,Card,TRUE,SD,1,1,TRUE
+U1658,Female,27-05-1978,47,Hungary,Minnesota,Laptop,"Hotstar,Netflix",,118,0,17-12-2023,16-12-2024,Premium,8.9,INR,Wallet,FALSE,SD,1,1,FALSE
+U1659,Female,22-02-1970,55,Lithuania,Illinois,Mobile,"Hotstar,Netflix,Prime",,70,0,14-04-2025,14-04-2026,Basic,5.55,INR,UPI,TRUE,HD,2,2,FALSE
+U1660,Female,03-12-1994,30,Poland,Oregon,Mobile,Hotstar,,111,1,07-09-2023,06-09-2024,Basic,17.44,USD,Wallet,TRUE,4K,1,1,TRUE
+U1661,Male,07-06-1975,50,Norway,Florida,TV,Hotstar,,101,1,06-07-2024,06-07-2025,Standard,15.05,INR,Wallet,TRUE,HD,3,2,FALSE
+U1662,Male,21-09-1994,30,Korea,New Hampshire,Mobile,"Hotstar,Prime",,90,1,03-03-2025,03-03-2026,Premium,6.77,INR,Wallet,TRUE,4K,2,2,FALSE
+U1663,Female,30-05-1975,50,Chile,Wisconsin,Laptop,"Hotstar,Netflix",,73,0,23-02-2025,23-02-2026,Standard,18.84,USD,Wallet,FALSE,SD,3,3,TRUE
+U1664,Other,16-07-1984,41,Tuvalu,Utah,Mobile,Hotstar,,82,1,30-10-2023,29-10-2024,Premium,16.63,USD,Wallet,TRUE,SD,1,1,TRUE
+U1665,Male,31-12-1974,50,Myanmar,Louisiana,TV,"Netflix,Prime",,112,1,15-09-2023,14-09-2024,Standard,7.54,USD,UPI,FALSE,HD,4,3,TRUE
+U1666,Male,02-12-1964,60,Falkland Islands (Malvinas),California,Laptop,"Hotstar,Netflix,Prime",,20,1,26-05-2025,26-05-2026,Premium,8.97,INR,Card,FALSE,HD,3,3,TRUE
+U1667,Male,16-01-1967,58,Bulgaria,Washington,TV,"Hotstar,Netflix,Prime",,73,0,16-04-2025,16-04-2026,Basic,14.64,INR,Wallet,FALSE,SD,2,1,TRUE
+U1668,Female,16-12-1984,40,Brunei Darussalam,New York,TV,"Hotstar,Netflix,Prime",,42,1,17-08-2024,17-08-2025,Premium,7.02,INR,UPI,TRUE,SD,4,4,FALSE
+U1669,Male,01-05-1974,51,French Southern Territories,Florida,Mobile,"Hotstar,Netflix,Prime",,101,1,14-05-2025,14-05-2026,Standard,18.3,INR,UPI,TRUE,SD,1,1,FALSE
+U1670,Other,11-11-1981,43,Jamaica,Missouri,TV,"Hotstar,Netflix,Prime",,103,0,02-02-2024,01-02-2025,Standard,19.29,USD,UPI,FALSE,4K,2,1,FALSE
+U1671,Other,08-04-2001,24,Namibia,Maine,Mobile,"Hotstar,Netflix,Prime",,12,1,04-09-2023,03-09-2024,Standard,14.59,USD,UPI,FALSE,HD,1,1,TRUE
+U1672,Male,27-06-1995,30,Seychelles,Georgia,Laptop,Netflix,,62,0,21-07-2024,21-07-2025,Standard,5.83,INR,Card,FALSE,SD,2,1,FALSE
+U1673,Male,21-07-2000,24,Saint Vincent and the Grenadines,Colorado,Mobile,Hotstar,,19,0,27-08-2023,26-08-2024,Basic,18.68,INR,Card,TRUE,SD,3,3,FALSE
+U1674,Female,25-09-1993,31,Chad,Utah,Laptop,"Hotstar,Netflix,Prime",,42,0,08-07-2023,07-07-2024,Standard,9.22,USD,UPI,FALSE,HD,1,1,FALSE
+U1675,Female,02-09-1979,45,Bahrain,Vermont,Laptop,"Netflix,Prime",,58,0,10-09-2023,09-09-2024,Standard,13.52,USD,Wallet,TRUE,HD,3,3,FALSE
+U1676,Female,14-01-1983,42,Cocos (Keeling) Islands,Mississippi,Mobile,Hotstar,,107,1,23-05-2025,23-05-2026,Standard,13.9,USD,Wallet,FALSE,SD,1,1,TRUE
+U1677,Female,08-08-1990,34,Cambodia,Wisconsin,Laptop,"Hotstar,Netflix,Prime",,11,1,06-03-2025,06-03-2026,Standard,15.44,USD,Wallet,FALSE,HD,1,1,TRUE
+U1678,Other,30-07-1989,35,Algeria,New Jersey,Mobile,"Netflix,Prime",,101,0,26-07-2023,25-07-2024,Standard,9.88,INR,Card,TRUE,HD,3,1,TRUE
+U1679,Male,05-01-1972,53,Somalia,Iowa,Laptop,Hotstar,,19,1,27-03-2024,27-03-2025,Standard,5.78,USD,Wallet,FALSE,4K,3,1,TRUE
+U1680,Female,28-11-1982,42,Ukraine,Pennsylvania,Laptop,Prime,,104,0,31-05-2025,31-05-2026,Basic,13.48,INR,Card,FALSE,4K,3,2,TRUE
+U1681,Male,09-07-2002,23,Australia,Mississippi,Laptop,"Hotstar,Prime",,109,0,07-05-2025,07-05-2026,Standard,16.41,INR,Card,FALSE,HD,2,1,FALSE
+U1682,Male,30-10-1986,38,Honduras,Massachusetts,Mobile,"Hotstar,Netflix,Prime",,9,0,16-06-2025,16-06-2026,Standard,5.66,INR,UPI,FALSE,4K,4,2,FALSE
+U1683,Other,31-05-1985,40,Tokelau,Maine,TV,"Netflix,Prime",,104,1,14-07-2024,14-07-2025,Premium,15.28,INR,Wallet,FALSE,4K,3,1,TRUE
+U1684,Male,19-07-1990,34,Thailand,Colorado,Laptop,Prime,,52,1,11-10-2024,11-10-2025,Basic,6.93,USD,Wallet,FALSE,HD,1,1,FALSE
+U1685,Male,07-07-1967,58,Luxembourg,Montana,Mobile,"Hotstar,Netflix,Prime",,36,0,14-02-2025,14-02-2026,Basic,14.74,USD,UPI,TRUE,4K,4,4,TRUE
+U1686,Male,09-04-1993,32,Spain,Utah,TV,"Hotstar,Netflix",,69,1,06-07-2024,06-07-2025,Standard,9.78,INR,UPI,TRUE,4K,2,1,TRUE
+U1687,Male,28-04-1978,47,Bermuda,Illinois,Laptop,Hotstar,,69,1,05-01-2024,04-01-2025,Standard,13.9,INR,Card,TRUE,HD,3,3,TRUE
+U1688,Other,22-06-1975,50,Mali,Texas,TV,"Hotstar,Netflix",,109,0,20-12-2023,19-12-2024,Standard,14.93,INR,UPI,FALSE,HD,1,1,TRUE
+U1689,Female,26-06-1993,32,Papua New Guinea,California,Mobile,Prime,,95,1,01-05-2025,01-05-2026,Premium,19.85,INR,UPI,FALSE,4K,3,3,FALSE
+U1690,Female,08-03-1979,46,Spain,New York,Mobile,Hotstar,,105,1,05-03-2025,05-03-2026,Basic,11.89,USD,Wallet,FALSE,HD,2,1,FALSE
+U1691,Male,15-07-1996,28,Brunei Darussalam,Alabama,Laptop,Prime,,119,1,09-10-2023,08-10-2024,Premium,8.47,USD,Card,FALSE,4K,4,2,TRUE
+U1692,Male,08-01-2005,20,Burundi,Montana,Laptop,"Hotstar,Netflix,Prime",,63,1,19-01-2025,19-01-2026,Basic,12.49,USD,UPI,FALSE,HD,3,1,TRUE
+U1693,Female,01-02-1977,48,Nigeria,Montana,Laptop,"Netflix,Prime",,107,0,02-01-2024,01-01-2025,Basic,17.06,USD,UPI,TRUE,SD,4,3,FALSE
+U1694,Male,26-07-1975,49,Macao,Oklahoma,TV,Netflix,,13,0,08-01-2025,08-01-2026,Premium,16.25,USD,Wallet,FALSE,4K,2,1,FALSE
+U1695,Other,24-11-1987,37,Solomon Islands,New Hampshire,Mobile,"Hotstar,Netflix,Prime",,95,0,06-03-2025,06-03-2026,Standard,7.58,USD,UPI,FALSE,HD,4,1,TRUE
+U1696,Male,14-10-1979,45,Portugal,Virginia,Laptop,"Hotstar,Netflix,Prime",,97,1,19-05-2024,19-05-2025,Standard,12.83,USD,Wallet,FALSE,4K,2,1,TRUE
+U1697,Other,15-10-1971,53,Netherlands Antilles,Maryland,TV,Hotstar,,87,1,11-07-2024,11-07-2025,Basic,11.69,INR,Wallet,FALSE,SD,1,1,FALSE
+U1698,Other,21-12-1966,58,Luxembourg,New York,Laptop,"Hotstar,Netflix",,118,1,19-01-2024,18-01-2025,Premium,18.71,USD,UPI,FALSE,SD,4,4,FALSE
+U1699,Male,12-01-1980,45,Suriname,New Jersey,Laptop,"Hotstar,Netflix,Prime",,40,0,05-06-2025,05-06-2026,Basic,18.25,INR,UPI,FALSE,4K,2,2,TRUE
+U1700,Male,26-03-1980,45,Russian Federation,Connecticut,Mobile,"Hotstar,Netflix,Prime",,26,0,06-11-2023,05-11-2024,Basic,10.07,USD,Wallet,FALSE,SD,4,3,TRUE
+U1701,Male,22-01-1998,27,Oman,Connecticut,TV,Prime,,23,1,13-12-2023,12-12-2024,Basic,15.68,INR,UPI,FALSE,4K,2,1,FALSE
+U1702,Male,28-02-1997,28,Tuvalu,Rhode Island,Mobile,Hotstar,,99,0,26-11-2023,25-11-2024,Premium,17.09,USD,UPI,FALSE,SD,3,2,FALSE
+U1703,Male,30-05-1966,59,Bosnia and Herzegovina,Delaware,TV,"Netflix,Prime",,44,0,18-02-2024,17-02-2025,Standard,14,USD,Wallet,TRUE,HD,1,1,TRUE
+U1704,Male,08-09-2005,19,Ghana,Rhode Island,Laptop,"Netflix,Prime",,77,0,01-06-2024,01-06-2025,Standard,13.71,INR,Card,FALSE,4K,1,1,TRUE
+U1705,Male,04-09-2001,23,Cyprus,Maryland,TV,"Hotstar,Netflix,Prime",,77,0,12-04-2024,12-04-2025,Basic,16.62,USD,Card,TRUE,SD,1,1,TRUE
+U1706,Other,05-08-1964,60,Heard Island and McDonald Islands,Minnesota,Mobile,Prime,,36,1,09-01-2025,09-01-2026,Basic,8.12,INR,UPI,TRUE,4K,1,1,FALSE
+U1707,Other,21-10-1972,52,Heard Island and McDonald Islands,Colorado,TV,"Netflix,Prime",,38,0,08-10-2023,07-10-2024,Premium,17.57,INR,UPI,TRUE,HD,1,1,FALSE
+U1708,Other,29-03-1976,49,French Polynesia,Ohio,Mobile,"Hotstar,Netflix",,60,0,30-09-2024,30-09-2025,Premium,19.18,INR,UPI,FALSE,4K,1,1,TRUE
+U1709,Female,08-01-1987,38,Finland,Missouri,Laptop,Hotstar,,15,1,03-05-2024,03-05-2025,Standard,12.24,INR,Card,FALSE,SD,1,1,TRUE
+U1710,Male,13-03-1975,50,Guyana,Kentucky,TV,Prime,,13,0,29-09-2023,28-09-2024,Standard,14.64,INR,Wallet,FALSE,HD,1,1,TRUE
+U1711,Female,30-12-1981,43,Guatemala,New Jersey,TV,"Hotstar,Netflix,Prime",,19,1,07-01-2024,06-01-2025,Standard,11.33,INR,Wallet,TRUE,HD,1,1,TRUE
+U1712,Male,10-10-1994,30,Grenada,Ohio,Laptop,"Hotstar,Netflix",,44,0,09-06-2024,09-06-2025,Premium,5.32,INR,Wallet,TRUE,SD,1,1,FALSE
+U1713,Male,26-03-1990,35,Canada,Wisconsin,TV,"Hotstar,Netflix,Prime",,112,0,18-08-2023,17-08-2024,Standard,6.66,USD,Card,FALSE,HD,1,1,TRUE
+U1714,Male,25-07-1971,53,Georgia,West Virginia,Mobile,"Hotstar,Netflix,Prime",,111,1,03-04-2024,03-04-2025,Basic,19.17,INR,Wallet,FALSE,4K,3,2,FALSE
+U1715,Other,19-05-1975,50,Afghanistan,Connecticut,TV,"Hotstar,Prime",,53,0,17-07-2023,16-07-2024,Basic,18.9,USD,Wallet,TRUE,4K,4,4,TRUE
+U1716,Other,10-03-1971,54,Chad,West Virginia,Mobile,"Netflix,Prime",,93,0,22-08-2023,21-08-2024,Basic,7.3,USD,Wallet,TRUE,HD,2,1,FALSE
+U1717,Female,25-08-1969,55,Samoa,New Mexico,Laptop,Netflix,,16,1,19-04-2025,19-04-2026,Basic,5.16,USD,Card,FALSE,4K,1,1,TRUE
+U1718,Other,17-06-1994,31,Bangladesh,Connecticut,Mobile,"Hotstar,Netflix,Prime",,30,1,10-06-2024,10-06-2025,Premium,12.78,INR,Card,FALSE,SD,2,1,TRUE
+U1719,Male,11-02-1974,51,Equatorial Guinea,Mississippi,Mobile,"Hotstar,Netflix,Prime",,14,1,06-06-2025,06-06-2026,Basic,10.13,INR,UPI,FALSE,SD,2,2,TRUE
+U1720,Male,07-03-1993,32,British Indian Ocean Territory (Chagos Archipelago),Iowa,TV,Netflix,,94,1,10-01-2025,10-01-2026,Standard,10.13,USD,Wallet,TRUE,4K,1,1,FALSE
+U1721,Other,02-04-1999,26,Mauritania,Georgia,Mobile,"Hotstar,Netflix",,14,1,24-07-2024,24-07-2025,Basic,8.82,INR,Card,FALSE,4K,4,2,FALSE
+U1722,Male,13-12-1972,52,Somalia,Pennsylvania,Laptop,"Hotstar,Prime",,13,0,27-01-2024,26-01-2025,Standard,8.98,USD,Card,FALSE,SD,3,1,FALSE
+U1723,Female,07-07-1980,45,Cambodia,New Jersey,Laptop,"Hotstar,Netflix,Prime",,39,1,04-11-2023,03-11-2024,Premium,15.08,USD,UPI,FALSE,SD,2,1,FALSE
+U1724,Female,29-06-2005,20,Singapore,Virginia,Mobile,Hotstar,,120,0,03-04-2024,03-04-2025,Standard,5.87,USD,Wallet,FALSE,SD,3,1,TRUE
+U1725,Male,20-03-1987,38,Sweden,Alaska,Mobile,"Netflix,Prime",,21,0,05-12-2023,04-12-2024,Premium,18.41,USD,UPI,FALSE,SD,4,3,TRUE
+U1726,Female,18-04-1985,40,Montserrat,Hawaii,Laptop,"Netflix,Prime",,81,1,07-04-2024,07-04-2025,Basic,19.1,USD,Card,FALSE,4K,4,1,FALSE
+U1727,Male,06-08-1976,48,Serbia,Kentucky,Laptop,"Hotstar,Netflix,Prime",,87,1,19-08-2024,19-08-2025,Standard,19.45,USD,Wallet,FALSE,4K,4,1,TRUE
+U1728,Male,30-03-1997,28,Venezuela,Nevada,Laptop,"Hotstar,Netflix,Prime",,93,1,28-11-2024,28-11-2025,Standard,11.14,USD,Wallet,TRUE,SD,3,1,TRUE
+U1729,Male,05-06-1974,51,Uganda,Illinois,TV,"Hotstar,Netflix,Prime",,87,1,27-10-2023,26-10-2024,Basic,15.85,INR,UPI,FALSE,SD,4,1,FALSE
+U1730,Other,05-11-2002,22,Comoros,Tennessee,Laptop,Netflix,,87,1,12-12-2023,11-12-2024,Premium,18.51,INR,Card,TRUE,4K,1,1,TRUE
+U1731,Other,11-06-1967,58,Albania,Tennessee,TV,"Hotstar,Netflix,Prime",,115,1,20-06-2024,20-06-2025,Premium,8.6,INR,UPI,TRUE,HD,1,1,FALSE
+U1732,Female,14-12-1974,50,Turkey,Kentucky,TV,Prime,,67,1,27-07-2023,26-07-2024,Premium,10.97,INR,Card,FALSE,4K,1,1,TRUE
+U1733,Male,05-10-1964,60,Martinique,Alabama,Laptop,"Hotstar,Prime",,33,1,10-06-2024,10-06-2025,Premium,10.25,USD,Wallet,TRUE,4K,3,3,TRUE
+U1734,Male,26-12-1994,30,Libyan Arab Jamahiriya,Maine,Laptop,Prime,,111,1,20-04-2024,20-04-2025,Basic,15.87,INR,Card,TRUE,SD,1,1,TRUE
+U1735,Female,09-06-1977,48,Belgium,Oklahoma,Mobile,"Hotstar,Prime",,84,1,22-09-2023,21-09-2024,Premium,15.25,INR,Card,TRUE,HD,2,2,TRUE
+U1736,Other,11-02-1973,52,Zambia,Montana,Mobile,Hotstar,,105,1,04-12-2023,03-12-2024,Standard,15.09,USD,UPI,TRUE,SD,1,1,FALSE
+U1737,Male,15-01-1990,35,Western Sahara,North Dakota,Mobile,"Hotstar,Netflix,Prime",,111,0,06-07-2023,05-07-2024,Premium,6.79,USD,Wallet,TRUE,4K,2,1,FALSE
+U1738,Other,28-11-2004,20,Gambia,Alabama,Laptop,Prime,,72,0,24-11-2023,23-11-2024,Standard,15.03,INR,Wallet,TRUE,SD,3,2,FALSE
+U1739,Male,19-06-1989,36,Estonia,Nebraska,Mobile,Hotstar,,53,1,02-05-2025,02-05-2026,Standard,9.94,USD,UPI,FALSE,HD,4,4,TRUE
+U1740,Male,16-10-1999,25,Angola,New Hampshire,Mobile,Hotstar,,81,1,18-08-2023,17-08-2024,Basic,5.64,USD,Wallet,FALSE,HD,3,2,TRUE
+U1741,Female,07-10-2005,19,Martinique,Virginia,TV,Prime,,102,0,26-02-2025,26-02-2026,Standard,9.79,INR,UPI,TRUE,SD,1,1,TRUE
+U1742,Female,12-01-1983,42,Slovenia,West Virginia,TV,"Hotstar,Prime",,105,0,05-08-2023,04-08-2024,Basic,17.46,USD,Card,FALSE,4K,1,1,TRUE
+U1743,Female,20-07-1982,42,Armenia,New Hampshire,Laptop,Prime,,66,1,25-07-2023,24-07-2024,Standard,9.53,USD,Card,TRUE,4K,2,2,TRUE
+U1744,Female,15-09-1967,57,Cape Verde,North Dakota,Mobile,Hotstar,,20,1,06-06-2025,06-06-2026,Basic,15.86,INR,Wallet,FALSE,HD,4,4,TRUE
+U1745,Other,30-10-1969,55,Kuwait,Idaho,Mobile,Netflix,,34,1,22-08-2023,21-08-2024,Basic,10.53,USD,UPI,TRUE,HD,4,3,TRUE
+U1746,Male,17-05-1996,29,United States Virgin Islands,Maine,TV,Prime,,12,0,01-12-2024,01-12-2025,Basic,10.33,USD,Wallet,FALSE,SD,1,1,TRUE
+U1747,Other,01-07-1995,30,Tanzania,Oregon,Laptop,"Netflix,Prime",,119,0,20-05-2025,20-05-2026,Premium,8.44,USD,Card,FALSE,HD,2,2,FALSE
+U1748,Female,16-05-1998,27,Guyana,Florida,TV,Netflix,,28,0,14-05-2024,14-05-2025,Standard,6.96,USD,Card,FALSE,SD,1,1,FALSE
+U1749,Other,30-12-1971,53,Saint Barthelemy,Minnesota,TV,Prime,,43,0,21-08-2023,20-08-2024,Premium,10.92,INR,UPI,TRUE,4K,2,1,TRUE
+U1750,Male,27-06-1989,36,Sierra Leone,Florida,Mobile,"Hotstar,Netflix,Prime",,104,1,01-08-2023,31-07-2024,Standard,8.42,INR,Wallet,FALSE,HD,1,1,FALSE
+U1751,Female,28-02-1981,44,Puerto Rico,Idaho,Laptop,Hotstar,,26,1,08-07-2024,08-07-2025,Basic,5.59,INR,Card,TRUE,HD,1,1,TRUE
+U1752,Female,07-04-2003,22,Cape Verde,New Jersey,TV,"Hotstar,Netflix",,51,0,26-11-2023,25-11-2024,Basic,10.04,INR,Wallet,TRUE,4K,2,1,TRUE
+U1753,Male,15-11-1999,25,Liechtenstein,Montana,Laptop,Netflix,,32,1,07-06-2024,07-06-2025,Premium,5.2,INR,UPI,FALSE,HD,1,1,FALSE
+U1754,Male,15-01-1988,37,Gabon,Georgia,Laptop,"Hotstar,Netflix,Prime",,118,0,04-05-2024,04-05-2025,Basic,13.44,INR,Wallet,TRUE,4K,4,2,FALSE
+U1755,Female,14-07-2002,22,Comoros,Minnesota,TV,Hotstar,,30,0,03-02-2024,02-02-2025,Premium,11.69,INR,UPI,FALSE,HD,2,2,TRUE
+U1756,Other,07-08-1983,41,Estonia,Montana,TV,"Netflix,Prime",,99,0,09-02-2024,08-02-2025,Standard,18.4,INR,Card,FALSE,HD,3,2,FALSE
+U1757,Female,22-07-2005,19,Iceland,Wisconsin,Mobile,Hotstar,,75,1,21-10-2023,20-10-2024,Basic,8.73,USD,Card,TRUE,4K,1,1,FALSE
+U1758,Male,01-09-1986,38,Colombia,Arkansas,TV,Hotstar,,8,1,11-04-2024,11-04-2025,Premium,5.02,USD,Wallet,TRUE,HD,3,1,TRUE
+U1759,Other,29-07-1995,29,Gabon,Arizona,Mobile,"Netflix,Prime",,18,0,25-03-2024,25-03-2025,Basic,11.95,USD,Card,TRUE,4K,3,1,TRUE
+U1760,Other,16-03-1986,39,French Southern Territories,Ohio,Mobile,Hotstar,,20,1,18-03-2024,18-03-2025,Premium,11.72,USD,Card,FALSE,HD,2,1,TRUE
+U1761,Male,20-04-1994,31,Bahrain,Indiana,Laptop,"Hotstar,Netflix,Prime",,38,1,11-07-2024,11-07-2025,Standard,10.35,INR,Card,FALSE,SD,4,2,FALSE
+U1762,Female,15-01-1985,40,Malta,Rhode Island,Laptop,"Hotstar,Netflix",,110,1,14-03-2024,14-03-2025,Standard,12.87,USD,Wallet,TRUE,SD,3,2,TRUE
+U1763,Female,22-04-2005,20,Saint Vincent and the Grenadines,Missouri,Mobile,Hotstar,,67,0,11-07-2024,11-07-2025,Standard,9.25,USD,UPI,FALSE,SD,2,1,FALSE
+U1764,Other,07-06-1985,40,China,Alabama,Mobile,"Netflix,Prime",,98,0,21-08-2024,21-08-2025,Premium,15.96,USD,UPI,FALSE,SD,3,3,TRUE
+U1765,Other,22-05-1982,43,Aruba,Missouri,Mobile,"Hotstar,Netflix,Prime",,5,1,27-11-2024,27-11-2025,Basic,17.61,INR,Wallet,TRUE,4K,1,1,TRUE
+U1766,Other,03-02-1988,37,Sao Tome and Principe,Georgia,TV,Hotstar,,72,1,20-08-2023,19-08-2024,Standard,7.31,INR,UPI,TRUE,SD,4,3,TRUE
+U1767,Female,21-10-1969,55,Hong Kong,Kentucky,Laptop,"Hotstar,Netflix,Prime",,70,0,07-01-2025,07-01-2026,Premium,13.05,INR,UPI,FALSE,4K,3,3,FALSE
+U1768,Male,24-04-1972,53,Central African Republic,Louisiana,Laptop,Prime,,109,1,29-10-2024,29-10-2025,Standard,5.31,USD,UPI,TRUE,4K,3,3,TRUE
+U1769,Female,21-01-1998,27,Senegal,South Carolina,Mobile,Netflix,,102,1,31-12-2023,30-12-2024,Premium,17.85,INR,Card,FALSE,HD,1,1,TRUE
+U1770,Other,02-06-1975,50,Suriname,Wisconsin,Mobile,Hotstar,,19,1,01-05-2025,01-05-2026,Basic,18.01,USD,UPI,FALSE,4K,2,2,TRUE
+U1771,Male,07-02-2003,22,Tuvalu,Hawaii,TV,Hotstar,,24,0,25-03-2024,25-03-2025,Basic,14.96,INR,UPI,TRUE,4K,3,1,FALSE
+U1772,Female,25-04-1975,50,Albania,Michigan,Laptop,"Hotstar,Netflix,Prime",,24,1,09-12-2024,09-12-2025,Premium,13.36,INR,Card,TRUE,SD,3,3,TRUE
+U1773,Male,01-08-1972,52,Dominica,Missouri,Laptop,"Netflix,Prime",,88,1,28-11-2023,27-11-2024,Basic,8.57,INR,Card,FALSE,SD,4,3,FALSE
+U1774,Female,14-11-1973,51,Uruguay,Oklahoma,TV,"Hotstar,Netflix,Prime",,6,1,13-09-2024,13-09-2025,Standard,11.38,USD,Wallet,FALSE,SD,3,1,FALSE
+U1775,Female,26-01-1993,32,Hong Kong,Nebraska,TV,"Netflix,Prime",,102,1,20-08-2024,20-08-2025,Basic,12.87,INR,UPI,FALSE,4K,2,1,TRUE
+U1776,Female,29-07-1985,39,San Marino,Alabama,Laptop,"Netflix,Prime",,56,0,07-08-2023,06-08-2024,Premium,12.03,INR,Card,FALSE,SD,1,1,FALSE
+U1777,Other,22-11-1976,48,Angola,Maine,TV,"Hotstar,Netflix,Prime",,20,0,24-10-2024,24-10-2025,Basic,18.41,INR,Card,TRUE,SD,3,3,TRUE
+U1778,Female,24-12-1983,41,Sweden,Connecticut,TV,Netflix,,25,0,23-02-2025,23-02-2026,Basic,6.21,USD,Card,FALSE,SD,2,2,TRUE
+U1779,Other,16-05-1986,39,Tunisia,New Hampshire,Laptop,Netflix,,96,1,23-10-2023,22-10-2024,Standard,19.07,USD,UPI,TRUE,SD,4,1,TRUE
+U1780,Other,26-07-1996,28,Turkey,Kansas,Mobile,Netflix,,51,0,25-07-2024,25-07-2025,Basic,19.24,INR,Card,FALSE,4K,4,1,TRUE
+U1781,Female,10-07-1991,34,Venezuela,Illinois,TV,"Netflix,Prime",,11,0,21-09-2024,21-09-2025,Standard,7.5,USD,Wallet,FALSE,SD,4,3,TRUE
+U1782,Other,24-06-1979,46,Dominican Republic,Vermont,TV,"Hotstar,Prime",,70,1,15-10-2023,14-10-2024,Premium,11.44,INR,Card,TRUE,HD,4,1,FALSE
+U1783,Other,16-11-1972,52,Guam,Arkansas,TV,"Hotstar,Netflix,Prime",,57,1,06-06-2024,06-06-2025,Standard,11.58,INR,Wallet,TRUE,4K,4,4,TRUE
+U1784,Female,27-10-1985,39,Cyprus,Indiana,Mobile,"Hotstar,Netflix,Prime",,45,1,31-07-2023,30-07-2024,Premium,9.44,USD,Wallet,TRUE,SD,2,2,FALSE
+U1785,Female,17-11-2006,18,Cape Verde,Mississippi,TV,Netflix,,57,0,05-03-2024,05-03-2025,Standard,6.62,INR,Card,TRUE,4K,4,3,FALSE
+U1786,Other,12-04-2005,20,Cuba,Tennessee,Laptop,Hotstar,,58,0,20-12-2024,20-12-2025,Premium,6.57,USD,Card,FALSE,4K,3,1,FALSE
+U1787,Female,11-05-1970,55,Bangladesh,Louisiana,Mobile,Hotstar,,97,0,18-04-2024,18-04-2025,Standard,10.35,INR,UPI,TRUE,HD,1,1,FALSE
+U1788,Male,06-08-1965,59,Ukraine,Nevada,Mobile,"Hotstar,Netflix,Prime",,105,1,22-02-2024,21-02-2025,Basic,13.83,USD,UPI,FALSE,SD,1,1,FALSE
+U1789,Male,24-01-1984,41,Pitcairn Islands,New York,Laptop,Netflix,,71,1,24-03-2024,24-03-2025,Standard,14.32,INR,Wallet,FALSE,4K,4,2,TRUE
+U1790,Other,09-05-1968,57,Japan,Louisiana,TV,"Hotstar,Netflix,Prime",,37,0,20-04-2024,20-04-2025,Premium,7.74,USD,Wallet,TRUE,HD,4,4,FALSE
+U1791,Female,23-12-1976,48,Egypt,Wisconsin,Mobile,Prime,,40,0,20-03-2024,20-03-2025,Standard,7.99,INR,Card,FALSE,HD,4,4,TRUE
+U1792,Other,09-11-1991,33,Northern Mariana Islands,Massachusetts,Laptop,Hotstar,,96,0,17-01-2024,16-01-2025,Premium,12.96,INR,UPI,TRUE,4K,4,3,TRUE
+U1793,Female,04-06-1991,34,Zambia,New Hampshire,TV,Hotstar,,110,0,02-11-2023,01-11-2024,Premium,6.55,INR,UPI,TRUE,4K,4,4,TRUE
+U1794,Female,01-03-1996,29,Central African Republic,Wyoming,TV,"Hotstar,Prime",,28,0,15-06-2025,15-06-2026,Standard,11.57,USD,UPI,FALSE,SD,1,1,TRUE
+U1795,Male,03-02-1993,32,Qatar,Idaho,TV,"Netflix,Prime",,43,0,01-01-2024,31-12-2024,Basic,13.32,INR,Wallet,FALSE,4K,2,1,TRUE
+U1796,Male,25-04-1993,32,Slovenia,Colorado,Laptop,"Netflix,Prime",,96,1,12-03-2024,12-03-2025,Premium,7.22,INR,UPI,TRUE,SD,3,1,TRUE
+U1797,Male,27-04-2004,21,Liechtenstein,Arkansas,Mobile,"Hotstar,Netflix",,69,0,16-10-2024,16-10-2025,Premium,14.04,USD,Wallet,TRUE,SD,2,2,FALSE
+U1798,Female,05-08-1998,26,Palau,Hawaii,Mobile,"Hotstar,Netflix,Prime",,62,0,15-10-2024,15-10-2025,Basic,5.34,USD,Wallet,TRUE,4K,1,1,FALSE
+U1799,Female,11-08-1994,30,Aruba,Michigan,Laptop,Netflix,,39,0,05-06-2025,05-06-2026,Standard,15.95,INR,Card,FALSE,HD,3,1,TRUE
+U1800,Other,19-12-1966,58,Somalia,Illinois,Laptop,"Hotstar,Netflix,Prime",,96,0,20-12-2024,20-12-2025,Basic,19.38,USD,UPI,FALSE,SD,4,3,TRUE
+U1801,Male,20-02-2004,21,Denmark,New York,Laptop,Netflix,,50,1,27-06-2024,27-06-2025,Premium,6.74,INR,Wallet,TRUE,SD,2,2,TRUE
+U1802,Other,19-08-1994,30,Tanzania,Oregon,TV,"Hotstar,Prime",,75,0,03-07-2025,03-07-2026,Basic,7.26,USD,Wallet,FALSE,SD,1,1,FALSE
+U1803,Male,28-02-1987,38,Cuba,Kentucky,Mobile,"Hotstar,Netflix,Prime",,82,1,25-10-2023,24-10-2024,Basic,14.28,INR,UPI,FALSE,SD,4,2,FALSE
+U1804,Other,09-07-1966,59,Liberia,West Virginia,TV,"Hotstar,Netflix,Prime",,52,1,08-06-2024,08-06-2025,Premium,11.2,USD,UPI,TRUE,SD,4,3,FALSE
+U1805,Female,11-12-2006,18,Eritrea,Louisiana,Mobile,"Hotstar,Prime",,55,1,30-03-2024,30-03-2025,Basic,10.58,USD,Card,TRUE,4K,2,2,FALSE
+U1806,Male,25-12-1987,37,Saint Helena,Mississippi,Laptop,"Hotstar,Prime",,67,1,05-09-2024,05-09-2025,Standard,11.98,USD,Card,TRUE,HD,4,3,TRUE
+U1807,Male,28-07-1965,59,Cape Verde,Missouri,Laptop,"Netflix,Prime",,11,1,22-09-2024,22-09-2025,Premium,17.51,INR,Card,TRUE,SD,1,1,TRUE
+U1808,Female,04-07-1971,54,El Salvador,Nevada,TV,Prime,,57,0,21-11-2024,21-11-2025,Standard,15.52,USD,Wallet,FALSE,HD,4,3,FALSE
+U1809,Male,22-01-1975,50,France,Maryland,Laptop,"Hotstar,Prime",,73,1,27-08-2023,26-08-2024,Premium,5.57,INR,Card,TRUE,SD,1,1,FALSE
+U1810,Female,28-06-2007,18,Rwanda,New Jersey,Mobile,"Netflix,Prime",,96,0,11-11-2024,11-11-2025,Premium,12.89,USD,Wallet,FALSE,4K,4,2,TRUE
+U1811,Other,27-08-1979,45,Seychelles,New Hampshire,Laptop,Hotstar,,74,1,24-05-2025,24-05-2026,Premium,17.91,INR,UPI,TRUE,4K,2,1,FALSE
+U1812,Other,08-03-1977,48,Tonga,Alabama,TV,Hotstar,,60,1,31-01-2024,30-01-2025,Premium,11.42,USD,UPI,TRUE,4K,4,2,FALSE
+U1813,Male,18-06-1981,44,Singapore,Alabama,Laptop,Prime,,73,0,13-09-2024,13-09-2025,Basic,18.44,USD,Wallet,FALSE,HD,4,4,TRUE
+U1814,Male,29-03-1977,48,Cape Verde,North Carolina,TV,Netflix,,69,1,18-07-2024,18-07-2025,Premium,17.65,INR,Card,FALSE,HD,4,1,TRUE
+U1815,Male,20-04-1982,43,Togo,Oregon,Mobile,Netflix,,39,1,23-07-2024,23-07-2025,Basic,17.16,USD,Card,TRUE,4K,4,1,FALSE
+U1816,Other,27-09-1964,60,Egypt,California,Mobile,"Hotstar,Netflix,Prime",,64,1,13-01-2024,12-01-2025,Standard,6.63,INR,Wallet,FALSE,4K,4,4,TRUE
+U1817,Other,19-01-1985,40,Pakistan,Indiana,Laptop,Netflix,,9,0,15-05-2024,15-05-2025,Premium,11.47,USD,UPI,TRUE,4K,3,2,FALSE
+U1818,Other,30-04-2006,19,American Samoa,North Carolina,TV,"Hotstar,Netflix,Prime",,30,0,30-05-2025,30-05-2026,Standard,17.3,USD,Card,TRUE,4K,3,2,TRUE
+U1819,Male,04-03-1979,46,Nigeria,Nebraska,Laptop,"Hotstar,Netflix,Prime",,61,1,27-10-2024,27-10-2025,Basic,12.67,INR,Card,TRUE,HD,1,1,TRUE
+U1820,Male,05-02-1989,36,Iceland,West Virginia,TV,"Hotstar,Netflix,Prime",,49,1,02-10-2024,02-10-2025,Standard,18.85,INR,UPI,TRUE,HD,2,1,FALSE
+U1821,Female,06-04-1975,50,Guinea-Bissau,North Carolina,TV,Hotstar,,6,1,25-06-2025,25-06-2026,Standard,18.13,USD,UPI,TRUE,4K,1,1,TRUE
+U1822,Female,23-04-1977,48,Reunion,Texas,Laptop,"Hotstar,Prime",,89,0,15-09-2023,14-09-2024,Basic,17.06,INR,UPI,TRUE,SD,1,1,TRUE
+U1823,Female,24-05-1984,41,Kazakhstan,Hawaii,TV,"Hotstar,Netflix",,37,1,14-02-2024,13-02-2025,Premium,16.89,INR,Card,TRUE,SD,1,1,FALSE
+U1824,Other,11-07-1997,28,Seychelles,Colorado,TV,Prime,,79,0,28-12-2024,28-12-2025,Premium,19.83,INR,Card,FALSE,4K,2,2,TRUE
+U1825,Male,13-07-1971,54,Macedonia,Illinois,Laptop,"Netflix,Prime",,14,1,01-01-2025,01-01-2026,Standard,6.85,USD,UPI,FALSE,HD,2,2,TRUE
+U1826,Female,11-11-1965,59,Timor-Leste,Florida,Laptop,Netflix,,78,0,05-11-2023,04-11-2024,Standard,8.01,INR,Card,FALSE,HD,1,1,FALSE
+U1827,Other,24-10-1975,49,Bouvet Island (Bouvetoya),Maine,TV,"Hotstar,Prime",,47,1,21-08-2023,20-08-2024,Basic,14.58,USD,UPI,FALSE,SD,4,2,FALSE
+U1828,Other,29-08-1966,58,Grenada,Kansas,Laptop,Hotstar,,51,0,27-10-2024,27-10-2025,Premium,19.77,USD,Card,FALSE,SD,2,2,TRUE
+U1829,Other,21-06-1992,33,Guatemala,Georgia,TV,"Hotstar,Netflix,Prime",,35,1,24-06-2025,24-06-2026,Standard,11.43,INR,Card,FALSE,HD,2,1,FALSE
+U1830,Male,13-04-1995,30,Argentina,Oklahoma,Mobile,"Hotstar,Netflix,Prime",,70,0,09-10-2024,09-10-2025,Basic,19.67,INR,Card,TRUE,SD,2,1,FALSE
+U1831,Other,06-01-1977,48,Uruguay,Utah,TV,Prime,,92,1,07-06-2025,07-06-2026,Standard,5.21,USD,Card,FALSE,HD,2,2,FALSE
+U1832,Male,09-10-1997,27,Mali,New Hampshire,Laptop,"Hotstar,Prime",,26,0,11-11-2023,10-11-2024,Premium,8.05,INR,Card,FALSE,HD,1,1,FALSE
+U1833,Male,16-11-1998,26,Comoros,Virginia,Mobile,"Hotstar,Netflix,Prime",,95,0,30-09-2023,29-09-2024,Premium,11.02,INR,Card,FALSE,HD,4,3,TRUE
+U1834,Female,15-08-1972,52,Maldives,West Virginia,Laptop,"Netflix,Prime",,72,1,01-05-2025,01-05-2026,Standard,9.43,INR,Wallet,TRUE,SD,2,1,TRUE
+U1835,Female,30-07-2004,20,Tajikistan,Vermont,Laptop,"Hotstar,Netflix,Prime",,97,1,23-06-2024,23-06-2025,Premium,18.46,INR,UPI,TRUE,HD,1,1,FALSE
+U1836,Female,22-10-1964,60,Liechtenstein,West Virginia,Mobile,"Hotstar,Netflix,Prime",,50,0,29-06-2024,29-06-2025,Standard,12.01,INR,Wallet,FALSE,SD,4,3,FALSE
+U1837,Female,15-02-2006,19,Antarctica (the territory South of 60 deg S),Connecticut,Laptop,Hotstar,,59,0,09-07-2024,09-07-2025,Standard,9.9,USD,Card,FALSE,4K,1,1,FALSE
+U1838,Male,05-04-1998,27,Iran,Hawaii,Mobile,"Hotstar,Prime",,35,0,05-12-2024,05-12-2025,Standard,9.67,USD,UPI,FALSE,SD,3,3,FALSE
+U1839,Female,11-08-1976,48,Australia,Ohio,Mobile,"Hotstar,Netflix,Prime",,22,1,30-04-2024,30-04-2025,Basic,18.29,USD,Card,FALSE,HD,2,1,FALSE
+U1840,Male,29-08-1980,44,Libyan Arab Jamahiriya,Nebraska,TV,Prime,,10,0,19-06-2024,19-06-2025,Standard,10.69,USD,Card,TRUE,SD,4,2,FALSE
+U1841,Female,10-11-2006,18,Belize,Utah,Laptop,Hotstar,,23,1,17-12-2024,17-12-2025,Standard,16,USD,Wallet,FALSE,4K,4,4,FALSE
+U1842,Male,20-01-2000,25,Kazakhstan,Delaware,Mobile,"Hotstar,Netflix,Prime",,73,0,21-05-2025,21-05-2026,Standard,17.55,USD,Wallet,FALSE,4K,1,1,FALSE
+U1843,Other,27-05-2003,22,Cote d'Ivoire,Hawaii,TV,Prime,,120,0,07-09-2023,06-09-2024,Standard,16.94,INR,Card,TRUE,HD,4,3,TRUE
+U1844,Male,22-07-1978,46,Armenia,Rhode Island,Mobile,"Hotstar,Prime",,45,0,07-04-2025,07-04-2026,Premium,15.74,INR,Card,TRUE,SD,1,1,FALSE
+U1845,Female,17-12-1999,25,China,Arizona,TV,"Hotstar,Prime",,76,1,21-08-2024,21-08-2025,Premium,6.9,USD,Card,FALSE,HD,4,2,FALSE
+U1846,Male,31-07-1982,42,Algeria,Vermont,Laptop,"Hotstar,Netflix",,115,0,14-07-2023,13-07-2024,Premium,15.1,USD,Wallet,FALSE,4K,1,1,TRUE
+U1847,Male,07-02-2004,21,Mauritania,Wisconsin,Mobile,"Hotstar,Netflix,Prime",,100,0,15-08-2024,15-08-2025,Standard,15.09,INR,UPI,FALSE,4K,4,3,FALSE
+U1848,Female,18-03-2002,23,Puerto Rico,Iowa,Mobile,"Hotstar,Netflix,Prime",,108,1,17-09-2023,16-09-2024,Basic,11.77,INR,UPI,FALSE,HD,3,3,FALSE
+U1849,Female,31-05-1989,36,Pakistan,Oklahoma,Mobile,"Hotstar,Netflix,Prime",,40,0,15-07-2024,15-07-2025,Standard,11.58,INR,Card,FALSE,HD,1,1,TRUE
+U1850,Female,02-07-2007,18,Togo,New Mexico,TV,"Hotstar,Netflix,Prime",,39,1,27-02-2025,27-02-2026,Basic,16.06,INR,UPI,TRUE,SD,4,4,TRUE
+U1851,Other,22-05-2000,25,Armenia,Alabama,TV,"Hotstar,Netflix",,24,1,24-04-2024,24-04-2025,Basic,18.63,INR,Card,FALSE,HD,3,3,FALSE
+U1852,Male,13-08-1977,47,Libyan Arab Jamahiriya,Hawaii,Laptop,"Hotstar,Netflix,Prime",,115,0,25-06-2025,25-06-2026,Standard,12.55,USD,Wallet,TRUE,SD,4,4,TRUE
+U1853,Male,08-04-1993,32,Kazakhstan,Mississippi,Laptop,"Hotstar,Netflix,Prime",,47,1,30-08-2023,29-08-2024,Premium,15.88,INR,Card,TRUE,4K,4,2,TRUE
+U1854,Other,20-05-1971,54,United States Minor Outlying Islands,Missouri,Laptop,"Netflix,Prime",,86,1,20-01-2024,19-01-2025,Standard,16.06,INR,Wallet,FALSE,HD,1,1,TRUE
+U1855,Other,12-09-2004,20,Yemen,North Carolina,Mobile,"Hotstar,Netflix,Prime",,114,1,16-07-2024,16-07-2025,Basic,5.88,USD,Wallet,TRUE,SD,3,2,FALSE
+U1856,Male,20-11-1972,52,Palau,Hawaii,Mobile,"Hotstar,Netflix,Prime",,40,1,11-06-2024,11-06-2025,Basic,16.51,INR,Card,TRUE,SD,3,1,FALSE
+U1857,Other,31-01-2006,19,Tokelau,Tennessee,Laptop,Hotstar,,68,1,05-06-2025,05-06-2026,Premium,5.99,USD,UPI,TRUE,4K,4,1,TRUE
+U1858,Other,11-03-1980,45,Burundi,Ohio,Laptop,"Hotstar,Netflix,Prime",,45,0,12-06-2025,12-06-2026,Premium,6.06,INR,Wallet,FALSE,HD,1,1,FALSE
+U1859,Other,16-08-1999,25,Zambia,Nevada,Laptop,"Hotstar,Prime",,111,0,16-03-2025,16-03-2026,Premium,18.56,INR,Card,FALSE,SD,4,2,TRUE
+U1860,Male,25-10-1991,33,Cote d'Ivoire,Washington,Laptop,"Hotstar,Netflix,Prime",,39,0,17-06-2024,17-06-2025,Premium,17.66,INR,Wallet,TRUE,4K,4,4,FALSE
+U1861,Male,31-05-1987,38,Singapore,Wisconsin,Mobile,"Hotstar,Netflix,Prime",,49,1,11-09-2024,11-09-2025,Basic,5.37,USD,UPI,TRUE,SD,4,2,TRUE
+U1862,Male,26-04-1986,39,Saint Kitts and Nevis,Idaho,Mobile,"Hotstar,Prime",,46,0,29-03-2025,29-03-2026,Standard,14.52,INR,UPI,TRUE,4K,1,1,FALSE
+U1863,Male,07-10-1979,45,Saint Helena,South Carolina,Mobile,"Hotstar,Netflix,Prime",,25,0,16-10-2023,15-10-2024,Standard,6.63,INR,UPI,FALSE,4K,3,3,TRUE
+U1864,Male,21-04-1973,52,Lesotho,Washington,Mobile,"Hotstar,Netflix,Prime",,32,0,13-09-2023,12-09-2024,Basic,6.72,USD,Wallet,TRUE,HD,3,1,FALSE
+U1865,Male,28-01-2004,21,Guernsey,Idaho,TV,"Hotstar,Netflix,Prime",,8,1,28-07-2024,28-07-2025,Standard,7.33,USD,Wallet,TRUE,HD,1,1,FALSE
+U1866,Female,22-08-1980,44,United Kingdom,Utah,TV,"Hotstar,Netflix,Prime",,62,1,03-05-2025,03-05-2026,Premium,11.5,INR,Card,TRUE,4K,3,3,TRUE
+U1867,Female,29-10-1988,36,Falkland Islands (Malvinas),Nevada,Laptop,"Hotstar,Netflix,Prime",,112,1,13-12-2023,12-12-2024,Premium,5.33,INR,Card,FALSE,4K,3,2,TRUE
+U1868,Male,17-07-1976,49,Iceland,Arizona,Laptop,"Hotstar,Netflix",,48,1,18-06-2024,18-06-2025,Premium,5.72,USD,UPI,TRUE,SD,3,2,FALSE
+U1869,Male,03-11-1994,30,Netherlands Antilles,Minnesota,Mobile,"Hotstar,Netflix,Prime",,64,0,31-03-2024,31-03-2025,Standard,18.02,INR,Wallet,TRUE,4K,4,4,FALSE
+U1870,Female,24-02-1993,32,United Kingdom,California,TV,"Hotstar,Netflix",,118,0,22-10-2023,21-10-2024,Basic,6.78,INR,Card,FALSE,4K,4,3,TRUE
+U1871,Female,19-05-2000,25,Rwanda,Alabama,Mobile,Prime,,78,0,12-05-2025,12-05-2026,Basic,15.79,INR,Wallet,FALSE,SD,3,2,TRUE
+U1872,Other,16-04-1993,32,South Georgia and the South Sandwich Islands,Virginia,Mobile,"Hotstar,Netflix,Prime",,50,1,14-02-2024,13-02-2025,Standard,6.86,INR,Card,TRUE,4K,1,1,TRUE
+U1873,Male,23-04-1979,46,Guinea,Kansas,Laptop,"Netflix,Prime",,95,1,05-03-2025,05-03-2026,Premium,17.27,USD,Wallet,FALSE,SD,2,2,TRUE
+U1874,Other,24-05-1980,45,Kazakhstan,Florida,Mobile,Netflix,,31,0,03-02-2025,03-02-2026,Basic,8.78,INR,Card,TRUE,HD,3,1,TRUE
+U1875,Other,16-10-2004,20,Guernsey,Alabama,TV,Netflix,,56,1,09-10-2024,09-10-2025,Premium,8.12,INR,Wallet,TRUE,HD,2,2,TRUE
+U1876,Male,15-01-2003,22,Guernsey,South Carolina,Laptop,"Hotstar,Netflix,Prime",,83,1,11-07-2024,11-07-2025,Basic,11.83,INR,Wallet,TRUE,SD,4,3,FALSE
+U1877,Female,25-04-1998,27,Guernsey,Kentucky,Laptop,"Hotstar,Netflix,Prime",,78,1,22-02-2025,22-02-2026,Basic,15.51,INR,Card,FALSE,SD,2,1,FALSE
+U1878,Female,09-06-1969,56,Lebanon,New Hampshire,TV,"Hotstar,Netflix,Prime",,40,0,27-10-2023,26-10-2024,Standard,15.69,USD,UPI,TRUE,HD,4,4,FALSE
+U1879,Male,30-03-2006,19,Venezuela,Minnesota,Laptop,Netflix,,85,0,07-11-2024,07-11-2025,Standard,13.48,INR,UPI,FALSE,HD,4,4,TRUE
+U1880,Female,20-03-1965,60,Samoa,Washington,TV,Netflix,,79,0,30-12-2023,29-12-2024,Premium,11.59,INR,Card,FALSE,SD,3,1,FALSE
+U1881,Other,20-07-1975,49,Indonesia,North Dakota,TV,Hotstar,,103,0,09-01-2024,08-01-2025,Standard,16.29,USD,Wallet,TRUE,4K,3,2,FALSE
+U1882,Other,06-07-1982,43,Guyana,West Virginia,Mobile,"Hotstar,Netflix,Prime",,71,0,08-02-2025,08-02-2026,Standard,15.72,INR,Wallet,FALSE,SD,2,1,TRUE
+U1883,Female,17-01-2007,18,United States Virgin Islands,California,Laptop,"Hotstar,Netflix,Prime",,87,1,12-02-2025,12-02-2026,Standard,5.37,USD,UPI,TRUE,SD,1,1,FALSE
+U1884,Female,26-12-1993,31,Kenya,Michigan,Mobile,"Hotstar,Netflix,Prime",,67,0,25-06-2025,25-06-2026,Premium,16.87,USD,Card,TRUE,HD,3,2,FALSE
+U1885,Other,02-03-1990,35,Western Sahara,Colorado,Mobile,Hotstar,,102,0,09-04-2024,09-04-2025,Standard,16.77,USD,Card,TRUE,4K,2,1,TRUE
+U1886,Female,21-09-1983,41,Madagascar,Indiana,Laptop,Prime,,61,0,01-02-2025,01-02-2026,Premium,9.46,INR,Wallet,TRUE,HD,4,2,FALSE
+U1887,Other,10-09-2006,18,China,North Carolina,TV,"Hotstar,Netflix",,104,0,27-05-2024,27-05-2025,Premium,7.89,USD,UPI,FALSE,HD,3,1,TRUE
+U1888,Female,05-05-2002,23,Spain,West Virginia,Laptop,Netflix,,99,1,11-03-2025,11-03-2026,Standard,7.77,USD,Card,TRUE,4K,4,3,FALSE
+U1889,Male,18-01-2003,22,Italy,Utah,Laptop,Hotstar,,94,0,23-05-2025,23-05-2026,Premium,14.08,INR,Card,FALSE,4K,2,1,FALSE
+U1890,Male,02-12-2005,19,Israel,Missouri,Laptop,"Hotstar,Netflix,Prime",,106,0,01-03-2024,01-03-2025,Premium,15.52,INR,Wallet,FALSE,HD,2,2,TRUE
+U1891,Male,14-10-1989,35,Timor-Leste,New Hampshire,Mobile,Prime,,32,1,02-05-2025,02-05-2026,Premium,18.35,USD,Card,TRUE,SD,1,1,TRUE
+U1892,Male,18-07-1978,47,Mexico,South Carolina,TV,"Hotstar,Prime",,58,0,23-12-2023,22-12-2024,Basic,16.65,USD,Wallet,TRUE,4K,3,1,TRUE
+U1893,Male,24-07-1989,35,Equatorial Guinea,Nevada,TV,"Hotstar,Netflix",,66,0,29-03-2024,29-03-2025,Basic,11.1,USD,Wallet,TRUE,HD,2,1,TRUE
+U1894,Male,25-07-1966,58,French Polynesia,West Virginia,Laptop,"Hotstar,Netflix,Prime",,22,0,20-07-2023,19-07-2024,Premium,12.21,INR,UPI,FALSE,SD,4,4,FALSE
+U1895,Other,20-08-1981,43,Haiti,Missouri,Mobile,"Hotstar,Netflix",,36,1,25-07-2024,25-07-2025,Premium,13.72,INR,UPI,FALSE,SD,4,3,TRUE
+U1896,Male,18-07-1995,29,Thailand,Hawaii,Mobile,Prime,,117,1,07-09-2023,06-09-2024,Premium,5.08,USD,Card,FALSE,4K,2,1,FALSE
+U1897,Male,18-12-1976,48,Bhutan,Oregon,Laptop,Hotstar,,104,0,13-08-2024,13-08-2025,Basic,11.46,INR,Card,TRUE,HD,4,2,FALSE
+U1898,Female,01-11-1996,28,Russian Federation,Hawaii,Mobile,"Hotstar,Netflix,Prime",,90,0,06-01-2025,06-01-2026,Basic,6.95,INR,UPI,TRUE,HD,4,2,TRUE
+U1899,Other,28-07-2006,18,Tokelau,South Dakota,TV,"Netflix,Prime",,54,1,19-03-2024,19-03-2025,Premium,11.1,USD,UPI,FALSE,4K,3,2,FALSE
+U1900,Other,03-06-1978,47,Gambia,Alaska,Mobile,"Hotstar,Prime",,38,1,17-03-2024,17-03-2025,Premium,6.67,INR,UPI,FALSE,4K,4,4,TRUE
+U1901,Male,24-07-2002,22,Aruba,Michigan,Laptop,"Hotstar,Netflix,Prime",,76,0,27-07-2023,26-07-2024,Standard,6.63,INR,UPI,TRUE,4K,1,1,TRUE
+U1902,Other,04-03-1971,54,Luxembourg,Ohio,Laptop,"Hotstar,Netflix",,6,1,30-11-2023,29-11-2024,Premium,6.5,USD,Wallet,TRUE,SD,2,1,FALSE
+U1903,Other,30-06-1975,50,Poland,Nevada,Laptop,"Hotstar,Prime",,96,0,29-11-2024,29-11-2025,Premium,6,INR,Card,TRUE,4K,3,3,FALSE
+U1904,Other,13-06-1983,42,Taiwan,North Dakota,Mobile,"Hotstar,Netflix",,31,1,24-10-2023,23-10-2024,Basic,17.24,USD,Card,TRUE,SD,3,1,TRUE
+U1905,Other,25-06-2007,18,Bolivia,Mississippi,TV,Netflix,,74,1,03-08-2023,02-08-2024,Standard,18.69,USD,UPI,FALSE,4K,1,1,TRUE
+U1906,Male,15-03-1990,35,Canada,Washington,Mobile,Netflix,,56,1,15-11-2024,15-11-2025,Basic,16.65,INR,Wallet,TRUE,SD,2,1,FALSE
+U1907,Male,23-12-2001,23,Denmark,Virginia,Laptop,"Hotstar,Prime",,47,1,05-09-2024,05-09-2025,Standard,15.58,INR,Card,TRUE,SD,2,1,TRUE
+U1908,Other,02-12-2006,18,Niger,Georgia,TV,Netflix,,67,1,28-01-2025,28-01-2026,Standard,9.45,USD,Wallet,TRUE,SD,3,1,TRUE
+U1909,Other,20-07-1992,32,Benin,Louisiana,Laptop,"Hotstar,Prime",,94,1,12-07-2023,11-07-2024,Basic,8.1,INR,UPI,TRUE,SD,1,1,FALSE
+U1910,Female,11-08-2004,20,Kyrgyz Republic,Wisconsin,TV,"Hotstar,Netflix,Prime",,49,1,17-12-2023,16-12-2024,Basic,14.92,USD,Card,FALSE,HD,2,2,FALSE
+U1911,Male,05-01-1971,54,Palau,Arizona,TV,"Hotstar,Netflix,Prime",,7,1,18-11-2024,18-11-2025,Premium,19.35,USD,Wallet,TRUE,4K,2,1,TRUE
+U1912,Other,30-11-1979,45,Luxembourg,Idaho,TV,"Hotstar,Prime",,41,1,09-01-2025,09-01-2026,Standard,9.99,USD,UPI,FALSE,HD,3,2,FALSE
+U1913,Female,31-07-1990,34,Croatia,California,Mobile,"Hotstar,Netflix,Prime",,75,1,26-10-2023,25-10-2024,Basic,19.74,INR,UPI,FALSE,SD,4,4,TRUE
+U1914,Other,09-01-1992,33,Bouvet Island (Bouvetoya),Texas,Mobile,"Hotstar,Netflix,Prime",,35,0,13-05-2024,13-05-2025,Premium,13.02,INR,Wallet,FALSE,HD,2,1,TRUE
+U1915,Other,22-05-1979,46,Bahrain,Louisiana,TV,Prime,,82,1,01-12-2024,01-12-2025,Standard,13.32,USD,UPI,TRUE,HD,4,3,FALSE
+U1916,Male,27-03-1994,31,Azerbaijan,Washington,Mobile,Hotstar,,7,0,06-07-2024,06-07-2025,Standard,5.67,USD,Wallet,TRUE,4K,3,2,TRUE
+U1917,Female,22-04-1975,50,Montenegro,Louisiana,TV,"Hotstar,Prime",,26,0,29-12-2024,29-12-2025,Standard,12.28,INR,Wallet,TRUE,SD,4,4,TRUE
+U1918,Female,09-05-1965,60,Georgia,Georgia,Laptop,"Hotstar,Prime",,61,1,30-05-2025,30-05-2026,Standard,5.1,INR,Wallet,TRUE,SD,4,2,FALSE
+U1919,Female,06-06-1974,51,Macao,Wisconsin,TV,"Hotstar,Netflix,Prime",,96,0,10-01-2024,09-01-2025,Premium,11.02,INR,Wallet,FALSE,4K,1,1,FALSE
+U1920,Male,27-05-1978,47,Albania,Illinois,Mobile,Prime,,72,1,14-12-2023,13-12-2024,Basic,13.88,USD,UPI,TRUE,HD,4,2,TRUE
+U1921,Female,28-07-1973,51,Ethiopia,Michigan,Mobile,"Hotstar,Netflix,Prime",,37,0,09-12-2023,08-12-2024,Premium,10.25,USD,Card,TRUE,HD,1,1,TRUE
+U1922,Male,26-05-2002,23,Gambia,Virginia,Mobile,"Hotstar,Prime",,75,0,20-03-2024,20-03-2025,Standard,18.48,USD,UPI,FALSE,4K,3,3,FALSE
+U1923,Other,24-12-2001,23,Malaysia,Texas,Mobile,Prime,,14,0,31-10-2023,30-10-2024,Standard,16.39,USD,UPI,TRUE,SD,2,1,FALSE
+U1924,Other,10-04-2005,20,Malta,Utah,Laptop,"Hotstar,Netflix,Prime",,15,1,06-04-2024,06-04-2025,Basic,18.1,INR,UPI,TRUE,SD,4,4,FALSE
+U1925,Other,19-03-1992,33,Iceland,Tennessee,TV,"Hotstar,Prime",,89,1,16-08-2024,16-08-2025,Standard,11.54,USD,Wallet,TRUE,HD,4,2,TRUE
+U1926,Female,29-06-1965,60,Zambia,South Carolina,Mobile,Hotstar,,120,0,25-09-2024,25-09-2025,Premium,14.12,USD,Card,TRUE,4K,1,1,TRUE
+U1927,Other,06-09-1981,43,Nepal,Utah,Mobile,"Hotstar,Netflix",,75,1,03-12-2024,03-12-2025,Standard,12.66,USD,Card,TRUE,HD,3,2,TRUE
+U1928,Female,15-08-1995,29,Hong Kong,Missouri,Mobile,"Hotstar,Netflix,Prime",,86,0,22-07-2024,22-07-2025,Basic,17.5,INR,Card,FALSE,SD,4,3,FALSE
+U1929,Male,09-12-1986,38,Lao People's Democratic Republic,Colorado,Laptop,Prime,,58,1,23-01-2025,23-01-2026,Premium,16.14,INR,Card,FALSE,HD,4,2,TRUE
+U1930,Other,18-11-1997,27,Mali,Nevada,Mobile,"Hotstar,Netflix",,18,1,17-01-2025,17-01-2026,Standard,10.45,INR,Card,FALSE,4K,2,2,TRUE
+U1931,Male,23-02-1973,52,Sierra Leone,Minnesota,TV,Netflix,,101,0,11-09-2023,10-09-2024,Standard,17.88,USD,Card,FALSE,HD,3,2,TRUE
+U1932,Female,14-04-1978,47,Pitcairn Islands,Florida,TV,"Netflix,Prime",,16,0,16-10-2024,16-10-2025,Standard,14.1,USD,Wallet,FALSE,SD,3,1,TRUE
+U1933,Female,23-11-1998,26,Central African Republic,Maryland,Laptop,Hotstar,,58,1,08-07-2024,08-07-2025,Premium,18.03,USD,UPI,TRUE,4K,4,1,FALSE
+U1934,Male,18-02-1980,45,Antarctica (the territory South of 60 deg S),Rhode Island,Laptop,Netflix,,35,1,07-11-2023,06-11-2024,Premium,15.28,USD,Wallet,TRUE,4K,1,1,FALSE
+U1935,Female,30-08-2002,22,Mozambique,Arizona,TV,"Netflix,Prime",,54,0,21-01-2025,21-01-2026,Basic,18.21,USD,Card,FALSE,4K,4,1,FALSE
+U1936,Female,21-10-1985,39,Chad,Wyoming,Laptop,"Hotstar,Netflix",,81,1,16-06-2025,16-06-2026,Standard,6.17,USD,UPI,FALSE,HD,3,2,TRUE
+U1937,Male,29-12-1992,32,French Guiana,Nevada,TV,Prime,,59,0,03-06-2024,03-06-2025,Basic,7.06,INR,UPI,FALSE,HD,4,1,FALSE
+U1938,Male,10-01-1966,59,Kazakhstan,Idaho,TV,"Hotstar,Netflix,Prime",,101,0,29-10-2024,29-10-2025,Standard,6.63,USD,Card,TRUE,HD,1,1,FALSE
+U1939,Other,01-01-1996,29,Sweden,Wisconsin,Laptop,"Hotstar,Netflix,Prime",,25,1,24-03-2024,24-03-2025,Basic,18.22,USD,Card,TRUE,4K,4,1,TRUE
+U1940,Male,11-02-1968,57,Grenada,Florida,Laptop,"Netflix,Prime",,84,0,07-09-2023,06-09-2024,Basic,15.46,INR,Card,FALSE,4K,1,1,FALSE
+U1941,Female,22-08-1994,30,Saudi Arabia,Nebraska,Mobile,"Hotstar,Netflix",,37,0,05-12-2024,05-12-2025,Standard,11.45,USD,UPI,TRUE,HD,2,2,TRUE
+U1942,Female,05-08-1999,25,Cuba,Texas,TV,Hotstar,,104,1,15-12-2023,14-12-2024,Basic,17,USD,UPI,TRUE,SD,4,1,TRUE
+U1943,Female,11-05-1998,27,Botswana,Ohio,Laptop,"Netflix,Prime",,51,0,23-09-2024,23-09-2025,Basic,15.11,USD,Wallet,TRUE,4K,3,1,FALSE
+U1944,Other,23-06-1987,38,Barbados,California,TV,"Hotstar,Prime",,28,0,01-07-2024,01-07-2025,Standard,10.79,USD,Card,TRUE,HD,1,1,TRUE
+U1945,Female,21-12-2003,21,Cameroon,Minnesota,Mobile,"Hotstar,Netflix,Prime",,88,0,23-11-2024,23-11-2025,Basic,7.62,INR,UPI,TRUE,HD,3,2,TRUE
+U1946,Male,06-08-1983,41,Netherlands,Wisconsin,Laptop,Hotstar,,95,0,13-08-2023,12-08-2024,Premium,18.95,USD,Card,TRUE,4K,4,3,TRUE
+U1947,Female,22-08-1971,53,Kazakhstan,Maine,Mobile,"Netflix,Prime",,71,0,12-08-2024,12-08-2025,Premium,6.38,INR,Card,TRUE,4K,1,1,FALSE
+U1948,Female,19-09-2002,22,Gambia,New Jersey,Mobile,"Hotstar,Netflix,Prime",,61,1,02-12-2023,01-12-2024,Basic,10.88,INR,Card,FALSE,HD,2,1,FALSE
+U1949,Female,02-02-1969,56,Faroe Islands,Tennessee,Mobile,"Netflix,Prime",,28,1,17-11-2024,17-11-2025,Basic,7.7,INR,Wallet,FALSE,SD,4,4,TRUE
+U1950,Male,16-06-2003,22,Cote d'Ivoire,Massachusetts,TV,Prime,,69,1,16-06-2024,16-06-2025,Basic,14.49,USD,UPI,FALSE,SD,2,2,FALSE
+U1951,Female,16-12-2005,19,Gambia,Montana,Mobile,Hotstar,,14,1,12-12-2023,11-12-2024,Basic,8.05,USD,Card,TRUE,4K,2,2,FALSE
+U1952,Female,16-08-1987,37,Faroe Islands,Nebraska,Laptop,"Hotstar,Prime",,83,0,22-11-2024,22-11-2025,Standard,19.29,INR,Card,FALSE,HD,4,2,FALSE
+U1953,Female,10-09-2002,22,Ecuador,Delaware,TV,"Hotstar,Netflix,Prime",,77,0,27-12-2023,26-12-2024,Basic,9.93,INR,Card,TRUE,4K,4,1,TRUE
+U1954,Male,05-10-1973,51,Comoros,Rhode Island,Laptop,"Hotstar,Netflix,Prime",,78,0,29-05-2025,29-05-2026,Basic,7.45,USD,Card,FALSE,HD,3,3,TRUE
+U1955,Female,27-05-2000,25,Gibraltar,Virginia,Mobile,Hotstar,,81,0,06-01-2024,05-01-2025,Premium,17.76,USD,Wallet,FALSE,SD,1,1,TRUE
+U1956,Female,09-08-1979,45,Holy See (Vatican City State),Ohio,Mobile,"Hotstar,Netflix,Prime",,46,0,19-03-2025,19-03-2026,Basic,12.9,INR,Wallet,FALSE,HD,1,1,FALSE
+U1957,Other,19-10-1994,30,Serbia,Pennsylvania,Laptop,"Hotstar,Netflix,Prime",,54,0,10-03-2024,10-03-2025,Basic,6.58,USD,UPI,TRUE,HD,3,1,TRUE
+U1958,Female,25-11-1972,52,Ecuador,West Virginia,Laptop,Hotstar,,81,0,06-03-2025,06-03-2026,Premium,16.83,INR,UPI,TRUE,HD,1,1,FALSE
+U1959,Female,04-04-2005,20,French Guiana,Alabama,TV,"Hotstar,Netflix",,6,0,03-01-2024,02-01-2025,Premium,18.64,INR,UPI,FALSE,SD,4,2,TRUE
+U1960,Male,26-05-1993,32,Oman,Ohio,Mobile,Netflix,,118,0,10-10-2024,10-10-2025,Standard,11.5,INR,UPI,FALSE,SD,2,2,FALSE
+U1961,Male,11-09-2002,22,Montserrat,Arkansas,Mobile,"Netflix,Prime",,73,0,11-04-2024,11-04-2025,Standard,19.13,INR,Card,FALSE,HD,4,3,FALSE
+U1962,Male,19-05-1986,39,Finland,New Jersey,Mobile,"Hotstar,Prime",,29,1,01-01-2025,01-01-2026,Premium,13.99,INR,Wallet,FALSE,4K,4,1,FALSE
+U1963,Male,29-06-2005,20,Portugal,Iowa,TV,"Hotstar,Netflix,Prime",,82,0,17-06-2025,17-06-2026,Standard,19.97,USD,Wallet,TRUE,4K,3,1,FALSE
+U1964,Female,21-11-1975,49,Estonia,Hawaii,Laptop,"Hotstar,Netflix,Prime",,109,0,31-12-2023,30-12-2024,Basic,14.05,USD,UPI,FALSE,SD,2,2,TRUE
+U1965,Male,03-11-1993,31,Barbados,Illinois,TV,Hotstar,,108,1,27-02-2025,27-02-2026,Premium,13.52,INR,UPI,FALSE,SD,4,1,TRUE
+U1966,Female,15-11-1989,35,Angola,Michigan,TV,"Hotstar,Netflix,Prime",,86,0,20-02-2024,19-02-2025,Standard,19.76,INR,Wallet,FALSE,4K,1,1,FALSE
+U1967,Other,13-11-1977,47,Cambodia,West Virginia,TV,"Hotstar,Prime",,51,0,23-12-2024,23-12-2025,Standard,17.94,INR,UPI,FALSE,SD,3,3,TRUE
+U1968,Other,03-09-1999,25,Bouvet Island (Bouvetoya),Ohio,Mobile,"Hotstar,Netflix,Prime",,34,1,25-02-2024,24-02-2025,Basic,5.72,USD,Card,TRUE,SD,1,1,FALSE
+U1969,Female,07-06-1996,29,Fiji,Mississippi,TV,Hotstar,,18,1,26-06-2025,26-06-2026,Standard,10.17,USD,UPI,FALSE,HD,4,4,TRUE
+U1970,Male,16-08-1971,53,Congo,Nebraska,TV,"Hotstar,Prime",,12,1,02-03-2025,02-03-2026,Premium,10.4,USD,UPI,FALSE,SD,1,1,TRUE
+U1971,Female,20-10-1997,27,Cape Verde,Michigan,TV,"Hotstar,Netflix",,34,1,24-09-2023,23-09-2024,Standard,11.86,INR,UPI,TRUE,4K,1,1,FALSE
+U1972,Other,17-08-1993,31,Argentina,Arkansas,TV,"Hotstar,Netflix,Prime",,98,1,16-09-2023,15-09-2024,Basic,14.95,INR,Wallet,TRUE,HD,3,2,TRUE
+U1973,Female,18-04-1982,43,Serbia,Louisiana,Laptop,"Hotstar,Netflix,Prime",,39,0,06-11-2023,05-11-2024,Standard,8.97,USD,Card,TRUE,4K,1,1,TRUE
+U1974,Male,13-01-1978,47,Guam,Tennessee,Mobile,"Netflix,Prime",,95,1,04-07-2025,04-07-2026,Premium,19.71,USD,UPI,TRUE,4K,4,3,FALSE
+U1975,Female,12-09-1983,41,Australia,Pennsylvania,Laptop,"Hotstar,Netflix,Prime",,115,1,16-11-2024,16-11-2025,Premium,9.99,USD,Wallet,TRUE,HD,1,1,FALSE
+U1976,Male,07-01-1996,29,New Zealand,New Hampshire,TV,Prime,,38,1,07-12-2023,06-12-2024,Premium,7.17,INR,Card,TRUE,HD,4,4,TRUE
+U1977,Other,25-12-1999,25,Seychelles,California,Laptop,"Hotstar,Netflix,Prime",,60,0,08-02-2024,07-02-2025,Standard,12.17,INR,Card,FALSE,SD,3,3,TRUE
+U1978,Female,21-12-1991,33,Equatorial Guinea,Utah,TV,"Hotstar,Prime",,20,0,02-12-2024,02-12-2025,Standard,14.69,INR,UPI,FALSE,4K,2,1,TRUE
+U1979,Male,19-02-1983,42,Sri Lanka,North Dakota,Laptop,Netflix,,57,0,03-07-2024,03-07-2025,Premium,8.99,INR,Card,FALSE,4K,4,1,TRUE
+U1980,Male,29-01-1969,56,Equatorial Guinea,Maine,TV,"Hotstar,Netflix,Prime",,21,1,26-03-2024,26-03-2025,Premium,5.39,USD,Card,TRUE,SD,3,2,FALSE
+U1981,Male,21-03-1991,34,Namibia,Wyoming,TV,Netflix,,41,1,24-04-2025,24-04-2026,Premium,10.94,INR,Wallet,TRUE,HD,1,1,FALSE
+U1982,Female,22-03-2000,25,Nigeria,North Dakota,Laptop,"Netflix,Prime",,72,1,27-06-2024,27-06-2025,Premium,11.57,INR,Wallet,FALSE,HD,1,1,TRUE
+U1983,Male,20-03-1989,36,Egypt,Nebraska,Mobile,"Hotstar,Netflix,Prime",,23,1,11-07-2024,11-07-2025,Premium,6.04,USD,UPI,FALSE,HD,2,2,TRUE
+U1984,Other,09-11-1976,48,Zambia,Virginia,Mobile,"Hotstar,Prime",,73,0,20-10-2024,20-10-2025,Standard,11.69,USD,Wallet,FALSE,HD,4,2,FALSE
+U1985,Male,16-02-1990,35,Isle of Man,Minnesota,Mobile,"Netflix,Prime",,31,0,16-12-2024,16-12-2025,Basic,10.92,INR,Wallet,TRUE,SD,2,2,FALSE
+U1986,Other,30-05-1985,40,Afghanistan,Wisconsin,Mobile,"Hotstar,Prime",,16,1,27-08-2024,27-08-2025,Standard,12.68,USD,Wallet,TRUE,SD,1,1,TRUE
+U1987,Other,21-12-1993,31,Peru,Connecticut,TV,"Netflix,Prime",,120,1,17-04-2024,17-04-2025,Premium,8.89,USD,Card,TRUE,HD,2,2,FALSE
+U1988,Other,01-05-1966,59,Malaysia,Minnesota,Laptop,"Hotstar,Netflix",,70,0,20-01-2024,19-01-2025,Basic,14.9,INR,UPI,FALSE,4K,3,3,TRUE
+U1989,Male,14-06-1988,37,Guernsey,Arkansas,TV,Hotstar,,46,0,16-05-2025,16-05-2026,Standard,11.76,INR,Wallet,FALSE,HD,1,1,FALSE
+U1990,Female,16-08-2006,18,Malaysia,West Virginia,Mobile,"Hotstar,Netflix,Prime",,10,0,26-07-2023,25-07-2024,Basic,19.74,INR,Wallet,FALSE,4K,2,2,TRUE
+U1991,Female,07-04-1982,43,Mayotte,Louisiana,Laptop,"Hotstar,Netflix,Prime",,24,1,22-11-2023,21-11-2024,Basic,7.94,INR,Card,TRUE,SD,4,3,TRUE
+U1992,Other,27-07-1992,32,Moldova,Wyoming,Mobile,Hotstar,,10,1,03-01-2025,03-01-2026,Premium,5.76,USD,Card,FALSE,SD,4,1,FALSE
+U1993,Male,12-06-1978,47,Panama,Maryland,Mobile,Hotstar,,47,0,30-04-2024,30-04-2025,Premium,6.23,INR,Wallet,TRUE,HD,3,2,FALSE
+U1994,Male,24-01-2002,23,El Salvador,Idaho,Laptop,Netflix,,76,0,18-01-2024,17-01-2025,Standard,16.58,INR,UPI,FALSE,HD,4,3,TRUE
+U1995,Female,28-01-1992,33,Mauritania,Arizona,TV,"Netflix,Prime",,85,1,28-02-2024,27-02-2025,Standard,13.61,INR,UPI,FALSE,4K,3,3,FALSE
+U1996,Other,05-07-1966,59,Paraguay,Georgia,TV,Prime,,69,1,09-12-2024,09-12-2025,Standard,6.51,USD,Wallet,TRUE,HD,1,1,TRUE
+U1997,Other,02-11-1999,25,Belize,Georgia,TV,"Hotstar,Netflix",,83,0,16-03-2025,16-03-2026,Basic,10.95,USD,Wallet,TRUE,SD,2,2,FALSE
+U1998,Female,16-09-1991,33,Uruguay,Michigan,Mobile,Netflix,,27,1,03-12-2024,03-12-2025,Basic,19.67,INR,Card,TRUE,SD,1,1,FALSE
+U1999,Female,27-08-1995,29,Albania,New Mexico,Laptop,"Hotstar,Netflix",,42,1,22-06-2024,22-06-2025,Standard,7.31,USD,Card,TRUE,4K,1,1,TRUE
+U2000,Male,14-01-1972,53,Timor-Leste,Georgia,Mobile,"Hotstar,Netflix,Prime",,59,1,10-03-2025,10-03-2026,Basic,16.01,INR,Card,FALSE,4K,3,1,FALSE
