@@ -1,4 +1,4 @@
-Content_id,IMDB_id,IMDB_Rating,Meta_score,Director,Star1,Star2,awards_won,No_of_nomination,No_of_Votes,Gross_Revenue,SRC_DATE
+Content_id,imdb_id,IMDB_Rating,Meta_score,Director,Star1,Star2,awards_won,No_of_nomination,No_of_Votes,Gross_Revenue,SRC_DATE
 C0001,I0001,9.3,80,Frank Darabont,Tim Robbins,Morgan Freeman,2,11,2343110,346170540,2025-03-29
 C0002,I0002,9.2,100,Francis Ford Coppola,Marlon Brando,Al Pacino,1,20,1620367,310830384,2025-06-01
 C0003,I0003,9,84,Christopher Nolan,Christian Bale,Heath Ledger,4,6,2303232,303803039,2025-04-05
