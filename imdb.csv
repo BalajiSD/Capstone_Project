@@ -1,5 +1,5 @@
 Content_id,IMDB_id,IMDB_Rating,Meta_score,Director,Star1,Star2,awards_won,No_of_nomination,No_of_Votes,Gross_Revenue,SRC_DATE
-C0001,I0001,9.3,80,Frank Darabont,Tim Robbins,Morgan Freeman,2,11,2343110,346170540,2025-03-29
+C0001,I0001,9.3,80,Frank Darabont,Tim Robbins,Morgan Freeman,2,12,2343110,346170540,2025-07-01
 C0002,I0002,9.2,100,Francis Ford Coppola,Marlon Brando,Al Pacino,1,20,1620367,310830384,2025-06-01
 C0003,I0003,9,84,Christopher Nolan,Christian Bale,Heath Ledger,4,6,2303232,303803039,2025-04-05
 C0004,I0004,9,90,Francis Ford Coppola,Al Pacino,Robert De Niro,7,25,1129952,81094155,2025-02-23
@@ -999,3 +999,4 @@ C0997,I0997,7.6,84,George Stevens,Elizabeth Taylor,Rock Hudson,7,17,34075,120905
 C0998,I0998,7.6,85,Fred Zinnemann,Burt Lancaster,Montgomery Clift,9,20,43374,45559345,2025-04-02
 C0999,I0999,7.6,78,Alfred Hitchcock,Tallulah Bankhead,John Hodiak,9,23,26471,11456886,2025-02-09
 C1000,I1000,7.6,93,Alfred Hitchcock,Robert Donat,Madeleine Carroll,2,9,51853,317167845,2025-01-01
+C1001,I1001,10,93,Anu,Dulquer Salman,Mrunal,13,13,51273,954673629,2025-07-01
